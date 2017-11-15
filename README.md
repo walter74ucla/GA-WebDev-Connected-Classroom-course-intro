@@ -427,12 +427,13 @@ Time |Day 1                                      | Day 2                        
 
 #### Week 1 - Fundamentals and Tools
 
- Time | Day 0 |                     Day 1                                       | Day 2                                                         | Day 3                                                | Day  4                                    |
+ Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
- **10:45am Module 2** | [Your learning experience (TEAM, Ali lead)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
- **1:30pm Module 3** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
-**3:00pm Module 4** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]             |
+ **9:00am Warm Ups** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
+ **10:00am Lesson 1** | [Your learning experience (TEAM, Ali lead)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
+ **11:30pm Lab 1** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
+**2:00pm Lesson 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
+**3:30pm Lab 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
 **Homework** | [Lab: Command line (Ben)][1-1E]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
@@ -470,5 +471,5 @@ Time | Monday - Tuesday | Wednesday |Thursday - Friday |
 12:30 | Lunch | Lunch | Lunch |
 1:30 | Afternoon review | Lesson or Lab 2 | Afternoon review |
 2:00 | Lesson 2 | Lesson or Lab 2 | Lesson 2 |
-3:00 | Lab 2 | Outcomes | Lab 2 |
+3:30 | Lab 2 | Outcomes | Lab 2 |
 4:30 | Intro homework, One-on-ones | Get started on homework | Intro homework, One-on-ones |
