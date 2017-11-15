@@ -434,7 +434,7 @@ Time |Day 1                                      | Day 2                        
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
-**Homework** | [Lab: Command line (Ben)][1-1F]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
+**Homework** | [Homework 1][1-1F]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
 [1-1B]: https://git.generalassemb.ly/WDIplus-ATX/culture/blob/master/README.md "Your Learning Experience"
