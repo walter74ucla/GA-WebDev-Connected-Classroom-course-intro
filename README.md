@@ -347,8 +347,6 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 
 
 
-## Unit 1: The Frontend
-
 #### Week 3 - Project 1:  Browser Games
 
 Time | Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
@@ -425,16 +423,17 @@ Time |Day 1                                      | Day 2                        
 [2-5D]: # " "
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
 -->
+## Unit 1: The Frontend
 
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 0 |                     Day 1                                       | Day 2                                                         | Day 3                                                | Day  4                                    |
 ----- | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
- **9:00am Module 1** | MLK   | [Ice breakers][1-1A]                                            | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
- **10:45am Module 2** | MLK    | [Your learning experience (TEAM, Ali lead)][1-1B]          | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
- **1:30pm Module 3** | MLK    | [How the internet works (Alex)][1-1C]      | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
-**3:00pm Module 4** | MLK    | [Navigating the file system (Ben)][1-1D]               | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]             |
-**Homework** | MLK    | [Lab: Command line (Ben)][1-1E] | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
+ **9:00am Module 1** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
+ **10:45am Module 2** | [Your learning experience (TEAM, Ali lead)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
+ **1:30pm Module 3** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
+**3:00pm Module 4** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]             |
+**Homework** | [Lab: Command line (Ben)][1-1E]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
 [1-1B]: # "Your Learning Experience"
