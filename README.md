@@ -1,4 +1,4 @@
-# WDI 26 Web Development Immersive
+# WDI Plus ATX Web Development Immersive
 
 
 <!-- ## Unit 4: MEAN Stack
