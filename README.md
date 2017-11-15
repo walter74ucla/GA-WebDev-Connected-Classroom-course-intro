@@ -441,7 +441,7 @@ Time |Day 1                                      | Day 2                        
 [1-1C]: https://git.generalassemb.ly/WDIplus-ATX/command-line-lab/blob/master/README.md "Command Line Lab"
 [1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
-[1-1F]: 
+[1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
 
 [1-2A]: w01/d02/m1-chrome-dev-tools "Chrome Dev Tools"
 [1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
