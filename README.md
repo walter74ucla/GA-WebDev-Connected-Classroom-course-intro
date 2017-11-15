@@ -1,7 +1,7 @@
 # WDI 26 Web Development Immersive
 
 
-<-- ## Unit 4: MEAN Stack
+<!-- ## Unit 4: MEAN Stack
 
 
 #### Week 12: Project 4
