@@ -427,8 +427,8 @@ Time |Day 1                                      | Day 2                        
 
 #### Week 1 - Fundamentals and Tools
 
- Time | Day 1 |                     Day 2                                       | Day 3                                                         | Day 4                                                | Day  5                                    |
------ | -------- | --------------------------------                         | ------------------------------------                  | ------------------------------------     | ---------------------------------------   |
+ Time | Day 1 |    Day 2       | Day 3               | Day 4              | Day  5                                    |
+----- | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
  **9:00am Warm Ups** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
  **10:00am Lesson 1** | [Your learning experience (TEAM, Ali lead)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
  **11:30pm Lab 1** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
