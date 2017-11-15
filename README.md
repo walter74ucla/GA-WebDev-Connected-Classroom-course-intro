@@ -472,7 +472,7 @@ Time | Monday - Tuesday | Wednesday |Thursday - Friday |
 10:00 | Lesson 1 | Lesson 1 | Lesson 1  |
 11:30 | Lab 1 | Lab 1 | Lab 1 |
 12:30 | Lunch | Lunch | Lunch |
-1:30 | Afternoon review | Afternoon review | Afternoon review |
-2:00 | Lesson 2 | Lesson 2 | Lesson 2 |
+1:30 | Afternoon review | Lesson or Lab | Afternoon review |
+2:00 | Lesson 2 | Lesson or Lab | Lesson 2 |
 3:00 | Lab 2 | Outcomes | Lab 2 |
-4:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |
+4:30 | Intro homework, One-on-ones | Get started on homework | Intro homework, One-on-ones |
