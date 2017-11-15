@@ -268,8 +268,6 @@ Time | Day 1                                      | Day 2                       
 **3:00pm Module 4** | Presidents' Day    | [Many to Many Lab (Dani)][5-1D] | [Rock-n-Rails Lab (Ben)][5-2D] | [Asset Pipeline (Ben)][5-3D] | Project 2 Pre-Approval |
 **Homework** | Presidents' Day    | [Finish Lab + Ruby Docs][5-1E] | Finish Lab + [Reading: Sessions / Cookies][5-2E] + [Video: Password Hashing](https://www.youtube.com/watch?v=b4b8ktEV4Bg) | [HW: Heroku Deploy][5-3E] + [Bog App][5-3F] | [Library App][5-4F], [Project 2 Planning][5-4E] |
 
-
-<!--
 Nice to have topics:
 • Heroku
 • JS in Rails
@@ -280,7 +278,6 @@ Nice to have topics:
 
 Notes:
 • "Hitting APIs through a JSON Controller" lesson should demonstrate an async front-end request hitting a Rails back-end controller, that in turn hits an API, which responds, and in turn the Rails back-end responds in JSON to the server.
--->
 
 [5-1A]: w05/d01/m1/ "Intro to Rails"
 [5-1B]: w05/d01/m2-associations/ "Relationships Lesson"
