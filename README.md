@@ -431,16 +431,17 @@ Time |Day 1                                      | Day 2                        
 ----- | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
  **9:00am Warm Ups** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
- **11:30pm Lab 1** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
-**2:00pm Lesson 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
-**3:30pm Lab 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
-**Homework** | [Lab: Command line (Ben)][1-1E]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
+ **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
+**3:30pm Lab 2** | [][1-1E]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
+**Homework** | [Lab: Command line (Ben)][1-1F]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
 [1-1B]: https://git.generalassemb.ly/WDIplus-ATX/culture/blob/master/README.md "Your Learning Experience"
-[1-1C]: w01/d01/m3-how-the-internet-works/readme.md "How the Internet Works"
-[1-1D]: w01/d01/m4-navigating-the-file-system "Navigating the File System"
-[1-1E]: w01/d01/hw-command-line-lab "Lab: Command Line"
+[1-1C]: https://git.generalassemb.ly/WDIplus-ATX/command-line-lab/blob/master/README.md "Command Line Lab"
+[1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
+[1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
+[1-1F]: 
 
 [1-2A]: w01/d02/m1-chrome-dev-tools "Chrome Dev Tools"
 [1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
