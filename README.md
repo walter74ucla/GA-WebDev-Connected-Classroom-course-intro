@@ -430,14 +430,14 @@ Time |Day 1                                      | Day 2                        
  Time | Day 1 |    Day 2       | Day 3               | Day 4              | Day  5                                    |
 ----- | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
  **9:00am Warm Ups** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
- **10:00am Lesson 1** | [Your learning experience (TEAM, Ali lead)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
+ **10:00am Lesson 1** | [Your learning experience (Alex)][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
  **11:30pm Lab 1** | [How the internet works (Alex)][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
 **2:00pm Lesson 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
 **3:30pm Lab 2** | [Navigating the file system (Ben)][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
 **Homework** | [Lab: Command line (Ben)][1-1E]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
-[1-1B]: # "Your Learning Experience"
+[1-1B]: https://git.generalassemb.ly/WDIplus-ATX/culture/blob/master/README.md "Your Learning Experience"
 [1-1C]: w01/d01/m3-how-the-internet-works/readme.md "How the Internet Works"
 [1-1D]: w01/d01/m4-navigating-the-file-system "Navigating the File System"
 [1-1E]: w01/d01/hw-command-line-lab "Lab: Command Line"
