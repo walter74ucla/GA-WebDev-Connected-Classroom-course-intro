@@ -390,7 +390,7 @@ Time |Day 1                                      | Day 2                        
  **9:00am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [Lab: JavaScript calculator (Dani)][2-2A]                |  [Intro to jQuery (Alex)][2-3A]       |      [JS Prototypes(Ben)][2-4A]     | [Flower Power OOP Lab (Ilias)][2-5A]
  **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Lab: JavaScript calculator (Dani)][2-2B]  |    [Intermediate jQuery (Alex)][2-3B]                     |    [More Practice(Ben)][2-4B]    | [Review (TEAM)][2-5B]
 **1:30pm Module 3** |[Callbacks (Ilias)][2-1C]                          |   [Responsive CSS(Ben)][2-2C] |    [Bootstrap intro(Ilias)][2-3C]     |        Outcomes     | [Review (TEAM)][2-5B]
-**3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]                 |  [HTML Forms (Ilias)][2-2D]  | [Lab: Forms + JQuery (Ben)][2-3D] |  [Ajax lesson (Ilias)][2-4C]  | [Create an Issue (Alex)][2-5C]|
+**3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]        |  [HTML Forms (Ilias)][2-2D]  | [Lab: Forms + JQuery (Ben)][2-3D] |  [Ajax lesson (Ilias)][2-4C]  | [Create an Issue (Alex)][2-5C]|
 **Homework** |[Brett Victor: Inventing on Principle][2-1E] | [MicroBlog (Alex)][2-2E]  |  [Microblog Bootstrap Refactor][2-3E] | [Lab: Ajax (Ilias)][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
 
 [2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"  
@@ -427,14 +427,14 @@ Time |Day 1                                      | Day 2                        
 
 #### Week 1 - Fundamentals and Tools
 
- Time | Day 1 |    Day 2       | Day 3               | Day 4              | Day  5                                    |
------ | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Warm Up][1-2A] | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [S][1-4A]             |
- **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
- **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
-**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
-**Homework** | [Homework 1][1-1F]    | [Homework 2][1-2F] | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
+ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Warm Up][1-2A] | [Review Github Homework][1-3A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [S][1-4A]             |
+ **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
+ **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
+**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
+**Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
 [1-1B]: https://git.generalassemb.ly/WDIplus-ATX/culture/blob/master/README.md "Your Learning Experience"
