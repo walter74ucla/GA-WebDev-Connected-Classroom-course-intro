@@ -429,7 +429,7 @@ Time |Day 1                                      | Day 2                        
 
  Time | Day 1 |    Day 2       | Day 3               | Day 4              | Day  5                                    |
 ----- | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A]   |        placeholder                                     | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
+ **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Set Up][1-2A] | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
@@ -443,7 +443,7 @@ Time |Day 1                                      | Day 2                        
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
 
-[1-2A]: w01/d02/m1-chrome-dev-tools "Chrome Dev Tools"
+[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
 [1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
 [1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
