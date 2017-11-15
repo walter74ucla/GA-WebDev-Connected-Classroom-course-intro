@@ -429,12 +429,12 @@ Time |Day 1                                      | Day 2                        
 
  Time | Day 1 |    Day 2       | Day 3               | Day 4              | Day  5                                    |
 ----- | -------- | --------------------------------   | ------------------------------------    | ------------------------------------  | ---------------------------------------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Set Up][1-2A] | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [Debugging in JavaScript (Ilias)][1-4A]             |
- **10:00am Lesson 1** | [Your learning experience][1-1B]    |  placeholder     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
- **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  placeholder    | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
-**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    placeholder            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
-**Homework** | [Homework 1][1-1F]    | placeholder | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
+ **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Warm Up][1-2A] | [Chrome dev tools (Ilias)][1-2A]      |[JS Data types, variables, and arrays (Ben)][1-3A]         | [S][1-4A]             |
+ **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [CSS selector basics (Ben)][1-2B]                | [JavaScript objects (Ben)][1-3B]      | [DOM manipulation and events (Ilias)][1-4B]       |  
+ **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Box model and positioning (Alex)][1-2C]         | Outcomes | [Lab: DOM manipulation LoTR (Ilias)][1-4C]     |
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Lab: CSS website replication (Alex)][1-2D] / 3:00 Outcomes     | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]
+**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???            | [Lab: CSS website replication (Alex)][1-2D]       | [Functions and scope (Ilias)][1-3C] | [Mastering control flow (Alex)][1-4D]   |
+**Homework** | [Homework 1][1-1F]    | [Homework 2][1-2F] | [Lab: Build a website (Alex)][1-2E]  | [Lab: JavaScript functions (Ilias)][1-3D] | [Lab: Tic-Tac-Toe (Alex) ][1-4E]  |
 
 [1-1A]: # "Ice Breakers"  
 [1-1B]: https://git.generalassemb.ly/WDIplus-ATX/culture/blob/master/README.md "Your Learning Experience"
@@ -443,11 +443,12 @@ Time |Day 1                                      | Day 2                        
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
 
-[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
-[1-2B]: w01/d02/m2-css-selector-basics "CSS Selector Basics"
+[1-2A]: # "Warm Up"
+[1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
 [1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
 [1-2E]: w01/d02/hw-website-lab "Lab: Build a website"
+[1-2F]: https://git.generalassemb.ly/WDIplus-ATX/homework-2/blob/master/README.md "Homework 2"
 
 [1-3A]: w01/d03/m1-js-data-types-variables-and-arrays "Data types, Variables and Arrays"
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
