@@ -382,16 +382,19 @@ Time | Day 1                                      | Day 2                       
 [3-5C]: # "Review"
 [3-5D]: # "Happy Hour"
 [3-5E]: w03/d05/hmwk-ruby-prep "Homework: tryruby.org Lessons 1 - 2"
+-->
 
-#### Week 2 - jQuery and Bootstrap
+#### Week 2 - Intermediate JavaScript
 
-Time |Day 1                                      | Day 2                                | Day 3                                      | Day 4                                      | Day 5
------ |--------------------------------           | ------------------------------------ | ------------------------------------       | ---------------------------------------    | -----------------------------------
- **9:00am Module 1** | [Git and GitHub (Alex)][2-1A]                     |      [Lab: JavaScript calculator (Dani)][2-2A]                |  [Intro to jQuery (Alex)][2-3A]       |      [JS Prototypes(Ben)][2-4A]     | [Flower Power OOP Lab (Ilias)][2-5A]
- **10:45am Module 2** |[Lab: Git and GitHub (Alex)][2-1B]                |   [Lab: JavaScript calculator (Dani)][2-2B]  |    [Intermediate jQuery (Alex)][2-3B]                     |    [More Practice(Ben)][2-4B]    | [Review (TEAM)][2-5B]
-**1:30pm Module 3** |[Callbacks (Ilias)][2-1C]                          |   [Responsive CSS(Ben)][2-2C] |    [Bootstrap intro(Ilias)][2-3C]     |        Outcomes     | [Review (TEAM)][2-5B]
-**3:00pm Module 4** | [Lab: Practicing callbacks (Ilias)][2-1D]        |  [HTML Forms (Ilias)][2-2D]  | [Lab: Forms + JQuery (Ben)][2-3D] |  [Ajax lesson (Ilias)][2-4C]  | [Create an Issue (Alex)][2-5C]|
-**Homework** |[Brett Victor: Inventing on Principle][2-1E] | [MicroBlog (Alex)][2-2E]  |  [Microblog Bootstrap Refactor][2-3E] | [Lab: Ajax (Ilias)][2-4D] | [Weekend Lab: Fix an issue (Alex)][2-5E]
+Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | [HTML Mockup][1-1A]   | [CSS Mockup][1-2A] | [Responsive Design day 1][1-3A]   |[Responsive Design 2][1-3A]         | [Flexbox][1-4A]             |
+ **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Classes and Factories][1-3B]      | [Space Battle: Full Day Lab][1-4B]       |  
+ **11:30pm Lab 1** | [Object Practice][1-1C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
+**2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
+**3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab]   |
+**Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice
+][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
 
 [2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"  
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
@@ -422,7 +425,7 @@ Time |Day 1                                      | Day 2                        
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
--->
+
 ## Unit 1: The Frontend
 
 #### Week 1 - Fundamentals and Tools
