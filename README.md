@@ -393,8 +393,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **11:30pm Lab 1** | [Object Practice][1-1C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
-**Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice
-][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
+**Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
 
 [2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"  
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
