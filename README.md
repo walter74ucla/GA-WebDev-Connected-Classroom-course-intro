@@ -436,7 +436,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
  Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Warm Up][1-2A] | [Review Github Homework][1-3A]   |[HTML Walkthrough][1-3A]         | [CSS Walkthrough][1-4A]             |
+ **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Shortcuts & Setting you up for Success][1-2A] | [Review Github Homework][1-3A]   |[HTML Walkthrough][1-3A]         | [CSS Walkthrough][1-4A]             |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-2C] | [Designing a small game][1-4C]     |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3C] | [Chaining Functions Together][1-4D]
@@ -450,7 +450,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
 
-[1-2A]: # "Warm Up"
+[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Warm Up"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
 [1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
