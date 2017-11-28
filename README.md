@@ -351,14 +351,14 @@ Time | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [Review Homework][1-1A]   | [Responsive Mockup pt 2][1-2A] | [Whiteboard Wednesdays][1-3A]   |[Animation Warm Up][1-3A]         | [Project Scope and Game Design][1-4A]             |
+ **9:00am Warm Ups** | Review Homework   | [Responsive Mockup pt 2][1-2A] | [Whiteboard Wednesdays][1-3A]   |[Animation Warm Up][1-3A]         | [Project Scope and Game Design][1-4A]             |
  **10:00am Lesson 1** | [DOM Intro][1-1B]    |  [Programmatic DOM]     | [DOM, Events, 'this' Keyword review][1-2B]           | [PokeAsquare][1-3B]      | [Project 1][1-4B]       |  
  **11:30pm Lab 1** | [Vanilla DOM lab][1-1C]     |  [Grids and Pyramids][1-2C]   | [Calculator Lab][1-2C]   | [Shape Clicker Lab][1-3C] | [Project 1][1-4C]     |
 **2:00pm Lesson 2** | [jQuery DOM][1-1D]    |   [Intro to Events][1-2D]  | [Finishing morning lab OR Todo list lesson???][1-2D] / 3:00 Outcomes     | [PokeAsquare Cont. ?][1-3C] | [Project 1 Approvals][1-4D]
 **3:30pm Lab 2** | [jQuery Lab][1-1E]    |   [Finishing morning lab OR TODO list lesson][1-2E] | Outcomes | [Tic Tac Toe Lab][1-3C] | [Project 1][2-4E]   |
 **Homework** | [jQuery Homework][1-1F]  | [jQuery LOTR][1-2F] | [DOM hangman][1-2E]  | [Finish Tic Tac Toe/ watch Live code of Space Invaders][1-3D] | [Project 1][1-4E]  |
 
-[2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"  
+[2-1A]: #
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
 [2-1C]: w02/d01/m3-callbacks/ "Callbacks"
 [2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
