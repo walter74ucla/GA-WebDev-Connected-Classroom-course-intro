@@ -393,14 +393,14 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [HTML Mockup][1-1A]   | [CSS Mockup][1-2A] | [Responsive Design day 1][1-3A]   |[Responsive Design 2][1-3A]         | [Flexbox][1-4A]             |
+ **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][1-2A] | [Whiteboard Wednesdays][1-3A]   |[CSS Mockup][1-3A]         | [Responsive Mockup pt 1][1-4A]             |
  **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Classes and Factories][1-3B]      | [Space Battle: Full Day Lab][1-4B]       |  
  **11:30pm Lab 1** | [Object Practice][1-1C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
 **Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
 
-[2-1A]: w02/d01/m1-gh-branching-and-pages/ "Git and GitHub Branching and Pages"  
+[2-1A]: #
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
 [2-1C]: w02/d01/m3-callbacks/ "Callbacks"
 [2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
