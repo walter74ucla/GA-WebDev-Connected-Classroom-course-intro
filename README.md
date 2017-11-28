@@ -450,14 +450,14 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
 
-[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Warm Up"
+[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
 [1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
 [1-2E]: w01/d02/hw-website-lab "Lab: Build a website"
 [1-2F]: https://git.generalassemb.ly/WDIplus-ATX/homework-2/blob/master/README.md "Homework 2"
 
-[1-3A]: w01/d03/m1-js-data-types-variables-and-arrays "Data types, Variables and Arrays"
+[1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal and more"
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
 [1-3C]: w01/d03/m3-functions-scope "Functions and Scope"
 [1-3D]: w01/d03/m4-functions-lab "Lab: JavaScript functions"
