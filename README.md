@@ -122,6 +122,11 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4D]: w01/d04/m4-control-flow "Mastering Control Flow"
 [1-4E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
 
+[1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
+[1-5B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
+[1-5C]: w01/d04/m3-LoTR-lab "Lab: DOM Manipulation LoTR"
+[1-5D]: w01/d04/m4-control-flow "Mastering Control Flow"
+[1-5E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
 #### Daily Schedule Overview
 
 Time | Monday - Tuesday | Wednesday |Thursday - Friday |
