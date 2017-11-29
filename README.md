@@ -96,7 +96,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** | Ice breakers | [Shortcuts & Setting you up for Success][1-2A] | [Review Github, Terminal & more][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
- **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-2C] | [Designing a small game][1-4C]     |
+ **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3C] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3C] | [Problem Solving][1-4D]   |
@@ -111,7 +111,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
-[1-2C]: w01/d02/m3-box-model-and-positioning "Box Model and Positioning"
+[1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays/blob/master/README.md "Problem solving with loops, conditionals & arrays"
 [1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
 [1-2E]: w01/d02/hw-website-lab "Lab: Build a website"
 [1-2F]: https://git.generalassemb.ly/WDIplus-ATX/homework-2/blob/master/README.md "Homework 2"
