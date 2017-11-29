@@ -98,7 +98,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3C] | [Chaining Functions Together][1-4D]
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3C] | [Problem Solving][1-4D]   |
 **Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [Refresh from today + CSS Video][1-3D] | [Make a game/ space battle & HTÂL CSS videos & mockup][1-4E]  |
 
@@ -119,7 +119,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
-[1-3D]: w01/d03/m4-functions-lab "Lab: JavaScript functions"
+[1-3D]: https://git.generalassemb.ly/WDIplus-ATX/Scope/blob/master/README.md "Scope"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor" 
 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
