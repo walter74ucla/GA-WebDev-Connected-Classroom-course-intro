@@ -124,7 +124,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
-[1-4C]: w01/d04/m3-LoTR-lab "Lab: DOM Manipulation LoTR"
+[1-4C]: https://git.generalassemb.ly/WDIplus-ATX/Designing-a-Small-Game/blob/master/README.md "Designing a small game"
 [1-4D]: w01/d04/m4-control-flow "Mastering Control Flow"
 [1-4E]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
 
