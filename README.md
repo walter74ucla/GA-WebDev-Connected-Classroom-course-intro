@@ -112,7 +112,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays/blob/master/README.md "Problem solving with loops, conditionals & arrays"
-[1-2D]: w01/d02/m4-CSS-lab "Lab:  CSS website replication"
+[1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
 [1-2E]: w01/d02/hw-website-lab "Lab: Build a website"
 [1-2F]: https://git.generalassemb.ly/WDIplus-ATX/homework-2/blob/master/README.md "Homework 2"
 
@@ -120,7 +120,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
 [1-3C]: w01/d03/m3-functions-scope "Functions and Scope"
 [1-3D]: w01/d03/m4-functions-lab "Lab: JavaScript functions"
-[1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor"
+[1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor" 
 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
