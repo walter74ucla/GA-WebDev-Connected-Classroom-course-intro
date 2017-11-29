@@ -118,7 +118,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
-[1-3C]: w01/d03/m3-functions-scope "Functions and Scope"
+[1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
 [1-3D]: w01/d03/m4-functions-lab "Lab: JavaScript functions"
 [1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor" 
 
