@@ -120,7 +120,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-3B]: w01/d03/m2-javascript-objects "JavaScript Objects"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
 [1-3D]: https://git.generalassemb.ly/WDIplus-ATX/Scope/blob/master/README.md "Scope"
-[1-3E]: https://vimeo.com/36579366 "Inventing on Principle, Bret Victor" 
+[1-3E]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
