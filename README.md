@@ -93,7 +93,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
  Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A]   | [Shortcuts & Setting you up for Success][1-2A] | [Review Github, Terminal & more][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
+ **9:00am Warm Ups** | Ice breakers | [Shortcuts & Setting you up for Success][1-2A] | [Review Github, Terminal & more][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-2C] | [Designing a small game][1-4C]     |
