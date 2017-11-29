@@ -98,7 +98,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github troubleshooting & homework submission][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3E] | [Problem Solving][1-4E]   |
 **Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [Refresh from today + CSS Video][1-3D] | [Make a game/ HTML, CSS, videos & mockup][1-4F]  |
 
@@ -132,7 +132,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
 [1-5C]: w01/d04/m3-LoTR-lab "Lab: DOM Manipulation LoTR"
-[1-5D]: w01/d04/m4-control-flow "Mastering Control Flow"
+[1-5D]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Troubleshoot-Practice/blob/master/README.md "Git - Github practice and troubleshooting"
 [1-5E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
 #### Daily Schedule Overview
 
