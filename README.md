@@ -8,6 +8,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [DOM Intro][1-1B]    |  [Programmatic DOM]     | [DOM, Events, 'this' Keyword review][1-2B]           | [PokeAsquare][1-3B]      | [Project 1][1-4B]       |  
  **11:30pm Lab 1** | [Vanilla DOM lab][1-1C]     |  [Grids and Pyramids][1-2C]   | [Calculator Lab][1-2C]   | [Shape Clicker Lab][1-3C] | [Project 1][1-4C]     |
+**1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [jQuery DOM][1-1D]    |   [Intro to Events][1-2D]  | [Finishing morning lab OR Todo list lesson???][1-2D] / 3:00 Outcomes     | [PokeAsquare Cont. ?][1-3C] | [Project 1 Approvals][1-4D]
 **3:30pm Lab 2** | [jQuery Lab][1-1E]    |   [Finishing morning lab OR TODO list lesson][1-2E] | Outcomes | [Tic Tac Toe Lab][1-3C] | [Project 1][2-4E]   |
 **Homework** | [jQuery Homework][1-1F]  | [jQuery LOTR][1-2F] | [DOM hangman][1-2E]  | [Finish Tic Tac Toe/ watch Live code of Space Invaders][1-3D] | [Project 1][1-4E]  |
@@ -51,6 +52,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Classes and Factories][1-3B]      | [Space Battle: Full Day Lab][1-4B]       |  
  **11:30pm Lab 1** | [Object Practice][1-1C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
+**1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
 **Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
@@ -95,6 +97,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [Your learning experience][1-1B]    |  Tools and Set Up     | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-2C] | [Designing a small game][1-4C]     |
+**1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   Git & Github troubleshooting & homework submission            | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3C] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3C] | [Problem Solving][1-4D]   |
 **Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [Refresh from today + CSS Video][1-3D] | [Make a game/ space battle & HTÂL CSS videos & mockup][1-4E]  |
