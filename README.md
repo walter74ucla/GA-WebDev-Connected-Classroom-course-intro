@@ -114,7 +114,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays/blob/master/README.md "Problem solving with loops, conditionals & arrays"
 [1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
-[1-2E]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-Loops-Conditionals/blob/master/README.md "Arrays Loops & Conditionals"
+[1-2E]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Arrays Loops & Conditionals"
 [1-2F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Homework 2"
 
 [1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
