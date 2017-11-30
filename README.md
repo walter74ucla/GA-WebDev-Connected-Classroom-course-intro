@@ -108,7 +108,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-1C]: https://git.generalassemb.ly/WDIplus-ATX/command-line-lab/blob/master/README.md "Command Line Lab"
 [1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
-[1-1F]: https://git.generalassemb.ly/WDIplus-ATX/homework-1/blob/master/README.md "Homework 1"
+[1-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/README.md "Homework 1"
 
 [1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/spectacle-cl-shortcuts-atom/blob/master/README.md "Set Up"
