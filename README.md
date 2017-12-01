@@ -97,7 +97,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** | [Ice breakers][1-1A] | [Shortcuts & Setting you up for Success][1-2A] | [Shortcuts and Typing Practice][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [Course Overview and How the Internet Works][1-1B]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [String & array methods, arrow functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
- **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  Git & Github Lab   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
+ **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
@@ -133,7 +133,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
-[1-5C]: w01/d04/m3-LoTR-lab "Lab: DOM Manipulation LoTR"
+[1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab 'Git and Github Lab'
 [1-5D]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Git and Github cont."
 [1-5E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
 #### Daily Schedule Overview
