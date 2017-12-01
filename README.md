@@ -32,13 +32,13 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [3-3F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'DOM Hangman'
+[3-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'Finish Tic Tac Toe/ watch Live code of Space Invaders'
 
 [2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
 [2-4E]: # " "
-[3-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'Finish Tic Tac Toe/ watch Live code of Space Invaders'
 [2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
 [2-5B]: # "Review"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
