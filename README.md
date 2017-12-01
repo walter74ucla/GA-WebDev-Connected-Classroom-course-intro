@@ -11,7 +11,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [jQuery DOM][1-1D]    |   [Intro to Events][1-2D]  | [Finishing morning lab OR Todo list lesson???][1-2D] / 3:00 Outcomes     | [PokeAsquare Cont. ?][1-3C] | [Project 1 Approvals][1-4D]
 **3:30pm Lab 2** | [jQuery Lab][1-1E]    |   [Finishing morning lab OR TODO list lesson][1-2E] | Outcomes | [Tic Tac Toe Lab][1-3C] | [Project 1][2-4E]   |
-**Homework** | [jQuery Homework][3-1F]  | [jQuery LOTR][1-2F] | [DOM hangman][1-2E]  | [Finish Tic Tac Toe/ watch Live code of Space Invaders][1-3D] | [Project 1][1-4E]  |
+**Homework** | [jQuery Homework][3-1F]  | [jQuery LOTR][3-2F] | [DOM hangman][3-3F]  | [Finish Tic Tac Toe/ watch Live code of Space Invaders][3-4F] | Project 1 |
 
 [2-1A]: #
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
@@ -25,19 +25,20 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
+[3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'jQuery LOTR'
 
 [2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
 [2-3B]: w02/d03/m2-intermediate-jquery/ "Intermediate jQuery"
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
-[2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
+[3-3F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'DOM Hangman'
 
 [2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
 [2-4E]: # " "
-
+[3-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'Finish Tic Tac Toe/ watch Live code of Space Invaders'
 [2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
 [2-5B]: # "Review"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
