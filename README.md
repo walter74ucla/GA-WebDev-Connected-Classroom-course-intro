@@ -101,7 +101,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
-**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    Some Lab???   | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
+**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    [Git & Github Lab Continued][1-5E]  | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
 **Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [Refresh from today + CSS Video][1-3E] | [Make a game/ HTML, CSS, videos & mockup][1-4F]  |
 
 [1-1A]: https://git.generalassemb.ly/WDIplus-ATX/home/blob/master/welcome.md "Ice Breakers"  
@@ -136,7 +136,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab 'Git and Github Lab'
 [1-5D]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Git and Github cont."
-[1-5E]: w01/d04/hw-tic-tac-toe-lab "Lab: Tic-Tac-Toe"
+[1-5E]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab 'Git and Github lab continued'
 #### Daily Schedule Overview
 
 Time | Monday - Tuesday | Wednesday |Thursday - Friday |
