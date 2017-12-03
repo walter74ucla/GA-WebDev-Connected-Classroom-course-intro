@@ -97,7 +97,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | [Ice breakers][1-1A] | [Shortcuts & Setting you up for Success][1-2A] | [Shortcuts and Typing Practice][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | [Course Overview and How the Internet Works][1-1B]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [Functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
+ **10:00am Lesson 1** | [Course Overview][1-1BA [How the Internet Works][1-1BB]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [Functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
@@ -105,7 +105,8 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **Homework** | [Homework 1][1-1F]  | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [More Function Problems + CSS Video][1-3E] | [Make a game/ HTML, CSS, videos & mockup][1-4F]  |
 
 [1-1A]: https://git.generalassemb.ly/WDIplus-ATX/home/blob/master/welcome.md "Ice Breakers"  
-[1-1B]: https://git.generalassemb.ly/WDIplus-ATX/course-overview-and-intro-to-internet/blob/master/README.md "Your Learning Experience"
+[1-1BA]: https://git.generalassemb.ly/WDIplus-ATX/course-overview/blob/master/README.md "Your Learning Experience"
+[1-1BB] https://git.generalassemb.ly/WDIplus-ATX/how-the-internet-works/blob/master/README.md "How the internet works"
 [1-1C]: https://git.generalassemb.ly/WDIplus-ATX/command-line-lab/blob/master/README.md "Command Line Lab"
 [1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
