@@ -22,7 +22,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[2-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
+[3-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
 [3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'jQuery LOTR'
