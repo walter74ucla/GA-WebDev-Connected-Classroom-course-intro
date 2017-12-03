@@ -67,7 +67,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md
+[2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
 
