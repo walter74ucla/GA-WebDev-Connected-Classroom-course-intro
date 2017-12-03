@@ -53,7 +53,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][1-2A] | [Whiteboard Wednesdays][1-3A]   |[CSS Mockup][1-3A]         | [Responsive Mockup pt 1][1-4A]
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Classes and Factories][1-3B]      | [Space Battle: Full Day Lab][1-4B]       |  
- **11:30pm Lab 1** | [Object Practice][1-1C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
+ **11:30pm Lab 1** | [Object Practice][2-2C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
@@ -67,7 +67,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[2-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
+[2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
 
