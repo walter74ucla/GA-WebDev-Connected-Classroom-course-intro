@@ -106,7 +106,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [1-1A]: https://git.generalassemb.ly/WDIplus-ATX/home/blob/master/welcome.md "Ice Breakers"  
 [1-1BA]: https://git.generalassemb.ly/WDIplus-ATX/course-overview/blob/master/README.md "Your Learning Experience"
-[1-1BB] https://git.generalassemb.ly/WDIplus-ATX/how-the-internet-works/blob/master/README.md "How the internet works"
+[1-1BB]: https://git.generalassemb.ly/WDIplus-ATX/how-the-internet-works/blob/master/README.md "How the internet works"
 [1-1C]: https://git.generalassemb.ly/WDIplus-ATX/command-line-lab/blob/master/README.md "Command Line Lab"
 [1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
