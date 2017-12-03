@@ -135,7 +135,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md 'Git and Github Lab'
-[1-5D]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md "Git and Github cont."
+[1-5D]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github "Git and Github cont."
 [1-5E]: https://git.generalassemb.ly/WDIplus-ATX/kyrell/blob/master/README.md 'Kyrell'
 #### Daily Schedule Overview
 
