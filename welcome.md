@@ -11,8 +11,8 @@
 5. What you would like to get out of this class.
 ## Activity before we get started:
 #### Write a letter to your future (graduated self).
-  * Students will write a letter stating what they would like to get out of the course.
-  * Once you write your letter, put it in a sealed envelope to give to your instructor. 
-  * We'll give them back to you at graduation!
+1. Students will write a letter stating what they would like to get out of the course.
+2. Once you write your letter, put it in a sealed envelope to give to your instructor. 
+3. We'll give them back to you at graduation!
 
 ## OK! Let's get a jump on our first lesson!
