@@ -10,7 +10,7 @@
 4. Something positive you bring to the table in this class.
 5. What you would like to get out of this class.
 ## Activity before we get started:
-####  1. Write a letter to your future (graduated self).
+#### Write a letter to your future (graduated self).
   * Students will write a letter stating what they would like to get out of the course.
   * Once you write your letter, put it in a sealed envelope to give to your instructor. 
   * We'll give them back to you at graduation!
