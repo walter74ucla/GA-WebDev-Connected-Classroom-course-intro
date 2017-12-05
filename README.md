@@ -118,7 +118,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays "Problem solving with loops, conditionals & arrays"
 [1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
 [1-2E]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Arrays Loops & Conditionals"
-[1-2F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Homework 2"
+[1-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Homework 2"
 
 [1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
 [1-3B]: https://git.generalassemb.ly/WDIplus-ATX/functions/blob/master/README.md "Functions"
