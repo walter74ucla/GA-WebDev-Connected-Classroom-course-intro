@@ -117,14 +117,14 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/conditionals-and-loops/blob/master/README.md "Conditionals and Loops"
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays "Problem solving with loops, conditionals & arrays"
 [1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
-[1-2E]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Arrays Loops & Conditionals"
+[1-2E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Arrays Loops & Conditionals"
 [1-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Homework 2"
 
 [1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
 [1-3B]: https://git.generalassemb.ly/WDIplus-ATX/functions/blob/master/README.md "Functions"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
 [1-3D]: https://git.generalassemb.ly/WDIplus-ATX/Scope/blob/master/README.md "Scope"
-[1-3E]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'Refresh from today + CSS Videos'
+[1-3E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Refresh from today + CSS Videos'
 [1-3F]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
@@ -132,7 +132,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4C]: https://git.generalassemb.ly/WDIplus-ATX/Designing-a-Small-Game/blob/master/README.md "Designing a small game"
 [1-4D]: https://git.generalassemb.ly/WDIplus-ATX/Chaining-Functions-Together/blob/master/README.md "Chaining Functions Together"
 [1-4E]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving/blob/master/README.md "Problem Solving"
-[1-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "Make a Game"
+[1-4F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Make a Game"
 
 [1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
