@@ -95,7 +95,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5D]: # " "
 [2-5E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Complete Space Battle: Full Day Lab'
 
--->
+--->
 #### Week 1 - Fundamentals and Tools
 
  Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
