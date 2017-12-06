@@ -59,37 +59,41 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
-**Homework** | [Objects and CSS videos][1-1F]  | [Combining Datatypes and Callbacks Lab][1-2F] | [Object practice][1-2E]  | [Classes Homework][1-3D] | [Complete Space Battle: Full Day Lab][1-4E]  |
+**Homework** | [Objects and CSS videos][2-1F]  | [Combining Datatypes and Callbacks Lab][2-2F] | [Object practice][2-3F]  | [Classes Homework][2-4F] | [Complete Space Battle: Full Day Lab][2-5E]  |
 
 [2-1A]: #
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
 [2-1C]: w02/d01/m3-callbacks/ "Callbacks"
 [2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
 [2-1E]: https://vimeo.com/36579366 "Brett Victor on Vimeo"
+[2-1F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS videos'
 
 [2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
+[2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Combining Datatypes and Callbacks Lab'
 
 [2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
 [2-3B]: w02/d03/m2-intermediate-jquery/ "Intermediate jQuery"
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
+[2-3F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Object Practice'
 
 [2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
 [2-4E]: # " "
+[2-4F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Classes Homework'
 
 [2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
 [2-5B]: # "Review"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
+[2-5E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Complete Space Battle: Full Day Lab'
 --->
 
 #### Week 1 - Fundamentals and Tools
