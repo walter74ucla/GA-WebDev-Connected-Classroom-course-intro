@@ -55,7 +55,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][1-2A] | [Whiteboard Wednesdays][1-3A]   |[CSS Mockup][1-3A]         | [Responsive Mockup pt 1][1-4A]
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Classes and Factories][1-3B]      | [Space Battle: Full Day Lab][1-4B]       |  
- **11:30pm Lab 1** | [Object Practice][2-2C]     |  Datatypes Lab   | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
+ **11:30pm Lab 1** | [Object Practice][2-2C]     |  [Datatypes Lab][2-3C]  | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
@@ -77,7 +77,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
 [2-3B]: w02/d03/m2-intermediate-jquery/ "Intermediate jQuery"
-[2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
+[2-3C]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab 'Datatypes Lab'
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
 [2-3F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Object Practice'
