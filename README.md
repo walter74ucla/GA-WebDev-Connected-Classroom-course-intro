@@ -47,7 +47,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5D]: # " "
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
 
-
+--->
 #### Week 2 - Intermediate JavaScript
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -94,7 +94,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
 [2-5E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Complete Space Battle: Full Day Lab'
---->
+
 
 #### Week 1 - Fundamentals and Tools
 
