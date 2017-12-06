@@ -58,7 +58,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **11:30pm Lab 1** | [Object Practice][2-2C]     |  [Datatypes Lab][2-3C]  | [Problem Solving with Functions][1-2C]         | [Classes Lab][1-2C] | [Space Battle: Full Day Lab][1-4C]     |
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
-**3:30pm Lab 2** | [Solar System Lab][1-1E]    |    Continue Datatypes Lab   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
+**3:30pm Lab 2** | [Solar System Lab][2-1E]    |    [Continue Datatypes Lab][2-2E]   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
 **Homework** | [Objects and CSS videos][2-1F]  | [Combining Datatypes and Callbacks Lab][2-2F] | [Object practice][2-3F]  | [Classes Homework][2-4F] | [Complete Space Battle: Full Day Lab][2-5E]  |
 
 [2-1A]: #
@@ -72,7 +72,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
-[2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
+[2-2E]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab 'Combining Datatypes Lab'
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Combining Datatypes and Callbacks Lab'
 
 [2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
