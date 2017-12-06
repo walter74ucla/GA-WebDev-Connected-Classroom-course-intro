@@ -100,7 +100,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [Course Overview][1-1BA], [How the Internet Works][1-1BB]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [Functions][1-3B]      | [Why JS, input from browser, functions, problem solving for programming][1-4B]       |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Designing a small game][1-4C]     |
-**1:30pm Review** | Review | Review | Review | Review | Review |
+**1:30pm Review** | Review | Review | [Arrays & iterating over them][1-2D] | Review | Review |
 **2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    [Kyrell Game Lab][1-5E]  | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
 **Homework** | [Homework1][1-1C] + Upload a photo to Github + Slack profiles! | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [More Function Problems + CSS Video][1-3E] | [Make a game/ HTML, CSS, videos & mockup][1-4F]  |
