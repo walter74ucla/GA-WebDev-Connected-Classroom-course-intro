@@ -59,7 +59,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Object-ception][1-1D]    |   Callbacks  | [Objects, Callbacks and Iterators][1-2D] / 3:00 Outcomes     | [???][1-3C] | [Space Battle: Full Day Lab][1-4D]
 **3:30pm Lab 2** | [Solar System Lab][2-1E]    |    [Continue Datatypes Lab][2-2E]   | Outcomes | [???][1-3C] | [Space Battle: Full Day Lab][2-4E]   |
-**Homework** | [Objects and CSS videos][2-1F]  | [Combining Datatypes and Callbacks Lab][2-2F] | [Object practice][2-3F]  | [Classes Homework][2-4F] | [Complete Space Battle: Full Day Lab][2-5E]  |
+**Homework** | [Objects and CSS videos][2-1F]  | [Combining Datatypes and Callbacks][2-2F] | [Object practice][2-3F]  | [Classes Homework][2-4F] | [Complete Space Battle: Full Day Lab][2-5E]  |
 
 [2-1A]: #
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
