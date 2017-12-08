@@ -103,7 +103,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | [Course Overview][1-1BA], [How the Internet Works][1-1BB]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [Functions][1-3B]      | Tic Tac Toe Livecode  |  
  **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Psuedo-Coding][1-4C]     |
 **1:30pm Review** | Review | Review | [Arrays & iterating over them][1-2D] | Review | Review |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Chaining Functions Together][1-4D]
+**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Callbacks and Event Listeners][1-4D]
 **3:30pm Lab 2** | [Loops and Errors][1-1E]    |    [Kyrell Game Lab][1-5E]  | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
 **Homework** | [Homework1][1-1C] + Upload a photo to Github + Slack profiles! | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [More Function Problems + CSS Video][1-3E] | [Make a game/ HTML, CSS, videos & mockup][1-4F]  |
 
@@ -132,7 +132,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
 [1-4C]: https://git.generalassemb.ly/WDIplus-ATX/Pseudo-coding "Psuedo-Coding"
-[1-4D]: https://git.generalassemb.ly/WDIplus-ATX/Chaining-Functions-Together/blob/master/README.md "Chaining Functions Together"
+[1-4D]: https://git.generalassemb.ly/WDIplus-ATX/callbacks-and-event-listeners/blob/master/README.md "Callbacks and Event Listeners"
 [1-4E]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving/blob/master/README.md "Problem Solving"
 [1-4F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Make a Game"
 
