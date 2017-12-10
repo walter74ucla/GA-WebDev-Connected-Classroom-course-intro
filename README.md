@@ -65,7 +65,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
 [2-1C]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md 'Combining Datatypes Lab'
 [2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
-[2-1E]: https://vimeo.com/36579366 "Brett Victor on Vimeo"
+[2-1E]: https://git.generalassemb.ly/WDIplus-ATX/Afternoon-lab-solarsystem "Solar System Lab"
 [2-1F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS Videos'
 
 [2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
