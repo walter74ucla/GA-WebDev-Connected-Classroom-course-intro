@@ -2,7 +2,7 @@
 
 ## Unit 1: The Frontend
 <!--
-#### Week 3 - The DOM
+#### Week 3 - API's, Advanced Problem Solving and Project 1
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
@@ -48,7 +48,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
 -->
 
-#### Week 2 - Intermediate JavaScript
+#### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
