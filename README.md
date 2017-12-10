@@ -52,7 +52,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | Whiteboard Wednesdays   |[CSS Mockup][2-3A]         | [Flexbox Froggy][1-4A] |
+ **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | Whiteboard Wednesdays   |[CSS Mockup][2-3A]         | [Flexbox Froggy][2-4A] |
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][1-1B]    |  [Combining Datatypes]     | [Object Methods & Programming Review][1-2B]           | [Space Battle: Full Day Lab][2-3B]      | [Advanced HTML & CSS][1-4B]       |  
  **11:30pm Lab 1** | [Object Practice][2-2C]  |  [Datatypes Lab][2-1C]  | [Problem Solving with Functions][1-2C]         | [Space Battle: Full Day Lab][2-3B] | [Advanced HTML & CSS Lab][1-4C]     |
@@ -81,7 +81,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
 
-[2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
+[2-4A]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
