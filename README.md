@@ -68,7 +68,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-1E]: https://git.generalassemb.ly/WDIplus-ATX/Afternoon-lab-solarsystem "Solar System Lab"
 [2-1F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS Videos'
 
-[2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
+[2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/tuesday/README.md "Html Mockup"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
