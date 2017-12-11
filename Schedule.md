@@ -85,7 +85,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
-[2-4E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "?"
+[2-4E]: https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM "Vanilla DOM Lab"
 
 [2-5A]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [2-5B]: # "Review"
