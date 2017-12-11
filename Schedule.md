@@ -76,7 +76,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Combining Datatypes Homework'
 
 [2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2"
-[2-3B]: https://git.generalassemb.ly/WDIplus-ATX/Space-Battle/blob/master/README.md 'Space Battle Lab'
+[2-3B]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Microblog Pt2'
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
