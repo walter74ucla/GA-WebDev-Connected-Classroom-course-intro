@@ -22,7 +22,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-1E]: https://vimeo.com/36579366 "Brett Victor on Vimeo"
 [3-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "jQuery Homework"
 
-[2-2A]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
+[2-2A]: # "Tuesday Warm uP"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [3-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
@@ -52,7 +52,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup][2-3A]   |Whiteboard Thursday         | [Flexbox Froggy][2-4A] |
+ **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup][2-3A]   |Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes]     | [Advanced HTML & CSS][2-2B]           | [Intro to jQuery][2-3B]      | [jQuery Todo List: Full Day Lab][1-4B]       |  
  **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Advanced HTML & CSS LAB][2-2C]         | [Forms and jQuery Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4C]     |
@@ -68,26 +68,26 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-1E]: https://git.generalassemb.ly/WDIplus-ATX/Afternoon-lab-solarsystem "Solar System Lab"
 [2-1F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS Videos'
 
-[2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/tuesday/README.md "Html Mockup"
+[2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday "Html Mockup 2"
 [2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
 [2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
 [2-2D]: w02/d02/m4-html-forms "HTML Forms"
 [2-2E]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md "Continued Combining Datatypes"
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Combining Datatypes Homework'
 
-[2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "CSS Mockup"
+[2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2"
 [2-3B]: https://git.generalassemb.ly/WDIplus-ATX/Space-Battle/blob/master/README.md 'Space Battle Lab'
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
 
-[2-4A]: http://flexboxfroggy.com/ "Flexbox Froggy"
+[2-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"   
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
 [2-4C]: w02/d04/m3-ajax/ "AJAX"
 [2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
 [2-4E]: https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM/blob/master/README.md "Vanilla DOM Lab"
 
-[2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
+[2-5A]: http://flexboxfroggy.com/ "Flexbox Froggy"
 [2-5B]: # "Review"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
