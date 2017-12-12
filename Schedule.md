@@ -52,7 +52,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [Create a 404 ][2-3A]   | [Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
+ **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup ][2-3A]   | [Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes: Object-ception][2-2B]     | [Advanced HTML & CSS][2-3B] | [Intro to jQuery][2-4B]      | [jQuery Todo List: Full Day Lab][1-5B]       |  
  **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Create a 404 Page][2-22C]         | [Forms and jQuery Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4C]     |
