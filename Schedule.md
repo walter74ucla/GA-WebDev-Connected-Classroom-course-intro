@@ -59,7 +59,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review | Vanilla DOM Lab | Review | Review |
 **2:00pm Lesson 2** | [Objects Pt. 2][2-1D]    |   [LocalStorage & Iterators][2-2D]  | [Vanilla DOM Lab][2-4E] / 3:00 Outcomes     | [Bootstap and jQuery refactor][2-3B] | [jQuery Todo List: Full Day Lab][2-4D]
 **3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Afternoon Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4E]   |
-**Homework** | [JS Datatypes][2-1F]  | [MicroBlog Pt. 1][2-2F] | [Day 3 Homework][2-4E]  | [MicroBlog Pt. 2][2-3B] | [Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy][2-2F]  |
+**Homework** | [JS Datatypes][2-1F]  | [MicroBlog Pt. 1][2-2F] | [Portfolio Page][2-4E]  | [MicroBlog Pt. 2][2-3B] | [Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy][2-2F]  |
 
 [2-1A]: #
 [2-1B]: https://git.generalassemb.ly/WDIplus-ATX/Objects/tree/master "JavaScript Objects"
