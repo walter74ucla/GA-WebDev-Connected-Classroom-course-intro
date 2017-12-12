@@ -71,7 +71,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday "Html Mockup 2"
 [2-2B]: https://git.generalassemb.ly/WDIplus-ATX/object-ception/blob/master/README.md "Object-ception"
 [2-2C]: https://git.generalassemb.ly/WDIplus-ATX/Objects-lab/blob/master/README.md "Objects-lab"
-[2-2D]: w02/d02/m4-html-forms "HTML Forms"
+[2-2D]: https://git.generalassemb.ly/WDIplus-ATX/local-storage-and-iterators "Local Storage and Iterators"
 [2-2E]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md "Continued Combining Datatypes"
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Combining Datatypes Homework'
 
