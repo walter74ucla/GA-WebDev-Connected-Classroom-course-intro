@@ -76,7 +76,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'MicroBlog'
 
 [2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2"
-[2-3B]: https://git.generalassemb.ly/WDIplus-ATX/advanced-html-and-css 'Advanced HTML and CSS'
+[2-3B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-bootstrap 'Intro to Bootstrap'
 [2-3C]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'Continue Building Microblog'
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
