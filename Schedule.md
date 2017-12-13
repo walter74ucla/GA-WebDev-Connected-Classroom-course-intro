@@ -70,13 +70,13 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday "Html Mockup 2"
 [2-2B]: https://git.generalassemb.ly/WDIplus-ATX/object-ception/blob/master/README.md "Object-ception"
-[2-22C]: https://git.generalassemb.ly/WDIplus-ATX/create-a-404-page/blob/master/README.md
+[2-2C]: https://git.generalassemb.ly/WDIplus-ATX/create-a-404-page/blob/master/README.md
 [2-2D]: https://git.generalassemb.ly/WDIplus-ATX/local-storage-and-iterators "Local Storage and Iterators"
 [2-2E]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md "Continued Combining Datatypes"
 [2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'MicroBlog'
 
 [2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2"
-[2-3B]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'MicroBlog Pt2'
+[2-3B]: https://git.generalassemb.ly/WDIplus-ATX/advanced-html-and-css 'Advanced HTML and CSS'
 [2-3C]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-LocalStorage-and-Bootstrap 'jQuery LocalStorage & Bootstrap'
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
