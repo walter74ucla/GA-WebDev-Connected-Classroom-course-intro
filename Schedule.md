@@ -55,7 +55,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup ][2-3A]   | [Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
  **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes: Object-ception][2-2B]     | [Advanced HTML & CSS][2-3B] | [Intro to jQuery][2-4B]      | [jQuery Todo List: Full Day Lab][2-5B]       |  
- **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Create a 404 Page][2-22C]         | [Forms and jQuery Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4C]     |
+ **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Create a 404 Page][2-22C]         | [jQuery Events Lab][2-3F] | [jQuery Todo List: Full Day Lab][2-4C]     |
 **1:30pm Review** | Review | Review | Vanilla DOM Lab | Review | Review |
 **2:00pm Lesson 2** | [Objects Pt. 2][2-1D]    |   [LocalStorage & Iterators][2-2D]  | [Vanilla DOM Lab][2-4E] / 3:00 Outcomes     | [Bootstap and jQuery refactor][2-3B] | [jQuery Todo List: Full Day Lab][2-4D]
 **3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Afternoon Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4G]   |
@@ -80,6 +80,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
 [2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
 [2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
+[2-3F]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Events-Lab/blob/master/README.md 'jQuery Events'
 
 [2-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"   
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
