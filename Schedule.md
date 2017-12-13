@@ -54,11 +54,11 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup ][2-3A]   | [Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
- **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes: Object-ception][2-2B]     | [Advanced HTML & CSS][2-3B] | [Intro to jQuery][2-4B]      | [jQuery Todo List: Full Day Lab][1-5B]       |  
+ **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes: Object-ception][2-2B]     | [Advanced HTML & CSS][2-3B] | [Intro to jQuery][2-4B]      | [jQuery Todo List: Full Day Lab][2-5B]       |  
  **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Create a 404 Page][2-22C]         | [Forms and jQuery Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4C]     |
 **1:30pm Review** | Review | Review | Vanilla DOM Lab | Review | Review |
 **2:00pm Lesson 2** | [Objects Pt. 2][2-1D]    |   [LocalStorage & Iterators][2-2D]  | [Vanilla DOM Lab][2-4E] / 3:00 Outcomes     | [Bootstap and jQuery refactor][2-3B] | [jQuery Todo List: Full Day Lab][2-4D]
-**3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Afternoon Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4E]   |
+**3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Afternoon Lab][2-3B] | [jQuery Todo List: Full Day Lab][2-4G]   |
 **Homework** | [JS Datatypes][2-1F]  | [MicroBlog Pt. 1][2-2F] | [Portfolio Page][2-4F]  | [MicroBlog Pt. 2][2-3B] | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy <!--[2-2F]-->  |
 
 [2-1A]: #
@@ -83,13 +83,14 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [2-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"   
 [2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
-[2-4C]: w02/d04/m3-ajax/ "AJAX"
-[2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
+[2-4C]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
+[2-4D]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 [2-4E]: https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM "Vanilla DOM Lab"
 [2-4F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Portfolio Homework'
+[2-4G]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 
 [2-5A]: http://flexboxfroggy.com/ "Flexbox Froggy"
-[2-5B]: # "Review"
+[2-5B]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
