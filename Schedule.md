@@ -83,7 +83,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-3F]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Events-Lab/blob/master/README.md 'jQuery Events'
 
 [2-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"   
-[2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
+[2-4B]: https://git.generalassemb.ly/WDIplus-ATX/Intro-to-jQuery/blob/master/README.md "Intro to jQuery"
 [2-4C]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 [2-4D]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 [2-4E]: https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM "Vanilla DOM Lab"
