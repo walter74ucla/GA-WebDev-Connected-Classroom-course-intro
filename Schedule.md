@@ -13,7 +13,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review | Review | Review | Review |
 **2:00pm Lesson 2** | [Sass][3-1D]    |   [AJAX $.post][3-2D]  | [OOP MicroBlog Live Code][3-2D] / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
 **3:30pm Lab 2** | [Lab][3-1E]    |   [Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
-**Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
+**Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP + Bonus JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
 
 [3-1A]:#
 [3-1B]:#
