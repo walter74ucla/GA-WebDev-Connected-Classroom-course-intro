@@ -6,47 +6,47 @@
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Review Homework   | [Responsive Mockup pt 2][1-2A] | [Whiteboard Wednesdays][1-3A]   |[Animation Warm Up][1-3A]         | [Project Scope and Game Design][1-4A]|
+ **9:00am Warm Ups** | Review Homework   | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]   |[Warm Up][3-4A]  | [Project 1 Plan Share][3-5A]|
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | [CSS Animate][1-1B]    |  [Programmatic DOM]     | [DOM, Events, 'this' Keyword review][1-2B]           | [PokeAsquare][1-3B]      | [Project 1][1-4B]       |  
- **11:30pm Lab 1** | [Animated 404 Lab][1-1C]     |  [Grids and Pyramids][1-2C]   | [Calculator Lab][1-2C]   | [Shape Clicker Lab][1-3C] | [Project 1][1-4C]     |
+ **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX $.get][3-2B]     | [Constructors & .prototype][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
+ **11:30pm Lab 1** | [Lab][3-1C]     |  [Lab][3-2C]   | [Flower Power OOP Lab][3-2C]   | [Project 1 Intro][1-3C] | Project 1 |
 **1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | [jQuery DOM][1-1D]    |   [Intro to Events][1-2D]  | [Finishing morning lab OR Todo list lesson???][1-2D] / 3:00 Outcomes     | [PokeAsquare Cont. ?][1-3C] | [Project 1 Approvals][1-4D]
-**3:30pm Lab 2** | [jQuery Lab][1-1E]    |   [Finishing morning lab OR TODO list lesson][1-2E] | Outcomes | [Tic Tac Toe Lab][1-3C] | [Project 1][2-4E]   |
-**Homework** | [jQuery Homework][3-1F]  | [jQuery LOTR][3-2F] | [DOM hangman][3-3F]  | [Finish Tic Tac Toe/ watch Live code of Space Invaders][3-4F] | Project 1 |
+**2:00pm Lesson 2** | [Sass][3-1D]    |   [AJAX $.post][3-2D]  | [OOP MicroBlog Live Code][3-2D] / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
+**3:30pm Lab 2** | [Lab][3-1E]    |   [Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
+**Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
 
-[2-1A]: #
-[2-1B]: w02/d01/m2-gh-lab/ "Git and GitHub lab"
-[2-1C]: w02/d01/m3-callbacks/ "Callbacks"
-[2-1D]: w02/d01/m4-building-iterators/ "Callbacks lab"
-[2-1E]: https://vimeo.com/36579366 "Brett Victor on Vimeo"
-[3-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo "jQuery Homework"
+[3-1A]:#
+[3-1B]:#
+[3-1C]:#
+[3-1D]:#
+[3-1E]:#
+[3-1F]:#
 
-[2-2A]: # "Tuesday Warm uP"
-[2-2B]: w02/d02/m1-js-calculator-lab/ "JavaScript calculator Lab"
-[3-2C]: w02/d02/m3-css-responsive-design/ "Responsive CSS"
-[2-2D]: w02/d02/m4-html-forms "HTML Forms"
-[2-2E]: w02/d02/hmwk-microblog/ "Microblog Lab"
-[3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'jQuery LOTR'
+[3-2A]:#
+[3-2B]:#
+[3-2C]:#
+[3-2D]:#
+[3-2E]:#
+[3-2F]:#
 
-[2-3A]: w02/d03/m1-intro-jquery/ "Intro to jQuery"
-[2-3B]: w02/d03/m2-intermediate-jquery/ "Intermediate jQuery"
-[2-3C]: w02/d03/m3-bootstrap/ "Bootstrap Intro"
-[2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
-[3-3F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'DOM Hangman'
-[3-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo 'Finish Tic Tac Toe/ watch Live code of Space Invaders'
+[3-3A]:#
+[3-3B]:#
+[3-3C]:#
+[3-3D]:#
+[3-3F]:#
+[3-4F]:#
 
-[2-4A]: w02/d04/m1-js-prototypes "JS Prototypes"
-[2-4B]: w02/d04/m2-jquery-form-practice "More Practice"
-[2-4C]: w02/d04/m3-ajax/ "AJAX"
-[2-4D]: w02/d04/m4-ajax-lab/ "AJAX Lab"
-[2-4E]: # " "
-[2-5A]: w02/d05/m1-OOP-flower-lab/ "Flower Power OOP Lab"
-[2-5B]: # "Review"
-[2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
-[2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
--->
+[3-4A]:#
+[3-4B]:#
+[3-4C]:#
+[3-4D]:#
+[3-4E]:#
+[3-5A]:#
+[3-5B]:#
+[3-5C]:#
+[3-5D]:#
+[3-5E]:#
+ -->
 
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
