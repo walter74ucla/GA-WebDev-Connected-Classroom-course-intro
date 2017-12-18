@@ -20,7 +20,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-1C]: https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
 [3-1D]:#
 [3-1E]:#
-[3-1F]:#
+[3-1F]:https://git.generalassemb.ly/WDIplus-ATX/CSS-Responsive-Design/blob/master/readme.md 'Responsive CSS'
 
 [3-2A]:#
 [3-2B]:#
