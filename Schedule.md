@@ -1,7 +1,7 @@
 # WDI Plus ATX Web Development Immersive
 
 ## Unit 1: The Frontend
-<!--
+
 #### Week 3 - API's, Advanced Problem Solving and Project 1
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -11,13 +11,13 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX $.get][3-2B]     | [Constructors & .prototype][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
  **11:30pm Lab 1** | [HTML Forms Lab][3-1C]     |  [Lab][3-2C]   | [Flower Power OOP Lab][3-2C]   | [Project 1 Intro][1-3C] | Project 1 |
 **1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | [Sass][3-1D]    |   [AJAX $.post][3-2D]  | [OOP MicroBlog Live Code][3-2D] / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
-**3:30pm Lab 2** | [Lab][3-1E]    |   [Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
+**2:00pm Lesson 2** | Unit 1 Review    |   [AJAX $.post][3-2D]  | [OOP MicroBlog Live Code][3-2D] / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
+**3:30pm Lab 2** | Unit 1 Review    |   [Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
 **Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP + Bonus JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
 
 [3-1A]:#
-[3-1B]:#
-[3-1C]:https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
+[3-1B]: https://git.generalassemb.ly/WDIplus-ATX/HTML-forms-and-animations/blob/master/README.md "Forms and Animations"
+[3-1C]: https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
 [3-1D]:#
 [3-1E]:#
 [3-1F]:#
@@ -46,7 +46,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-5C]:#
 [3-5D]:#
 [3-5E]:#
- -->
+
 
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
