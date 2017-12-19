@@ -27,7 +27,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-2C]: https://git.generalassemb.ly/WDIplus-ATX/Ajax-Lab 'Ajax Lab'
 [3-2D]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.post"
 [3-2E]: https://git.generalassemb.ly/WDIplus-ATX/Ajax-Lab 'Continue AJAX Lab'
-[3-2F]:#
+[3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Currency-converter/blob/master/README.md
 
 [3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
 [3-3B]:#
