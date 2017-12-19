@@ -22,7 +22,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-1E]:#
 [3-1F]:https://git.generalassemb.ly/WDIplus-ATX/CSS-Responsive-Design/blob/master/readme.md 'Responsive CSS'
 
-[3-2A]:#
+[3-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-3/tuesday "Stopwatch Warm Up"
 [3-2B]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.get"
 [3-2C]:#
 [3-2D]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.post"
