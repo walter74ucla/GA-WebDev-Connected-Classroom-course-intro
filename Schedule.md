@@ -6,7 +6,7 @@
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Review Homework   | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]   |[Warm Up][3-4A]  | [Project 1 Plan Share][3-5A]|
+ **9:00am Warm Ups** | Review Homework   | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Project 1 Plan Share][3-5A]|
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX Part 1][3-2B]     | [Object Oriented Programming][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
  **11:30pm Lab 1** | [HTML Forms Lab][3-1C]     |  [AJAX Lab][3-2C]   | [Flower Power OOP Lab][3-2C]   | [Project 1 Intro][1-3C] | Project 1 |
@@ -36,7 +36,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-3F]:#
 [3-4F]:#
 
-[3-4A]:# https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/thursday.md "Warm up"
+[3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/thursday.md "Warm up"
 [3-4B]:#
 [3-4C]:#
 [3-4D]:#
