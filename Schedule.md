@@ -8,10 +8,10 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | Review Homework   | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]   |[Warm Up][3-4A]  | [Project 1 Plan Share][3-5A]|
  **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX Part 1][3-2B]     | [Constructors & .prototype][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
+ **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX Part 1][3-2B]     | [Object Oriented Programming][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
  **11:30pm Lab 1** | [HTML Forms Lab][3-1C]     |  [AJAX Lab][3-2C]   | [Flower Power OOP Lab][3-2C]   | [Project 1 Intro][1-3C] | Project 1 |
 **1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | Unit 1 Review    |   [AJAX Part 2][3-2D]  | [OOP MicroBlog Live Code][3-2D] / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
+**2:00pm Lesson 2** | Unit 1 Review    |   [AJAX Part 2][3-2D]  | OOP Tic Tac Toe Refactor / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
 **3:30pm Lab 2** | Unit 1 Review    |   [Continue AJAX Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
 **Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP + Bonus JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
 
@@ -30,7 +30,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Currency-converter/blob/master/README.md
 
 [3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
-[3-3B]:#
+[3-3B]: https://git.generalassemb.ly/WDIplus-ATX/oop-js/blob/master/README.md
 [3-3C]:#
 [3-3D]:#
 [3-3F]:#
