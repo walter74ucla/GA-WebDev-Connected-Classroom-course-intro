@@ -31,7 +31,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
 [3-3B]: https://git.generalassemb.ly/WDIplus-ATX/oop-js/blob/master/README.md
-[3-3C]:#
+[3-3C]: https://git.generalassemb.ly/WDIplus-ATX/project-1/blob/master/README.md "Project 1!"
 [3-3D]:#
 [3-3F]:#
 [3-4F]:#
