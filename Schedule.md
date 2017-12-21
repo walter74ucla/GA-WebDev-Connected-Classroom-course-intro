@@ -34,7 +34,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-3C]: https://git.generalassemb.ly/WDIplus-ATX/project-1/blob/master/README.md "Project 1!"
 [3-3D]:#
 [3-3F]:#
-[3-4F]:#
+[3-4F]: https://vimeo.com/105955605 'Live Code of Space Invaders'
 
 [3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/thursday/clock-hands/README.md "Thursday Warm up"
 [3-4B]:https://git.generalassemb.ly/WDIplus-ATX/mvp-and-agile/blob/master/README.md "Agile and MVP"
