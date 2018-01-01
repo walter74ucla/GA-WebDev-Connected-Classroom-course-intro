@@ -1,5 +1,52 @@
 # WDI Plus ATX Web Development Immersive
 
+## Unit 2: Intro to the Back End - Node, Express and MongoDB
+
+#### Week 4 - Project 1 Completions, Intro to Node and Express
+
+Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Warm Up][3-5A]|
+ **9:45am Stand Up** | Happy New Year! :confetti_ball: | Stand Up | Stand Up | Stand Up | Stand Up |
+ **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][3-3B]| [Intro To Node and Express][3-4B]      | Serving Static Files in Express |  
+ **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1   | [Express Lab][3-3C] | Static File Lab |
+**1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
+**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][3-3C] | Intro to EJS Templates
+**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][3-3C] | EJS Lab |
+**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][3-3F]  | [RESTful API's part 2][3-4F] | Build a Restful Web App using EJS |
+
+[3-1A]:#
+[3-1B]: https://git.generalassemb.ly/WDIplus-ATX/HTML-forms-and-animations/blob/master/README.md "Forms and Animations"
+[3-1C]: https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
+[3-1D]:#
+[3-1E]:#
+[3-1F]:https://git.generalassemb.ly/WDIplus-ATX/CSS-Responsive-Design/blob/master/readme.md 'Responsive CSS'
+
+[3-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
+[3-2B]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.get"
+[3-2C]: https://git.generalassemb.ly/WDIplus-ATX/Flower-Power-OOP/blob/master/readme.md 'Flower Power Lab'
+[3-2D]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.post"
+[3-2E]: https://git.generalassemb.ly/WDIplus-ATX/Ajax-Lab 'Continue AJAX Lab'
+[3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Currency-converter/blob/master/README.md
+
+[3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
+[3-3B]: https://git.generalassemb.ly/WDIplus-ATX/oop-js/blob/master/README.md
+[3-3C]: https://git.generalassemb.ly/WDIplus-ATX/project-1/blob/master/README.md "Project 1!"
+[3-3D]:#
+[3-3F]:#
+[3-4F]: https://vimeo.com/105955605 'Live Code of Space Invaders'
+
+[3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/thursday/clock-hands/README.md "Thursday Warm up"
+[3-4B]:https://git.generalassemb.ly/WDIplus-ATX/mvp-and-agile/blob/master/README.md "Agile and MVP"
+[3-4C]:#
+[3-4D]:#
+[3-4E]:#
+[3-5A]:#
+[3-5B]:#
+[3-5C]:#
+[3-5D]:#
+[3-5E]:#
+
 ## Unit 1: The Frontend
 
 #### Week 3 - API's, Advanced Problem Solving and Project 1
