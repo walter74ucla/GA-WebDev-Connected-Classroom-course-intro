@@ -15,29 +15,29 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][3-3C] | EJS Lab |
 **Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][3-3F]  | [RESTful API's part 2][3-4F] | Build a Restful Web App using EJS |
 
-[3-1A]:#
-[3-1B]: https://git.generalassemb.ly/WDIplus-ATX/HTML-forms-and-animations/blob/master/README.md "Forms and Animations"
-[3-1C]: https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
-[3-1D]:#
-[3-1E]:#
-[3-1F]:https://git.generalassemb.ly/WDIplus-ATX/CSS-Responsive-Design/blob/master/readme.md 'Responsive CSS'
+[3-1A]: #
+[3-1B]: #
+[3-1C]: #
+[3-1D]: #
+[3-1E]: #
+[3-1F]: #
 
 [3-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
-[3-2B]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.get"
-[3-2C]: https://git.generalassemb.ly/WDIplus-ATX/Flower-Power-OOP/blob/master/readme.md 'Flower Power Lab'
-[3-2D]: https://git.generalassemb.ly/WDIplus-ATX/ajax/blob/master/README.md "AJAX $.post"
-[3-2E]: https://git.generalassemb.ly/WDIplus-ATX/Ajax-Lab 'Continue AJAX Lab'
-[3-2F]: https://git.generalassemb.ly/WDIplus-ATX/Currency-converter/blob/master/README.md
+[3-2B]: #
+[3-2C]: #
+[3-2D]: #
+[3-2E]: #
+[3-2F]: #
 
-[3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
-[3-3B]: https://git.generalassemb.ly/WDIplus-ATX/oop-js/blob/master/README.md
-[3-3C]: https://git.generalassemb.ly/WDIplus-ATX/project-1/blob/master/README.md "Project 1!"
-[3-3D]:#
-[3-3F]:#
-[3-4F]: https://vimeo.com/105955605 'Live Code of Space Invaders'
+[3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
+[3-3B]: #
+[3-3C]: #
+[3-3D]: #
+[3-3F]: #
+[3-4F]: #
 
-[3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-3/thursday/clock-hands/README.md "Thursday Warm up"
-[3-4B]:https://git.generalassemb.ly/WDIplus-ATX/mvp-and-agile/blob/master/README.md "Agile and MVP"
+[3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday/../README.md "Thursday Warm up"
+[3-4B]: #
 [3-4C]:#
 [3-4D]:#
 [3-4E]:#
