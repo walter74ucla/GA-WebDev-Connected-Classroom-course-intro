@@ -6,7 +6,7 @@
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Warm Up][3-5A]|
+ **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up (optional)][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Warm Up][3-5A]|
  **9:45am Stand Up** | Happy New Year! :confetti_ball: | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][3-3B]| [Intro To Node and Express][3-4B]      | Serving Static Files in Express |  
  **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1   | [Express Lab][3-3C] | Static File Lab |
