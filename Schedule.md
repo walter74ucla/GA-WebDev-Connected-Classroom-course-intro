@@ -6,46 +6,46 @@
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up (optional)][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Warm Up][3-5A]|
+ **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up (optional)][4-2A] | [Whiteboard Wednesdays][4-3A]| [Warm Up][4-4A]  | [Warm Up][4-5A]|
  **9:45am Stand Up** | Happy New Year! :confetti_ball: | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][3-3B]| [Intro To Node and Express][3-4B]      | Serving Static Files in Express |  
- **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1   | [Express Lab][3-3C] | Static File Lab |
+ **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | Serving Static Files in Express |  
+ **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1   | [Express Lab][4-3C] | Static File Lab |
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
-**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][3-3C] | Intro to EJS Templates
-**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][3-3C] | EJS Lab |
-**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][3-3F]  | [RESTful API's part 2][3-4F] | Build a Restful Web App using EJS |
+**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-3C] | Intro to EJS Templates
+**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-3C] | EJS Lab |
+**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [RESTful API's part 2][4-4F] | Build a Restful Web App using EJS |
 
-[3-1A]: #
-[3-1B]: #
-[3-1C]: #
-[3-1D]: #
-[3-1E]: #
-[3-1F]: #
+[4-1A]: #
+[4-1B]: #
+[4-1C]: #
+[4-1D]: #
+[4-1E]: #
+[4-1F]: #
 
-[3-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
-[3-2B]: #
-[3-2C]: #
-[3-2D]: #
-[3-2E]: #
-[3-2F]: #
+[4-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
+[4-2B]: #
+[4-2C]: #
+[4-2D]: #
+[4-2E]: #
+[4-2F]: #
 
-[3-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
-[3-3B]: #
-[3-3C]: #
-[3-3D]: #
-[3-3F]: #
-[3-4F]: #
+[4-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
+[4-3B]: #
+[4-3C]: #
+[4-3D]: #
+[4-3F]: #
+[4-4F]: #
 
-[3-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday/../README.md "Thursday Warm up"
-[3-4B]: #
-[3-4C]:#
-[3-4D]:#
-[3-4E]:#
-[3-5A]:#
-[3-5B]:#
-[3-5C]:#
-[3-5D]:#
-[3-5E]:#
+[4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday/../README.md "Thursday Warm up"
+[4-4B]: #
+[4-4C]:#
+[4-4D]:#
+[4-4E]:#
+[4-5A]:#
+[4-5B]:#
+[4-5C]:#
+[4-5D]:#
+[4-5E]:#
 
 ## Unit 1: The Frontend
 
