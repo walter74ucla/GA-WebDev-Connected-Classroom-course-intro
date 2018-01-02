@@ -36,7 +36,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-3F]: #
 [4-4F]: #
 
-[4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday/../README.md "Thursday Warm up"
+[4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
 [4-4B]: #
 [4-4C]:#
 [4-4D]:#
