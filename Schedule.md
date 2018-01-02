@@ -42,7 +42,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-4D]:#
 [4-4E]:#
 
-[4-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/friday.md "Friday Warm up"
+[4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [4-5B]:#
 [4-5C]:#
 [4-5D]:#
