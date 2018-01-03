@@ -31,7 +31,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 [4-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
 [4-3B]: #
-[4-3C]: #
+[4-3C]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST"
 [4-3D]: #
 [4-3F]: #
 [4-4F]: #
