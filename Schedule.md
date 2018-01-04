@@ -13,7 +13,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
 **2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [Intro to EJS Templates][4-5D]
 **3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Lab][4-5E] |
-**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [RESTful API's part 2][4-4F] | [Build a Restful Web App using EJS][4-5F] |
+**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [Build a Restful Web App using EJS][4-5F] |
 
 <!--- MONDAY --->
 [4-1A]: #
@@ -42,7 +42,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md
 [4-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
 [4-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md
-[4-4F]: #
+[4-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
 <!--- FRIDAY --->
 [4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [4-5B]:#
