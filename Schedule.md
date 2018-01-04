@@ -11,42 +11,45 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | Serving Static Files in Express |  
  **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1 Presentation Prep   | [Express Lab][4-3C] | Static File Lab |
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
-**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-3C] | Intro to EJS Templates
-**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-3C] | EJS Lab |
+**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-3D] | Intro to EJS Templates
+**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4D] | EJS Lab |
 **Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [RESTful API's part 2][4-4F] | Build a Restful Web App using EJS |
 
+<!--- MONDAY --->
 [4-1A]: #
 [4-1B]: #
 [4-1C]: #
 [4-1D]: #
 [4-1E]: #
 [4-1F]: #
-
+<!--- TUESDAY --->
 [4-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
 [4-2B]: #
 [4-2C]: #
 [4-2D]: #
 [4-2E]: #
 [4-2F]: #
-
+<!--- WEDNESDAY --->
 [4-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
 [4-3B]: #
-[4-3C]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST"
+[4-3C]: #
 [4-3D]: #
+[4-3E]: #
 [4-3F]: #
-[4-4F]: #
-
+<!--- THURSDAY --->
 [4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
 [4-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
 [4-4C]:#
-[4-4D]:#
-[4-4E]:#
-
+[4-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
+[4-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md
+[4-4F]: #
+<!--- FRIDAY --->
 [4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [4-5B]:#
 [4-5C]:#
 [4-5D]:#
 [4-5E]:#
+[4-5F]:#
 
 ## Unit 1: The Frontend
 
