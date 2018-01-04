@@ -8,12 +8,12 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up (optional)][4-2A] | [Whiteboard Wednesdays][4-3A]| [Warm Up][4-4A]  | [Warm Up][4-5A]|
  **9:45am Stand Up** | Happy New Year! :confetti_ball: | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | Serving Static Files in Express |  
- **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1 Presentation Prep   | [Express Lab][4-3C] | Static File Lab |
+ **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | [Serving Static Files in Express][4-5B] |  
+ **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1 Presentation Prep   | [Express Lab][4-4C] | [Static File Lab][4-5C] |
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
-**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-3D] | Intro to EJS Templates
-**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4D] | EJS Lab |
-**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [RESTful API's part 2][4-4F] | Build a Restful Web App using EJS |
+**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [Intro to EJS Templates][4-5D]
+**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Lab][4-5E] |
+**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [RESTful API's part 2][4-4F] | [Build a Restful Web App using EJS][4-5F] |
 
 <!--- MONDAY --->
 [4-1A]: #
