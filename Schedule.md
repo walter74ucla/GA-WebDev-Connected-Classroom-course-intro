@@ -45,7 +45,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
 <!--- FRIDAY --->
 [4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
-[4-5B]:#
+[4-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
 [4-5C]:#
 [4-5D]:#
 [4-5E]:#
