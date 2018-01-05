@@ -11,7 +11,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | [Serving Static Files in Express][4-5B] |  
  **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1 Presentation Prep   | [Express Lab][4-4C] | [Static File Lab][4-5C] |
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
-**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [EJS Templates] [4-5DD] | [Express Router Lesson][4-5D]
+**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [EJS Templates] [4-5D1] | [Express Router Lesson][4-5D]
 **3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Template Lab][4-5E] |
 **Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [EJS quick lab + Node Lab + Bonus PR][4-5F] |
 
@@ -47,7 +47,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [4-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
 [4-5C]: https://git.generalassemb.ly/WDIplus-ATX/static-asset-lab/blob/master/README.md "Static Asset Lab"
-[4-5DD]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
+[4-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
 [4-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
 [4-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [4-5F]:#
