@@ -13,7 +13,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
 **2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [EJS Templates, Express Router Lesson/Lab][4-5D]
 **3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Templates, Express Router Lesson/Lab][4-5E] |
-**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [Build a Restful Web App using EJS][4-5F] |
+**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [EJS quick lab + Node Lab + Bonus PR][4-5F] |
 
 <!--- MONDAY --->
 [4-1A]: #
