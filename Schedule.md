@@ -50,7 +50,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
 [4-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
 [4-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
-[4-5F]:#
+[4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
 ## Unit 1: The Frontend
 
