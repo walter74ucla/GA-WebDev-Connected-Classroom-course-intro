@@ -2,6 +2,57 @@
 
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
+#### Week 5 - Full CRUD, Full Stack
+
+Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | Warm Up  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
+ **9:45am Stand Up** | Stand Up | Stand Up | Stand Up | Stand Up | Stand Up |
+ **10:00am Lesson 1** | Create + Read |  Intro to Mongo    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5B] |  
+ **11:30pm Lab 1** | create read lab |  Mongo Lab  |  Full Stack Todo Lab   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
+**1:30pm Review** | Review | Review  |  Review | Review | Review |
+**2:00pm Lesson 2** | Update Destroy |  Intro to Mongoose | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
+**3:30pm Lab 2** | Update Destroy Lab |  Mongoose Lab | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
+**Homework** | Homework | Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
+
+<!--- MONDAY --->
+[5-1A]: #
+[5-1B]: #
+[5-1C]: #
+[5-1D]: #
+[5-1E]: #
+[5-1F]: #
+<!--- TUESDAY --->
+[5-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
+[5-2B]: #
+[5-2C]: #
+[5-2D]: #
+[5-2E]: #
+[5-2F]: #
+<!--- WEDNESDAY --->
+[5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
+[5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Basic-Firebase-Tutorial
+[5-3C]: #
+[5-3D]: #
+[5-3E]: #
+[5-3F]: #
+<!--- THURSDAY --->
+[5-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
+[5-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
+[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md
+[5-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
+[5-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md
+[5-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
+<!--- FRIDAY --->
+[5-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
+[5-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
+[5-5C]: https://git.generalassemb.ly/WDIplus-ATX/static-asset-lab/blob/master/README.md "Static Asset Lab"
+[5-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
+[5-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
+[5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
+[5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
+
+
 #### Week 4 - Project 1 Completions, Intro to Node and Express
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
