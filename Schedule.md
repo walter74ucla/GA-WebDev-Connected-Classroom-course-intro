@@ -11,7 +11,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | Create + Read |  Intro to Mongo    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5B] |  
  **11:30pm Lab 1** | [create read lab][5-1C] |  Mongo Lab  |  Full Stack Todo Lab   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
 **1:30pm Review** | Review | Review  |  Review | Review | Review |
-**2:00pm Lesson 2** | Update Destroy |  Intro to Mongoose | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
+**2:00pm Lesson 2** | [Update Destroy][5-1D] |  Intro to Mongoose | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
 **3:30pm Lab 2** | Update Destroy Lab |  Mongoose Lab | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
 **Homework** | Homework | Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
 
@@ -19,7 +19,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
 [5-1B]: #
 [5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master
-[5-1D]: #
+[5-1D]: https://git.generalassemb.ly/WDIplus-ATX/C-R-U-D-LAB/blob/master/README.md "Update Destroy Lab"
 [5-1E]: #
 [5-1F]: #
 <!--- TUESDAY --->
