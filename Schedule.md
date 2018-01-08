@@ -6,7 +6,7 @@
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Warm Up  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
+ **9:00am Warm Ups** | Warm Up[5-1A]  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
  **9:45am Stand Up** | Stand Up | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | Create + Read |  Intro to Mongo    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5B] |  
  **11:30pm Lab 1** | [create read lab][5-1C] |  Mongo Lab  |  Full Stack Todo Lab   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
@@ -16,7 +16,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **Homework** | Homework | Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
 
 <!--- MONDAY --->
-[5-1A]: #
+[5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
 [5-1B]: #
 [5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master
 [5-1D]: #
@@ -30,7 +30,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-2E]: #
 [5-2F]: #
 <!--- WEDNESDAY --->
-[5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/wednesday.md "Whiteboard Wednesday"
+[5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
 [5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Basic-Firebase-Tutorial
 [5-3C]: #
 [5-3D]: #
