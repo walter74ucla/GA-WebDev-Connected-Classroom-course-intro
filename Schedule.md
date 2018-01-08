@@ -13,7 +13,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review  |  Review | Review | Review |
 **2:00pm Lesson 2** | [Update Destroy][5-1D] |  Intro to Mongoose | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
 **3:30pm Lab 2** | Update Destroy Lab |  Mongoose Lab | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
-**Homework** | [Homework] [5-1F]| Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
+**Homework** | [Homework][5-1F]| Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
