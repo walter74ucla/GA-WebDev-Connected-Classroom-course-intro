@@ -23,7 +23,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-1E]: #
 [5-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-5/monday.md
 <!--- TUESDAY --->
-[5-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-4/tuesday ""
+[5-2A]: ""
 [5-2B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongo/blob/master/README.md "Mongo"
 [5-2C]: #
 [5-2D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongoose/blob/master/README.md "Mongoose"
