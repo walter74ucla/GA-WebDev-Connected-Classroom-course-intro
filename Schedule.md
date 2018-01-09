@@ -13,7 +13,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Review | Review  |  Review | Review | Review |
 **2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
 **3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
-**Homework** | [Homework][5-1F]| Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
+**Homework** | [Homework][5-1F]| [Homework: Mongoose Lab Bonuses][5-2F]| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
@@ -28,7 +28,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-2C]: https://git.generalassemb.ly/WDIplus-ATX/Express-generator-and-partials/blob/master/README.md "Partials and Express Generator"
 [5-2D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongoose/blob/master/README.md "Mongoose"
 [5-2E]: #
-[5-2F]: #
+[5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
 [5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Basic-Firebase-Tutorial
