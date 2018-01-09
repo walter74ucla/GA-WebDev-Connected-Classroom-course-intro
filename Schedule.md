@@ -12,7 +12,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  Full Stack Todo Lab   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
 **1:30pm Review** | Review | Review  |  Review | Review | Review |
 **2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | Embedded Relationships / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
-**3:30pm Lab 2** | Update Destroy Lab |  Mongoose Lab | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
+**3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
 **Homework** | [Homework][5-1F]| Homework| [Embedded Relationships Homework][5-3F]  | [Homework][5-4F] | [Continue on lab + Deploy][5-5F] |
 
 <!--- MONDAY --->
@@ -34,7 +34,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Basic-Firebase-Tutorial
 [5-3C]: #
 [5-3D]: #
-[5-3E]: #
+[5-3E]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab/blob/master/README.md
 [5-3F]: #
 <!--- THURSDAY --->
 [5-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
