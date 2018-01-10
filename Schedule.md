@@ -9,7 +9,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **9:00am Warm Ups** | [Warm Up][5-1A]  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
  **9:45am Stand Up** | Stand Up | Stand Up | Stand Up | Stand Up | Stand Up |
  **10:00am Lesson 1** | Create + Read |  [Intro to Mongo][5-2B]    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5B] |  
- **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  Full Stack Todo Lab   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
+ **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  [Full Stack Todo Lab][5-3C]   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
 **1:30pm Review** | Review | Review  |  Review | Review | 1PM - 2PM Guest Speaker Ben Hulan! |
 **2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | [Embedded Relationships][5-3D] / 3:00 Outcomes | [Deploying a Full stack App!][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
 **3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App Lab][5-4E] | [Tunely: Full Stack Group Lab][5-5E] |
@@ -18,7 +18,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
 [5-1B]: #
-[5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master
+[5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master 'Create-Read-Lab'
 [5-1D]: https://git.generalassemb.ly/WDIplus-ATX/C-R-U-D-LAB/blob/master/README.md "Update Destroy Lab"
 [5-1E]: #
 [5-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-5/monday.md
@@ -28,20 +28,20 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-2C]: https://git.generalassemb.ly/WDIplus-ATX/Express-generator-and-partials/blob/master/README.md "Partials and Express Generator"
 [5-2D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongoose/blob/master/README.md "Mongoose"
 [5-2E]: #
-[5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab
+[5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab 'Mongoose Lab'
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
-[5-3B]: #
-[5-3C]: #
+[5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
+[5-3C]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
 [5-3D]: https://git.generalassemb.ly/WDIplus-ATX/mongo-mongoose-relationships "Relationships"
 [5-3E]: #
 [5-3F]: #
 <!--- THURSDAY --->
 [5-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
 [5-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
-[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md
+[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md 'Express Lab'
 [5-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
-[5-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md
+[5-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md 'Intro-to-Rest Lab'
 [5-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
 <!--- FRIDAY --->
 [5-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
