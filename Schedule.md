@@ -44,7 +44,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-4E]: https://git.generalassemb.ly/WDIplus-ATX/HEROKU-EXPRESS/blob/master/README.md "Deploy"
 [5-4F]: #
 <!--- FRIDAY --->
-[5-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
+[5-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/friday.md "Friday Warm up"
 [5-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
 [5-5C]: https://git.generalassemb.ly/WDIplus-ATX/static-asset-lab/blob/master/README.md "Static Asset Lab"
 [5-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
