@@ -31,10 +31,10 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
-[5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Basic-Firebase-Tutorial
+[5-3B]: #
 [5-3C]: #
-[5-3D]: #
-[5-3E]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab/blob/master/README.md
+[5-3D]: https://git.generalassemb.ly/WDIplus-ATX/mongo-mongoose-relationships "Relationships"
+[5-3E]: #
 [5-3F]: #
 <!--- THURSDAY --->
 [5-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
