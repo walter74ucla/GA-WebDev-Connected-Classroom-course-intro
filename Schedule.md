@@ -41,7 +41,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-4B]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
 [5-4C]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
 [5-4D]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
-[5-4E]: #
+[5-4E]: https://git.generalassemb.ly/WDIplus-ATX/HEROKU-EXPRESS/blob/master/README.md "Deploy"
 [5-4F]: #
 <!--- FRIDAY --->
 [5-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
