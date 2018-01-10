@@ -37,7 +37,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-3E]: #
 [5-3F]: #
 <!--- THURSDAY --->
-[5-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
+[5-4A]:http://www.jwstelly.org/BrainTeaser/Problem.php?id=14 "Thursday Warm up"
 [5-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
 [5-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md 'Express Lab'
 [5-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
