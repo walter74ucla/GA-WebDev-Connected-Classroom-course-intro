@@ -38,11 +38,11 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-3F]: #
 <!--- THURSDAY --->
 [5-4A]:http://www.jwstelly.org/BrainTeaser/Problem.php?id=14 "Thursday Warm up"
-[5-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
-[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md 'Express Lab'
-[5-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
-[5-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md 'Intro-to-Rest Lab'
-[5-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
+[5-4B]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
+[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
+[5-4D]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
+[5-4E]: #
+[5-4F]: #
 <!--- FRIDAY --->
 [5-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [5-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
