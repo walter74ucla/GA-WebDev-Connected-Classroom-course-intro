@@ -2,6 +2,57 @@
 
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
+#### Week 6 - Full CRUD, Full Stack
+Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | MLK :pray: | Tunely Demos | [Whiteboard Wednesdays][6-3A]| Project 2  | Project 2|
+ **9:45am Stand Up** | MLK | Tunely Demos | Stand Up | Stand Up | Stand Up |
+ **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B]    |   Optional: [Referenced Relationships and Many to Many][6-3B]| Optional: [Roll your own Auth with BCrypt][6-4B] | Optional: [TDD with Jasmine][6-5C] |  
+ **11:30pm Lab 1** | MLK | [Project 2 Planning][6-2C]  |  Project 2   | Project 2 | Project 2 |
+**1:30pm Review** | MLK | Optional Review With your whole instructional team  |   Project 2 | Project 2 | Project 2 |
+**2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals, Approvals |  Project 2 / 3:00 Outcomes | Project 2 | Project 2
+**3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals, Approvals | Outcomes | Project 2| Project 2 |
+**Homework** | MLK | Project 2 | Project 2 | Project 2 | Project 2 |
+
+<!--- MONDAY --->
+[6-1A]:#
+[6-1B]:#
+[6-1C]:#
+[6-1D]:#
+[6-1E]:#
+[6-1F]:#
+<!--- TUESDAY --->
+[6-2A]:#
+[6-2B]:#
+[6-2C]:#
+[6-2D]:#
+[6-2E]:#
+[6-2F]:#
+<!--- WEDNESDAY --->
+[6-3A]:#
+[6-3B]:#
+[6-3C]:#
+[6-3D]:#
+[6-3E]:#
+[6-3F]:#
+<!--- THURSDAY --->
+[6-4A]:#
+[6-4B]:#
+[6-4C]:#
+[6-4D]:#
+[6-4E]:#
+[6-4F]:#
+<!--- FRIDAY --->
+[6-5A]:#
+[6-5B]:#
+[6-5C]:#
+[6-5C]:#
+[6-5D1]:#
+[6-5D]:#
+[6-5E]:#
+[6-5F]:#
+
+
 #### Week 5 - Full CRUD, Full Stack
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
