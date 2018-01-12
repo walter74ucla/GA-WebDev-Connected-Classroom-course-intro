@@ -37,7 +37,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [6-3F]:#
 <!--- THURSDAY --->
 [6-4A]:#
-[6-4B]:#
+[6-4B]: https://git.generalassemb.ly/gist/alexw/199cc9ac8ff14b022d33063610ebf6f6 "BCrypt"
 [6-4C]:#
 [6-4D]:#
 [6-4E]:#
