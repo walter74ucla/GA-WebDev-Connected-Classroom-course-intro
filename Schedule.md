@@ -8,12 +8,12 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | [Warm Up][5-1A]  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
  **9:45am Stand Up** | Stand Up | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | Create + Read |  [Intro to Mongo][5-2B]    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | Tunely: Full Stack Group Lab |  
- **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  [Full Stack Todo Lab][5-3C]   | [OAuth Lab][5-4C] | Tunely: Full Stack Group Lab |
+ **10:00am Lesson 1** | Create + Read |  [Intro to Mongo][5-2B]    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5C] |  
+ **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  [Full Stack Todo Lab][5-3C]   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
 **1:30pm Review** | Review | Review  |  Review | Review | 1PM - 2PM Guest Speaker Ben Hulan! |
-**2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | [Embedded Relationships][5-3D] / 3:00 Outcomes | [Continue on Oauth with Passport Lab][5-4D] | [Tunely: Full Stack Group Lab][5-5D]
-**3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App][5-4E] | Tunely: Full Stack Group Lab |
-**Homework** | [Homework][5-1F]| [Homework: Mongoose Lab Bonuses][5-2F]| [Embedded Relationships Homework][5-3F]  | Homework Finish OAuth | Continue on lab + Deploy |
+**2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | [Embedded Relationships][5-3D] / 3:00 Outcomes | [Continue on Oauth with Passport Lab][5-4D] | [Tunely: Full Stack Group Lab][5-5C]
+**3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App][5-4E] | [Tunely: Full Stack Group Lab][5-5C] |
+**Homework** | [Homework][5-1F]| [Homework: Mongoose Lab Bonuses][5-2F]| [Embedded Relationships Homework][5-3F]  | Homework Finish OAuth | [Continue on lab][5-5C] + Deploy |
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
@@ -46,6 +46,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!--- FRIDAY --->
 [5-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/friday.md "Friday Warm up"
 [5-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
+[5-5C]: https://git.generalassemb.ly/WDIplus-ATX/Tunely-Lab/blob/master/README.md
 [5-5C]: https://git.generalassemb.ly/WDIplus-ATX/static-asset-lab/blob/master/README.md "Static Asset Lab"
 [5-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
 [5-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
