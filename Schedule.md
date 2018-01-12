@@ -23,8 +23,8 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [6-1F]:#
 <!--- TUESDAY --->
 [6-2A]:#
-[6-2B]:#
-[6-2C]:#
+[6-2B]: https://git.generalassemb.ly/WDIplus-ATX/project-2-express/blob/master/README.md "Project 2"
+[6-2C]: https://git.generalassemb.ly/WDIplus-ATX/project-2-express/blob/master/README.md "Project 2"
 [6-2D]:#
 [6-2E]:#
 [6-2F]:#
