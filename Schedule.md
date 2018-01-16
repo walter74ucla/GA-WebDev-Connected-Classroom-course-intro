@@ -5,14 +5,14 @@
 #### Week 6 - Full CRUD, Full Stack
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | MLK :pray: | Tunely Demos | [Whiteboard Wednesdays][6-3A]| Project 2  | Project 2|
- **9:45am Stand Up** | MLK | Tunely Demos | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B]    |   Optional: [Referenced Relationships and Many to Many][6-3B]| Optional: [Roll your own Auth with BCrypt][6-4B] | Optional: [TDD with Jasmine][6-5C] |  
- **11:30pm Lab 1** | MLK | [Project 2 Planning][6-2C]  |  Project 2   | Project 2 | Project 2 |
-**1:30pm Review** | MLK | Optional Review With your whole instructional team  |   Project 2 | Project 2 | Project 2 |
-**2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals, Approvals |  Project 2 / 3:00 Outcomes | Project 2 | Project 2
-**3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals, Approvals | Outcomes | Project 2| Project 2 |
-**Homework** | MLK | Project 2 | Project 2 | Project 2 | Project 2 |
+ **9:00am Warm Ups** | MLK :pray: |:snowflake: | Project 2 Approvals| [Optional Whiteboard Thursday][6-4A]  | Project 2|
+ **9:45am Stand Up** | MLK | :snowflake:  | Project 2 | Stand Up | Stand Up |
+ **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B] :snowflake:   |  Project 2| Optional: [Roll your own Auth with BCrypt][6-4B] | Optional: [TDD with Jasmine][6-5C] |  
+ **11:30pm Lab 1** | MLK | [Project 2 Planning][6-2C] :snowflake:  |  Project 2   | Project 2 | Project 2 |
+**1:30pm Review** | MLK | Project 2 Planning :snowflake:   |   Project 2 | Optional Review With your whole instructional team | Project 2 |
+**2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals :snowflake: |  Tunely Demos / 3:00 Outcomes | Project 2 | Project 2
+**3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals :snowflake: | Outcomes | Project 2| Project 2 |
+**Homework** | MLK | Project 2  Planning :snowflake: | Project 2 | Project 2 | Project 2 |
 
 <!--- MONDAY --->
 [6-1A]:#
