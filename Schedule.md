@@ -2,14 +2,63 @@
 
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
-#### Week 6 - Full CRUD, Full Stack
+#### Week 7 - Project 2 + Bonus Lessons + Hackathon!
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | MLK :pray: |:snowflake: | Project 2 Approvals| [Optional Whiteboard Thursday][6-4A]  | Project 2|
+ **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon  | Hackathon |
+ **9:45am Stand Up** | Stand Up | Stand Up  | Stand Up | Hackathon | Hackathon |
+ **10:00am Lesson 1** | Project 2 |  Project 2  |  [BCrypt][7-3B]| Hackathon | Hackathon |  
+ **11:30pm Lab 1** | Project 2 | Project 2  |  [TDD + Jasmine][7-3C]   | Hackathon | Hackathon |
+**1:30pm Review** | Project 2 | Project 2   | Unit 2 Review    | Hackathon | Hackathon |
+**2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  Unit 2 Review / 3:00 Outcomes | Hackathon | Hackathon
+**3:30pm Lab 2** | Project 2 |  Project 2 Presentations Cont. | Outcomes | Hackathon| Hackathon |
+**Homework** | Project 2 | Relax | Homework | Hackathon | Homework |
+
+<!--- MONDAY --->
+[7-1A]:#
+[7-1B]:#
+[7-1C]:#
+[7-1D]:#
+[7-1E]:#
+[7-1F]:#
+<!--- TUESDAY --->
+[7-2A]:#
+[7-2B]:#
+[7-2C]:#
+[7-2D]:#
+[7-2E]:#
+[7-2F]:#
+<!--- WEDNESDAY --->
+[7-3A]:#
+[7-3B]:#
+[7-3C]:#
+[7-3D]:#
+[7-3E]:#
+[7-3F]:#
+<!--- THURSDAY --->
+[7-4A]:#
+[7-4B]:#
+[7-4C]:#
+[7-4D]:#
+[7-4E]:#
+[7-4F]:#
+<!--- FRIDAY --->
+[7-5A]:#
+[7-5B]:#
+[7-5C]:#
+[7-5C]:#
+[7-5D]:#
+[7-5E]:#
+[7-5F]:#
+
+#### Week 6 - Project 2
+Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
+----- | -------- | --------------   | ----------    | --------  | ---------   |
+ **9:00am Warm Ups** | MLK :pray: |:snowflake: | Project 2 Approvals| Project 2  | Project 2|
  **9:45am Stand Up** | MLK | :snowflake:  | Project 2 | Stand Up | Stand Up |
- **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B] :snowflake:   |  Project 2| Optional: [Roll your own Auth with BCrypt][6-4B] | Optional: [TDD with Jasmine][6-5C] |  
+ **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B] :snowflake:   |  Project 2| Project 2 | Project 2 |  
  **11:30pm Lab 1** | MLK | [Project 2 Planning][6-2C] :snowflake:  |  Project 2   | Project 2 | Project 2 |
-**1:30pm Review** | MLK | Project 2 Planning :snowflake:   |   Project 2 | Optional Review With your whole instructional team | Project 2 |
+**1:30pm Review** | MLK | Project 2 Planning :snowflake:   |   Project 2 | Project 2 | Project 2 |
 **2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals :snowflake: |  Tunely Demos / 3:00 Outcomes | Project 2 | Project 2
 **3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals :snowflake: | Outcomes | Project 2| Project 2 |
 **Homework** | MLK | Project 2  Planning :snowflake: | Project 2 | Project 2 | Project 2 |
