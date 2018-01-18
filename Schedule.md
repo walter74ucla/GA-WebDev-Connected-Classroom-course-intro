@@ -7,7 +7,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon :computer:  | Hackathon |
  **9:45am Stand Up** | Stand Up | Stand Up  | Stand Up | Hackathon | Hackathon |
- **10:00am Lesson 1** | Project 2 |  Project 2  |  [BCrypt][7-3B]| Hackathon | Hackathon |  
+ **10:00am Lesson 1** | Project 2 |  Project 2  |  [BCrypt + Roll your Own Auth][7-3B]| Hackathon | Hackathon |  
  **11:30pm Lab 1** | Project 2 | Project 2  |  [TDD + Jasmine][7-3C]   | Hackathon | Hackathon |
 **1:30pm Review** | Project 2 | Project 2   | Unit 2 Review    | Hackathon | Hackathon |
 **2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  Unit 2 Review / 3:00 Outcomes | Hackathon | Hackathon
