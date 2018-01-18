@@ -5,7 +5,7 @@
 #### Week 7 - Project 2 + Bonus Lessons + Hackathon!
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon  | Hackathon |
+ **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon :computer:  | Hackathon |
  **9:45am Stand Up** | Stand Up | Stand Up  | Stand Up | Hackathon | Hackathon |
  **10:00am Lesson 1** | Project 2 |  Project 2  |  [BCrypt][7-3B]| Hackathon | Hackathon |  
  **11:30pm Lab 1** | Project 2 | Project 2  |  [TDD + Jasmine][7-3C]   | Hackathon | Hackathon |
