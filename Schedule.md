@@ -30,7 +30,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-2F]:#
 <!--- WEDNESDAY --->
 [7-3A]:#
-[7-3B]:#
+[7-3B]: https://git.generalassemb.ly/WDIplus-ATX/bcrypt-roll-your-own-auth/blob/master/README.md "BCrypt"
 [7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
 [7-3D]:#
 [7-3E]:#
