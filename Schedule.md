@@ -29,7 +29,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-2E]:#
 [7-2F]:#
 <!--- WEDNESDAY --->
-[7-3A]:#
+[7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
 [7-3B]: https://git.generalassemb.ly/WDIplus-ATX/bcrypt-roll-your-own-auth/blob/master/README.md "BCrypt"
 [7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
 [7-3D]:#
