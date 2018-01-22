@@ -31,7 +31,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!--- WEDNESDAY --->
 [7-3A]:#
 [7-3B]:#
-[7-3C]:#
+[7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
 [7-3D]:#
 [7-3E]:#
 [7-3F]:#
