@@ -7,9 +7,9 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
  **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon :computer:  | Hackathon |
  **9:45am Stand Up** | Stand Up | Stand Up  | Stand Up | Hackathon | Hackathon |
- **10:00am Lesson 1** | Project 2 |  Project 2  | Unit 2 Review  | Hackathon | Hackathon |  
+ **10:00am Lesson 1** | Project 2 |  Project 2  | [Unit 2 Review][7-3B]  | Hackathon | Hackathon |  
  **11:30pm Lab 1** | Project 2 | Project 2  |  [TDD + Jasmine][7-3C]   | Hackathon | Hackathon |
-**1:30pm Review** | Project 2 | Project 2   |[BCrypt + Roll your Own Auth][7-3B]    | Hackathon | Hackathon |
+**1:30pm Review** | Project 2 | Project 2   |[BCrypt + Roll your Own Auth][7-3D]    | Hackathon | Hackathon |
 **2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  [BCrypt + Roll your Own Auth][7-3B] / 3:00 Outcomes | Hackathon | Hackathon
 **3:30pm Lab 2** | Project 2 |  Project 2 Presentations Cont. | Outcomes | Hackathon| Hackathon |
 **Homework** | Project 2 | Relax | Relax | Hackathon | Homework |
@@ -30,9 +30,9 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-2F]:#
 <!--- WEDNESDAY --->
 [7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
-[7-3B]: https://git.generalassemb.ly/WDIplus-ATX/bcrypt-roll-your-own-auth/blob/master/README.md "BCrypt"
+[7-3B]: https://git.generalassemb.ly/gist/alexw/8c9444ceddec0abf208be57db4cb8d15 "Review"
+[7-3D]: https://git.generalassemb.ly/WDIplus-ATX/bcrypt-roll-your-own-auth/blob/master/README.md "BCrypt"
 [7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
-[7-3D]:#
 [7-3E]:#
 [7-3F]:#
 <!--- THURSDAY --->
