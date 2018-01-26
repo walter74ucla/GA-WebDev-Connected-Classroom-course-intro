@@ -1,5 +1,57 @@
 # WDI Plus ATX Web Development Immersive
 
+## Unit 3: Front End 2018 with React
+
+#### Week 8 - React
+Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
+-----                | --------                     | --------------                | ----------                                 | --------                 | --------- |
+**9:00am Warm Ups**  | [Warm Up][8-1A]              | [Warm Up][8-2A]               | [Whiteboard Wednesday][8-3A]               | [Warm Up][8-4A]          | Project 3 |
+**9:45am Stand Up**  | Stand Up                     | Stand Up                      | Stand Up                                   | Stand Up                 | Stand Up  |   
+**10:00am Lesson 1** | [Intro to React][8-1B]       | [React Router + Review][8-2B] | [Giphy Lab][8-3B]                          | [Reddit Clone Lab][8-4B] | Project 3 |  
+**11:30pm Lab 1**    | [Intro to React pt. 2][8-1C] | [Todo Lab][8-2C]              | [Giphy Lab][8-3C]                          | [Reddit Clone Lab][8-4B] | Project 3 |
+**1:30pm Review**    | Review                       | Review                        | [React Review + Walkthrough][8-3D]         | Review                   | Project 3 |
+**2:00pm Lesson 2**  | [React Lab][8-1D]            | [Todo Lab][8-2D]              | React Review + Walkthrough / 3:00 Outcomes | [Reddit Clone Lab][8-3F] | Project 3 |
+**3:30pm Lab 2**     | [React Lab 2][8-1E]          | [Todo Lab][8-2E]              | Outcomes                                   | [Project 3 Intro][8-4E]  | Project 3 |
+**Homework**         | [React Lab][8-1F] + Reading  | [Todo Lab][8-2F]              | [Reddit Clone Lab][8-3F]                   | Project 3 Planning       | Project 3 |
+
+<!--- MONDAY --->
+[8-1A]:#
+[8-1B]:#
+[8-1C]:#
+[8-1D]:#
+[8-1E]:#
+[8-1F]:#
+[8-1FB]:#
+<!--- TUESDAY --->
+[8-2A]:#
+[8-2B]:#
+[8-2C]:#
+[8-2D]:#
+[8-2E]:#
+[8-2F]:#
+<!--- WEDNESDAY --->
+[8-3A]:#
+[8-3B]:#
+[8-3D]:#
+[8-3C]:#
+[8-3E]:#
+[8-3F]:#
+<!--- THURSDAY --->
+[8-4A]:#
+[8-4B]:#
+[8-4C]:#
+[8-4D]:#
+[8-4E]:#
+[8-4F]:#
+<!--- FRIDAY --->
+[8-5A]:#
+[8-5B]:#
+[8-5C]:#
+[8-5C]:#
+[8-5D]:#
+[8-5E]:#
+[8-5F]:#
+
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
 #### Week 7 - Project 2 + Bonus Lessons + Hackathon!
