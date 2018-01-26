@@ -64,7 +64,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **1:30pm Review** | Project 2 | Project 2   |[BCrypt + Roll your Own Auth][7-3D]    | Hackathon | Hackathon |
 **2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  [BCrypt + Roll your Own Auth][7-3B] / 3:00 Outcomes | Hackathon | Hackathon
 **3:30pm Lab 2** | Project 2 |  Project 2 Presentations Cont. | Outcomes | Hackathon| Hackathon |
-**Homework** | Project 2 | Relax | Relax | Hackathon | Homework |
+**Homework** | Project 2 | Relax | Relax | Hackathon | [Reading + Start thinking about Lightning Talks][7-5F] |
 
 <!--- MONDAY --->
 [7-1A]:#
