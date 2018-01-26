@@ -101,7 +101,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-5C]:#
 [7-5D]:#
 [7-5E]:#
-[7-5F]:#
+[7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
 
 #### Week 6 - Project 2
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
