@@ -23,7 +23,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-1F]:#
 [8-1FB]:#
 <!--- TUESDAY --->
-[8-2A]:#
+[8-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/tuesday.md "Warm up"
 [8-2B]: https://git.generalassemb.ly/WDIplus-ATX/react-router/blob/master/README.md "React Router"
 [8-2C]:#
 [8-2D]:#
