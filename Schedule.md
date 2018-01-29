@@ -18,8 +18,8 @@ Time                 | Day 1                        |    Day 2                  
 [8-1A]:#
 [8-1B]: https://git.generalassemb.ly/WDIplus-ATX/react-intro/blob/master/README.md "React Intro"
 [8-1C]: https://git.generalassemb.ly/WDIplus-ATX/react-intro-2/blob/master/README.md "React Intro 2"
-[8-1D]:#
-[8-1E]:#
+[8-1D]: https://git.generalassemb.ly/WDIplus-ATX/simple-blog-react/blob/master/README.md 'React Lab'
+[8-1E]: https://git.generalassemb.ly/WDIplus-ATX/atm-react-lab 'React Lab 2'
 [8-1F]:#
 [8-1FB]:#
 <!--- TUESDAY --->
