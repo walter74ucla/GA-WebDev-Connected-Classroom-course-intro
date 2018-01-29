@@ -16,7 +16,7 @@ Time                 | Day 1                        |    Day 2                  
 
 <!--- MONDAY --->
 [8-1A]:#
-[8-1B]:#
+[8-1B]: https://git.generalassemb.ly/WDIplus-ATX/react-intro/blob/master/README.md "React Intro"
 [8-1C]:#
 [8-1D]:#
 [8-1E]:#
