@@ -24,7 +24,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-1FB]:#
 <!--- TUESDAY --->
 [8-2A]:#
-[8-2B]:#
+[8-2B]: https://git.generalassemb.ly/WDIplus-ATX/react-router/blob/master/README.md "React Router"
 [8-2C]:#
 [8-2D]:#
 [8-2E]:#
