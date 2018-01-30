@@ -25,10 +25,10 @@ Time                 | Day 1                        |    Day 2                  
 <!--- TUESDAY --->
 [8-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/tuesday.md "Warm up"
 [8-2B]: https://git.generalassemb.ly/WDIplus-ATX/react-router/blob/master/README.md "React Router"
-[8-2C]:#
-[8-2D]:#
-[8-2E]:#
-[8-2F]:#
+[8-2C]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
+[8-2D]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
+[8-2E]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
+[8-2F]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 <!--- WEDNESDAY --->
 [8-3A]:#
 [8-3B]:#
