@@ -30,7 +30,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-2E]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 [8-2F]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 <!--- WEDNESDAY --->
-[8-3A]:#
+[8-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/wednesday.md "Whiteboard Wendesday"
 [8-3B]:#
 [8-3D]:#
 [8-3C]:#
