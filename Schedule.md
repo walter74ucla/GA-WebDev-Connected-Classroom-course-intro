@@ -12,7 +12,7 @@ Time                 | Day 1                        |    Day 2                  
 **1:30pm Review**    | Review                       | Review                        | [React Review + Walkthrough][8-3D]         | Review                   | Project 3 |
 **2:00pm Lesson 2**  | [React Lab][8-1D]            | [Todo Lab][8-2D]              | React Review + Walkthrough / 3:00 Outcomes | [Reddit Clone Lab][8-3F] | Project 3 |
 **3:30pm Lab 2**     | [React Lab 2][8-1E]          | [Todo Lab][8-2E]              | Outcomes                                   | [Project 3 Intro][8-4E]  | Project 3 |
-**Homework**         | [React Lab][8-1F] + Reading  | [Todo Lab][8-2F]              | [Reddit Clone Lab][8-3F]                   | Project 3 Planning       | Project 3 |
+**Homework**         | [React Lab][8-1F] + Reading  | [Todo Lab][8-2F]              | [Reddit Clone Lab][8-3F] + [promises reading][8-3FB]                   | Project 3 Planning       | Project 3 |
 
 <!--- MONDAY --->
 [8-1A]:#
@@ -36,6 +36,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-3C]: https://git.generalassemb.ly/WDIplus-ATX/react-giphy/blob/master/README.md 'Giphy Lab'
 [8-3E]:#
 [8-3F]: https://git.generalassemb.ly/WDIplus-ATX/reddit-clone-mern 'Reddit Clone Lab'
+[8-3FB]: https://git.generalassemb.ly/gist/alexw/fe83b700953eec0f821455347cd01b51 'promises reading'
 <!--- THURSDAY --->
 [8-4A]:#
 [8-4B]:#
