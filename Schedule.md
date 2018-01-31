@@ -35,7 +35,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-3D]:#
 [8-3C]: https://git.generalassemb.ly/WDIplus-ATX/react-giphy/blob/master/README.md 'Giphy Lab'
 [8-3E]:#
-[8-3F]:#
+[8-3F]: https://git.generalassemb.ly/WDIplus-ATX/reddit-clone-mern 'Reddit Clone Lab'
 <!--- THURSDAY --->
 [8-4A]:#
 [8-4B]:#
