@@ -38,7 +38,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-3F]: https://git.generalassemb.ly/WDIplus-ATX/reddit-clone-mern 'Reddit Clone Lab'
 [8-3FB]: https://git.generalassemb.ly/gist/alexw/fe83b700953eec0f821455347cd01b51 'promises reading'
 <!--- THURSDAY --->
-[8-4A]:#
+[8-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/thurs.md
 [8-4B]:#
 [8-4C]:#
 [8-4D]:#
