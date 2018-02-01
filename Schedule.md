@@ -42,7 +42,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-4B]:#
 [8-4C]:#
 [8-4D]:#
-[8-4E]:#
+[8-4E]: https://git.generalassemb.ly/WDIplus-ATX/project3/blob/master/readme.md "Project 3"
 [8-4F]:#
 <!--- FRIDAY --->
 [8-5A]:#
