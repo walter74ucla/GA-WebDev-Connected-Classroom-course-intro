@@ -7,49 +7,49 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 -----                | --------  | --------------            | ----------                      | --------                                | --------- |
 **9:00am Warm Ups**  | Project 3 | Project 3                 | Whiteboard Wednesday (Optional) | Project 3                               | Project 3 |
 **9:45am Stand Up**  | Stand Up  | Stand Up                  | Stand Up                        | Stand Up                                | Stand Up  |   
-**10:00am Lesson 1** | Project 3 | [Webpack][8-2C](Optional) | [Redux][8-3C](Optional)         | [Advanced Command Line][8-4C](Optional) | Project 3 |  
+**10:00am Lesson 1** | Project 3 | [Webpack][9-2C](Optional) | [Redux][9-3C](Optional)         | [Advanced Command Line][9-4C](Optional) | Project 3 |  
 **11:30pm Lab 1**    | Project 3 | Project 3                 | Project 3                       | Project 3                               | Project 3 |
 **1:30pm Review**    | Project 3 | Project 3                 | Project 3 / 3:00 Outcomes       | Project 3                               | Project 3 Presentations |
 **3:30pm Lab 2**     | Project 3 | Project 3                 | Outcomes                        | Project 3                               | Project 3 Presentations |
 **Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | Python Reading |
 
 <!--- MONDAY --->
-[8-1A]:#
-[8-1B]:#
-[8-1C]:#
-[8-1D]:#
-[8-1E]:#
-[8-1F]:#
-[8-1FB]:#
+[9-1A]:#
+[9-1B]:#
+[9-1C]:#
+[9-1D]:#
+[9-1E]:#
+[9-1F]:#
+[9-1FB]:#
 <!--- TUESDAY --->
-[8-2A]:#
-[8-2B]:#
-[8-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
-[8-2D]:#
-[8-2E]:#
-[8-2F]:#
+[9-2A]:#
+[9-2B]:#
+[9-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
+[9-2D]:#
+[9-2E]:#
+[9-2F]:#
 <!--- WEDNESDAY --->
-[8-3A]:#
-[8-3B]:#
-[8-3D]:#
-[8-3C]:#
-[8-3E]:#
-[8-3F]:#
+[9-3A]:#
+[9-3B]:#
+[9-3D]:#
+[9-3C]:#
+[9-3E]:#
+[9-3F]:#
 <!--- THURSDAY --->
-[8-4A]:#
-[8-4B]:#
-[8-4C]:#
-[8-4D]:#
-[8-4E]:#
-[8-4F]:#
+[9-4A]:#
+[9-4B]:#
+[9-4C]:#
+[9-4D]:#
+[9-4E]:#
+[9-4F]:#
 <!--- FRIDAY --->
-[8-5A]:#
-[8-5B]:#
-[8-5C]:#
-[8-5C]:#
-[8-5D]:#
-[8-5E]:#
-[8-5F]:#
+[9-5A]:#
+[9-5B]:#
+[9-5C]:#
+[9-5C]:#
+[9-5D]:#
+[9-5E]:#
+[9-5F]:#
 
 #### Week 8 - React
 Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
