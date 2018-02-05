@@ -2,6 +2,55 @@
 
 ## Unit 3: Front End 2018 with React
 
+#### Week 9 - Project 3
+Time                 | Day 1     |    Day 2                  | Day 3                           | Day 4                                   | Day  5    |
+-----                | --------  | --------------            | ----------                      | --------                                | --------- |
+**9:00am Warm Ups**  | Project 3 | Project 3                 | Whiteboard Wednesday (Optional) | Project 3                               | Project 3 |
+**9:45am Stand Up**  | Stand Up  | Stand Up                  | Stand Up                        | Stand Up                                | Stand Up  |   
+**10:00am Lesson 1** | Project 3 | [Webpack][8-2C](Optional) | [Redux][8-3C](Optional)         | [Advanced Command Line][8-4C](Optional) | Project 3 |  
+**11:30pm Lab 1**    | Project 3 | Project 3                 | Project 3                       | Project 3                               | Project 3 |
+**1:30pm Review**    | Project 3 | Project 3                 | Project 3 / 3:00 Outcomes       | Project 3                               | Project 3 Presentations |
+**3:30pm Lab 2**     | Project 3 | Project 3                 | Outcomes                        | Project 3                               | Project 3 Presentations |
+**Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | Python Reading |
+
+<!--- MONDAY --->
+[8-1A]:#
+[8-1B]:#
+[8-1C]:#
+[8-1D]:#
+[8-1E]:#
+[8-1F]:#
+[8-1FB]:#
+<!--- TUESDAY --->
+[8-2A]:#
+[8-2B]:#
+[8-2C]:#
+[8-2D]:#
+[8-2E]:#
+[8-2F]:#
+<!--- WEDNESDAY --->
+[8-3A]:#
+[8-3B]:#
+[8-3D]:#
+[8-3C]:#
+[8-3E]:#
+[8-3F]:#
+<!--- THURSDAY --->
+[8-4A]:#
+[8-4B]:#
+[8-4C]:#
+[8-4D]:#
+[8-4E]:#
+[8-4F]:#
+<!--- FRIDAY --->
+[8-5A]:#
+[8-5B]:#
+[8-5C]:#
+[8-5C]:#
+[8-5D]:#
+[8-5E]:#
+[8-5F]:#
+
 #### Week 8 - React
 Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
 -----                | --------                     | --------------                | ----------                                 | --------                 | --------- |
