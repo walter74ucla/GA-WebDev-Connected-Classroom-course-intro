@@ -24,7 +24,7 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 <!--- TUESDAY --->
 [8-2A]:#
 [8-2B]:#
-[8-2C]:#
+[8-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
 [8-2D]:#
 [8-2E]:#
 [8-2F]:#
