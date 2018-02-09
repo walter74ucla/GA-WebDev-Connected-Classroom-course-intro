@@ -1,5 +1,56 @@
 # WDI Plus ATX Web Development Immersive
 
+## Unit 4: Getting Bilingual with Python + Django
+
+#### Week 10 - Python + Django
+Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
+-----                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
+**9:00am Warm Ups**  | [Warm Ups][10-1A]               | Warm Ups                          | Whiteboard Wednesday             | Warm Ups                 | Warm Ups         |
+**9:45am Stand Up**  | Stand Up                        | Stand Up                          | Stand Up                         | Stand Up                 | Stand Up         |   
+**10:00am Lesson 1** | [Intro to Python][10-1B]        | [Python Classes][10-2B]           | [SQL][10-2B]                     | [Intro to Django][10-4C] | [Project 4 Prep] |  
+**11:30pm Lab 1**    | [Intro to Python pt. II][10-1C] | [Python Inhertiance][10-2C]       | [SQL Carmen Sandiego lab]        | [Django]                 | [Project 4]      |
+**1:30pm Review**    | [Python Challenges][10-1D]      | [Python Deck o' Cards Lab][10-2D] | [Python Review]  / 3:00 Outcomes | [Django]                 | [Project 4]      |
+**3:30pm Lab 2**     | [Python Challenges][10-1E]      | Python Deck o' Cards Lab          | Outcomes                         | [Django]                 | [Project 4]      |
+**Homework**         | [Python Challenges][10-1F]      | Python Deck o' Cards Lab          | [Orange Tree OOPython]           | [Project 4 Prep]         | [Project 4]      |
+
+<!--- MONDAY --->
+[10-1A]:#
+[10-1B]:#
+[10-1C]:#
+[10-1D]:#
+[10-1E]:#
+[10-1F]:#
+[10-1FB]:#
+<!--- TUESDAY --->
+[10-2A]:#
+[10-2B]:#
+[10-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
+[10-2D]:#
+[10-2E]:#
+[10-2F]:#
+<!--- WEDNESDAY --->
+[10-3A]:#
+[10-3B]:#
+[10-3D]:#
+[10-3C]:#
+[10-3E]:#
+[10-3F]:#
+<!--- THURSDAY --->
+[10-4A]:#
+[10-4B]:#
+[10-4C]:#
+[10-4D]:#
+[10-4E]:#
+[10-4F]:#
+<!--- FRIDAY --->
+[10-5A]:#
+[10-5B]:#
+[10-5C]:#
+[10-5C]:#
+[10-5D]:#
+[10-5E]:#
+[10-5F]:#
+
 ## Unit 3: Front End 2018 with React
 
 #### Week 9 - Project 3
