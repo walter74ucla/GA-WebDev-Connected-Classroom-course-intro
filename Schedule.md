@@ -1,6 +1,108 @@
 # WDI Plus ATX Web Development Immersive
 
+## Final Project
+
+#### Week 12 - Final Project
+Time                 | Day 1          |    Day 2      | Day 3                          | Day 4         | Day  5                      |
+-----                | --------       | ----------    | ----------                     | --------      | ---------                   |
+**9:00am Warm Ups**  | Final Project  | Final Project | Final Project                  | Final Project | Final Project               |
+**9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up                       | Stand Up      | Stand Up                    |   
+**10:00am Lesson 1** | Final Project  | Final Project | Final Project                  | Final Project | Final Project 	 	         |  
+**11:30pm Lab 1**    | Final Project  | Final Project | Final Project                  | Final Project | Final Project               |  
+**1:30pm Review**    | Final Project  | Final Project | Final Project				   | Final Project | Final Project  		     |
+**2:00pm Lesson 2**  | Final Project  | Final Project | Final Project  / 3:00 Outcomes | Final Project | Final Project Presentations |
+**3:30pm Lab 2**     | Final Project  | Final Project | Outcomes                       | Final Project | Final Project Presentations |
+**Homework**         | Final Project  | Final Project | Final Project     			   | Final Project | CELEBRATION!                |
+
+<!--- MONDAY --->
+[11-1A]:#
+[11-1B]:#
+[11-1C]:#
+[11-1D]:#
+[11-1E]:#
+[11-1F]:#
+[11-1FB]:#
+<!--- TUESDAY --->
+[11-2A]:#
+[11-2B]:#
+[11-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
+[11-2D]:#
+[11-2E]:#
+[11-2F]:#
+<!--- WEDNESDAY --->
+[11-3A]:#
+[11-3B]:#
+[11-3D]:#
+[11-3C]:#
+[11-3E]:#
+[11-3F]:#
+<!--- THURSDAY --->
+[11-4A]:#
+[11-4B]:#
+[11-4C]:#
+[11-4D]:#
+[11-4E]:#
+[11-4F]:#
+<!--- FRIDAY --->
+[11-5A]:#
+[11-5B]:#
+[11-5C]:#
+[11-5C]:#
+[11-5D]:#
+[11-5E]:#
+[11-5F]:#
+
 ## Unit 4: Getting Bilingual with Python
+
+#### Week 11 - Project 4
+Time                 | Day 1      |    Day 2  | Day 3                            | Day 4                    | Day  5                  |
+-----                | --------   | ----------| ----------                       | --------                 | ---------               |
+**9:00am Warm Ups**  | Project 4  | Project 4 | Whiteboard Wednesday (optional)  | Project 4                | Final Project Approvals |
+**9:45am Stand Up**  | Stand Up   | Stand Up  | Stand Up                         | Stand Up                 | Stand Up         		  |   
+**10:00am Lesson 1** | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |  
+**11:30pm Lab 1**    | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |
+**1:30pm Review**    | Project 4  | Project 4 | Project 4					     | Project 4                | Final Project Approvals |
+**2:00pm Lesson 2**  | Project 4  | Project 4 | Project 4  / 3:00 Outcomes       | Project 4 Presentations! | Final Project Approvals |
+**3:30pm Lab 2**     | Project 4  | Project 4 | Outcomes                         | Project 4 Presentations! | Final Project Approvals |
+**Homework**         | Project 4  | Project 4 | Project 4     					 | Final Project Prep       | Final Project!!!        |
+
+<!--- MONDAY --->
+[11-1A]:#
+[11-1B]:#
+[11-1C]:#
+[11-1D]:#
+[11-1E]:#
+[11-1F]:#
+[11-1FB]:#
+<!--- TUESDAY --->
+[11-2A]:#
+[11-2B]:#
+[11-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
+[11-2D]:#
+[11-2E]:#
+[11-2F]:#
+<!--- WEDNESDAY --->
+[11-3A]:#
+[11-3B]:#
+[11-3D]:#
+[11-3C]:#
+[11-3E]:#
+[11-3F]:#
+<!--- THURSDAY --->
+[11-4A]:#
+[11-4B]:#
+[11-4C]:#
+[11-4D]:#
+[11-4E]:#
+[11-4F]:#
+<!--- FRIDAY --->
+[11-5A]:#
+[11-5B]:#
+[11-5C]:#
+[11-5C]:#
+[11-5D]:#
+[11-5E]:#
+[11-5F]:#
 
 #### Week 10 - Python + Django
 Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
