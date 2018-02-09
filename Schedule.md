@@ -11,7 +11,7 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 **11:30pm Lab 1**    | Project 3 | Project 3                 | Project 3                       | Project 3                               | Project 3 |
 **1:30pm Review**    | Project 3 | Project 3                 | Project 3 / 3:00 Outcomes       | Project 3                               | Project 3 Presentations |
 **3:30pm Lab 2**     | Project 3 | Project 3                 | Outcomes                        | Project 3                               | Project 3 Presentations |
-**Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | Python Reading |
+**Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | [Python Reading][9-5F] |
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -49,7 +49,7 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 [9-5C]:#
 [9-5D]:#
 [9-5E]:#
-[9-5F]:#
+[9-5F]: https://git.generalassemb.ly/gist/alexw/53a0f9b5a55c60afadca1491eaa431ca "Python reading"
 
 #### Week 8 - React
 Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
