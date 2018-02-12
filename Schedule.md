@@ -112,9 +112,9 @@ Time                 | Day 1                           |    Day 2               
 **10:00am Lesson 1** | [Intro to Python][10-1B]        | [Python Classes][10-2B]           | [SQL][10-3B]                     | [Intro to Django][10-4B] | [Project 4 Prep][10-5B] |  
 **11:30pm Lab 1**    | Intro to Python | [Shopping List Lab][10-2C]       | [SQL Carmen Sandiego lab][10-3C] | [Django][10-4C]          | Project 4        |
 **1:30pm Review**    |  Review					       | Review						       | Python Review					  | Review				     | Review   		|
-**2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Python Inhertiance][10-2D] | Python Review  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
-**3:30pm Lab 2**     | [Python Challenges][10-1E]               | [Codebar Lab][10-2E]          | Outcomes                         | [Django][10-4E]          | Project 4        |
-**Homework**         | [State Capitals + reading][10-1F]               | Python Deck o' Cards Lab          | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+**2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Inhertiance][10-2D] | Python Review  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
+**3:30pm Lab 2**     | [Python Challenges][10-1E] | [Codebar Lab][10-2E]  | Outcomes                         | [Django][10-4E]          | Project 4        |
+**Homework**         | [State Capitals + reading][10-1F] | Codebar Lab Cont. + Reading  | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
