@@ -107,7 +107,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 #### Week 10 - Python + Django
 Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
 -----                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
-**9:00am Warm Ups**  | [Warm Ups][10-1A]               | Warm Ups                          | Whiteboard Wednesday             | Warm Ups                 | Warm Ups         |
+**9:00am Warm Ups**  | [Warm Ups][10-1A]               | [Warm Ups][10-2A]                          | Whiteboard Wednesday             | Warm Ups                 | Warm Ups         |
 **9:45am Stand Up**  | Stand Up                        | Stand Up                          | Stand Up                         | Stand Up                 | Stand Up         |   
 **10:00am Lesson 1** | [Intro to Python][10-1B]        | [Python Classes][10-2B]           | [SQL][10-3B]                     | [Intro to Django][10-4B] | [Project 4 Prep][10-5B] |  
 **11:30pm Lab 1**    | Intro to Python | [Shopping List Lab][10-2C]       | [SQL Carmen Sandiego lab][10-3C] | [Django][10-4C]          | Project 4        |
@@ -125,7 +125,7 @@ Time                 | Day 1                           |    Day 2               
 [10-1F]:https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 
 
 <!--- TUESDAY --->
-[10-2A]:#
+[10-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/tuesday.md
 [10-2B]: https://git.generalassemb.ly/WDIplus-ATX/python-classes/blob/master/README.md "Classes"
 [10-2C]: 
 [10-2D]:#
