@@ -114,7 +114,7 @@ Time                 | Day 1                           |    Day 2               
 **1:30pm Review**    |  Review					       | Review						       | Python Review					  | Review				     | Review   		|
 **2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Inhertiance][10-2D] | Python Review  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
 **3:30pm Lab 2**     | [Python Challenges][10-1E] | [Codebar Lab][10-2E]  | Outcomes                         | [Django][10-4E]          | Project 4        |
-**Homework**         | [State Capitals + reading][10-1F] | Codebar Lab Cont. + Reading  | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+**Homework**         | [State Capitals + Video][10-1F] | Codebar Lab Cont. + Reading  | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
