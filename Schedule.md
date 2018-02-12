@@ -117,7 +117,7 @@ Time                 | Day 1                           |    Day 2               
 **Homework**         | Python Challenges               | Python Deck o' Cards Lab          | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 
 <!--- MONDAY --->
-[10-1A]:#
+[10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
 [10-1B]: https://git.generalassemb.ly/alexw/intro-python "Intro python"
 [10-1C]:#
 [10-1D]:#
