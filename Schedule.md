@@ -122,8 +122,8 @@ Time                 | Day 1                           |    Day 2               
 [10-1C]:#
 [10-1D]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
 [10-1E]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
-[10-1F]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
-[10-1FB]:#
+[10-1F]:https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 
+
 <!--- TUESDAY --->
 [10-2A]:#
 [10-2B]: https://git.generalassemb.ly/WDIplus-ATX/python-classes/blob/master/README.md "Classes"
