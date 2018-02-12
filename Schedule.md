@@ -113,16 +113,16 @@ Time                 | Day 1                           |    Day 2               
 **11:30pm Lab 1**    | Intro to Python | [Python Inhertiance][10-2C]       | [SQL Carmen Sandiego lab][10-3C] | [Django][10-4C]          | Project 4        |
 **1:30pm Review**    |  Review					       | Review						       | Python Review					  | Review				     | Review   		|
 **2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Python Deck o' Cards Lab][10-2D] | Python Review  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
-**3:30pm Lab 2**     | Python Challenges               | Python Deck o' Cards Lab          | Outcomes                         | [Django][10-4E]          | Project 4        |
-**Homework**         | Python Challenges               | Python Deck o' Cards Lab          | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+**3:30pm Lab 2**     | [Python Challenges][10-1E]               | Python Deck o' Cards Lab          | Outcomes                         | [Django][10-4E]          | Project 4        |
+**Homework**         | [Python Challenges][10-1F]               | Python Deck o' Cards Lab          | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
 [10-1B]: https://git.generalassemb.ly/alexw/intro-python "Intro python"
 [10-1C]:#
-[10-1D]:#
-[10-1E]:#
-[10-1F]:#
+[10-1D]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
+[10-1E]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
+[10-1F]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
 [10-1FB]:#
 <!--- TUESDAY --->
 [10-2A]:#
