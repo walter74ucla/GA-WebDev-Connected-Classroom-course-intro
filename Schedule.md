@@ -104,7 +104,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 [11-5E]:#
 [11-5F]:#
 
-#### Week 10 - Python + Django
+#### Week 10 - Python + Django [reference material](https://wdi_sea.gitbooks.io/notes/content/15-python/python.html)
 Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
 -----                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
 **9:00am Warm Ups**  | [Warm Ups][10-1A]               | [Warm Ups][10-2A]                          | Whiteboard Wednesday             | Warm Ups                 | Warm Ups         |
