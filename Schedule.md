@@ -127,10 +127,10 @@ Time                 | Day 1                           |    Day 2               
 <!--- TUESDAY --->
 [10-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/tuesday.md
 [10-2B]: https://git.generalassemb.ly/WDIplus-ATX/python-classes/blob/master/README.md "Classes"
-[10-2C]: 
+[10-2C]: #
 [10-2D]: https://git.generalassemb.ly/WDIplus-ATX/python-class-inheritance "Inheritance"
 [10-2E]: https://git.generalassemb.ly/WDIplus-ATX/codebar "Codebar lab"
-[10-2F]:#
+[10-2F]: #
 <!--- WEDNESDAY --->
 [10-3A]:#
 [10-3B]:#
