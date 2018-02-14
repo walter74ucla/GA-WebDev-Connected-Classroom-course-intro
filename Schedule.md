@@ -107,7 +107,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 #### Week 10 - Python + Django [reference material](https://wdi_sea.gitbooks.io/notes/content/15-python/python.html)
 Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
 -----                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
-**9:00am Warm Ups**  | [Warm Ups][10-1A]               | [Warm Ups][10-2A]                          | Whiteboard Wednesday             | Warm Ups                 | Warm Ups         |
+**9:00am Warm Ups**  | [Warm Ups][10-1A]               | [Warm Ups][10-2A]                          | [Whiteboard Wednesday][10-3A]      | Warm Ups                 | Warm Ups         |
 **9:45am Stand Up**  | Stand Up                        | Stand Up                          | Stand Up                         | Stand Up                 | Stand Up         |   
 **10:00am Lesson 1** | [Intro to Python][10-1B]        | [Python Classes][10-2B]           | [SQL][10-3B]                     | [Intro to Django][10-4B] | [Project 4 Prep][10-5B] |  
 **11:30pm Lab 1**    | Intro to Python | [Shopping List Lab][10-2C]       | [SQL Carmen Sandiego lab][10-3C] | [Django][10-4C]          | Project 4        |
@@ -132,7 +132,7 @@ Time                 | Day 1                           |    Day 2               
 [10-2E]: https://git.generalassemb.ly/WDIplus-ATX/codebar "Codebar lab"
 [10-2F]: https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
 <!--- WEDNESDAY --->
-[10-3A]:#
+[10-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/wednesday.md "Whiteboard Weds"
 [10-3B]:#
 [10-3D]:#
 [10-3C]:#
