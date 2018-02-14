@@ -133,7 +133,7 @@ Time                 | Day 1                           |    Day 2               
 [10-2F]: https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
 <!--- WEDNESDAY --->
 [10-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/wednesday.md "Whiteboard Weds"
-[10-3B]:#
+[10-3B]: https://git.generalassemb.ly/alexw/intro-sql "SQL"
 [10-3D]:#
 [10-3C]:#
 [10-3E]:#
