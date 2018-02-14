@@ -135,7 +135,7 @@ Time                 | Day 1                           |    Day 2               
 [10-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/wednesday.md "Whiteboard Weds"
 [10-3B]: https://git.generalassemb.ly/alexw/intro-sql "SQL"
 [10-3D]:#
-[10-3C]:#
+[10-3C]: https://git.generalassemb.ly/WDIplus-ATX/carmen-sandiego/blob/master/README.md 'Carmen Sandiego'
 [10-3E]:#
 [10-3F]:#
 <!--- THURSDAY --->
