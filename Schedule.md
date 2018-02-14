@@ -137,7 +137,7 @@ Time                 | Day 1                           |    Day 2               
 [10-3C]: https://git.generalassemb.ly/WDIplus-ATX/carmen-sandiego/blob/master/README.md 'Carmen Sandiego'
 [10-3D]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
 [10-3E]:#
-[10-3F]:#
+[10-3F]: https://git.generalassemb.ly/gist/alexw/2f4c60314e6f601e1bce9127ba77c998
 <!--- THURSDAY --->
 [10-4A]:#
 [10-4B]:#
