@@ -139,8 +139,8 @@ Time                 | Day 1                           |    Day 2               
 [10-3E]:#
 [10-3F]: https://git.generalassemb.ly/gist/alexw/2f4c60314e6f601e1bce9127ba77c998
 <!--- THURSDAY --->
-[10-4A]:#
-[10-4B]:#
+[10-4A]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
+[10-4B]: https://git.generalassemb.ly/alexw/TreasureGram
 [10-4C]:#
 [10-4D]:#
 [10-4E]:#
