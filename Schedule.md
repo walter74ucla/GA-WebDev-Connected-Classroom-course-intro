@@ -144,7 +144,7 @@ Time                 | Day 1                           |    Day 2               
 [10-4C]:#
 [10-4D]:#
 [10-4E]:#
-[10-4F]:#
+[10-4F]: https://git.generalassemb.ly/gist/alexw/5caca655bbc4b95926c73ced9482a743
 <!--- FRIDAY --->
 [10-5A]:#
 [10-5B]:#
