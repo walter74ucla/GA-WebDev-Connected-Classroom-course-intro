@@ -5,7 +5,7 @@
 #### Week 12 - Final Project
 Time                 | Day 1          |    Day 2      | Day 3                          | Day 4         | Day  5                      |
 -----                | --------       | ----------    | ----------                     | --------      | ---------                   |
-**9:00am Warm Ups**  | Final Project  | Final Project | Final Project                  | Final Project | Final Project               |
+**9:00am Warm Ups**  | Final Project  | Final Project | [Optional Big O lesson][12-3A]                 | Final Project | Final Project               |
 **9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up                       | Stand Up      | Stand Up                    |   
 **10:00am Lesson 1** | Final Project  | Final Project | Final Project                  | Final Project | Final Project 	 	         |  
 **11:30pm Lab 1**    | Final Project  | Final Project | Final Project                  | Final Project | Final Project               |  
@@ -19,7 +19,8 @@ Time                 | Day 1          |    Day 2      | Day 3                   
 
 <!--- TUESDAY --->
 [12-2C]: https://github.com/shahzadkhan3iii7/react-redux-click-counter "React"
-
+<!--- WEDS --->
+[12-3A]: https://git.generalassemb.ly/WDIplus-ATX/algorithm-complexity-and-big-o/blob/master/README.md "Big O"
 
 ## Unit 4: Getting Bilingual with Python
 
