@@ -27,7 +27,7 @@ Time                 | Day 1          |    Day 2      | Day 3                   
 #### Week 11 - Project 4
 Time                 | Day 1      |    Day 2  | Day 3                            | Day 4                    | Day  5                  |
 -----                | --------   | ----------| ----------                       | --------                 | ---------               |
-**9:00am Warm Ups**  | Project 4  | Project 4 | Whiteboard Wednesday (optional)  | Project 4                | Final Project Approvals |
+**9:00am Warm Ups**  | Project 4  | Project 4 | [Data Structures][11-3A]  | Project 4                | Final Project Approvals |
 **9:45am Stand Up**  | Stand Up   | Stand Up  | Stand Up                         | Stand Up                 | Stand Up         		  |   
 **10:00am Lesson 1** | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |  
 **11:30pm Lab 1**    | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |
@@ -36,23 +36,9 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 **3:30pm Lab 2**     | Project 4  | Project 4 | Outcomes                         | Project 4 Presentations! | Final Project Approvals |
 **Homework**         | Project 4  | Project 4 | Project 4     					 | Final Project Prep       | Final Project!!!        |
 
-<!--- MONDAY --->
-[11-1A]:#
-[11-1B]:#
-[11-1C]:#
-[11-1D]:#
-[11-1E]:#
-[11-1F]:#
-[11-1FB]:#
-<!--- TUESDAY --->
-[11-2A]:#
-[11-2B]:#
-[11-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
-[11-2D]:#
-[11-2E]:#
-[11-2F]:#
+
 <!--- WEDNESDAY --->
-[11-3A]:#
+[11-3A]: https://git.generalassemb.ly/gist/alexw/80807439e72c961aeb5e3a70b6abaec7 "data structures"
 [11-3B]:#
 [11-3D]:#
 [11-3C]:#
