@@ -34,7 +34,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 **1:30pm Review**    | Project 4  | Project 4 | Project 4					     | Project 4                | Final Project Approvals |
 **2:00pm Lesson 2**  | Project 4  | Project 4 | Project 4  / 3:00 Outcomes       | Project 4 Presentations! | Final Project Approvals |
 **3:30pm Lab 2**     | Project 4  | Project 4 | Outcomes                         | Project 4 Presentations! | Final Project Approvals |
-**Homework**         | Project 4  | Project 4 | Project 4     					 | Final Project Prep       | Final Project!!!        |
+**Homework**         | Project 4  | Project 4 | Project 4     					 | [Final Project Prep][11-4F]       | Final Project!!!        |
 
 
 <!--- WEDNESDAY --->
@@ -50,7 +50,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 [11-4C]:#
 [11-4D]:#
 [11-4E]:#
-[11-4F]:#
+[11-4F]: https://git.generalassemb.ly/alexw/capstone-project/blob/master/README.md "Final Project"
 <!--- FRIDAY --->
 [11-5A]:#
 [11-5B]:#
