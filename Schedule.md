@@ -525,36 +525,35 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5D]: # " "
 [2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue" 
 
-
 #### Week 1 - Fundamentals and Tools
 
- Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [Ice breakers][1-1A] | [Shortcuts & Setting you up for Success][1-2A] | [Shortcuts and Typing Practice][1-3A]   |[HTML Walkthrough][1-4A]         | [CSS Walkthrough][1-5A]  
- **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | [Course Overview][1-1BA], [How the Internet Works][1-1BB]    |  [Git and Github][1-5B]  | [Conditionals and Loops][1-2B]                | [Functions][1-3B]      | Tic Tac Toe Livecode  |  
- **11:30pm Lab 1** | [Command Line Lab][1-1C]     |  [Git & Github Lab][1-5C]   | [Problem solving with loops, conditionals & arrays][1-2C]         | [Problem Solving with Functions][1-3C] | [Psuedo-Coding][1-4C]     |
-**1:30pm Review** | Review | Review | [Arrays & iterating over them][1-2D] | Review | Review |
-**2:00pm Lesson 2** | [Intro to Programming][1-1D]    |   [Git & Github continued][1-5D]  | [Arrays & iterating over them][1-2D] / 3:00 Outcomes     | [Scope][1-3D] | [Callbacks and Event Listeners][1-4D]
-**3:30pm Lab 2** | [Loops and Errors][1-1E]    |    [Kyrell Game Lab][1-5E]  | Outcomes | [Function problems (with some scope)][1-3F] | [Problem Solving][1-4E]   |
-**Homework** | [Homework1][1-1C] + Upload a photo to Github + Slack profiles! | [Homework 2][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]  | [More Function Problems + CSS Video][1-3E] | [JS-Racer!][1-4F]  |
+ Time                 | Day 1                |    Day 2                                       | Day 3                                | Day 4                                       | Day  5                                    |
+-----                 | --------             | --------------                                 | ----------                           | --------                                    | ---------   |
+ **9:00am Warm Ups**  | [Install Fest][1-1A] | [Shortcuts & Setting you up for Success][1-2A] | [Shortcuts and Typing Practice][1-3A]| Outcomes                                    | [HTML Walkthrough][1-5A]  
+ **9:45am Stand Up**  | Install Fest         | Stand Up                                       | Stand Up                             | Outcomes                                    | Stand Up |
+ **10:00am Lesson 1** | Install Fest         | [Intro to Programming][1-5B]                    | [Conditionals and Loops][1-2B]      | Outcomes                                    | Tic Tac Toe Livecode  |  
+ **11:30pm Lab 1**    | Install Fest         | [Loops and Errors][1-5C]                       | [Kyrell Game][1-2C]                  | [Functions Lesson][1-3C]                    | [Psuedo-Coding][1-4C]     |
+**1:30pm Review**     | Review               | Review                                         | Review                               | Review                                      | CSS Walkthrough |
+**2:00pm Lesson 2**   | [Course Overview][1-1DA], [How the Internet Works][1-1DB] |[Git & Github][1-5D]| [Arrays & iterating over them][1-2D]| [Problem Solving w Functions][1-3D] | [Callbacks and Event Listeners][1-4D]
+**3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-5E]                    | [Problem solving with loops, conditionals & arrays][] | [Scope Lesson][1-3F] | [Problem Solving][1-4E]   |
+**Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! | [Finish labs][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]   | [More Function Problems w Scope + CSS Video][1-3E] | [JS-Racer!][1-4F]  |
 
-[1-1A]: https://git.generalassemb.ly/WDIplus-ATX/home/blob/master/welcome.md "Ice Breakers"  
-[1-1BA]: https://git.generalassemb.ly/WDIplus-ATX/course-overview/blob/master/README.md "Your Learning Experience"
-[1-1BB]: https://git.generalassemb.ly/WDIplus-ATX/how-the-internet-works/blob/master/README.md "How the internet works"
-[1-1C]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/Week_One/Monday.md "Command Line Lab"
-[1-1D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-programming/blob/master/README.md "Intro to programming"
+[1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
+[1-1B]: #
+[1-1C]: #
+[1-1DA]: https://git.generalassemb.ly/wdi-wc-march2018/course-overview "Course Overview"
+[1-1DB]: https://git.generalassemb.ly/wdi-wc-march2018/how-the-internet-works "How the internet works"
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/Week_One/Monday.md "Homework 1"
 
-[1-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
+[1-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/WDIplus-ATX/conditionals-and-loops/blob/master/README.md "Conditionals and Loops"
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays "Problem solving with loops, conditionals & arrays"
 [1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
 [1-2E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Arrays Loops & Conditionals"
 [1-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Homework 2"
 
-[1-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/weds.md "Review Github, Terminal & more"
+[1-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/weds.md "Shortcut + typing practice"
 [1-3B]: https://git.generalassemb.ly/WDIplus-ATX/functions/blob/master/README.md "Functions"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
 [1-3D]: https://git.generalassemb.ly/WDIplus-ATX/Scope/blob/master/README.md "Scope"
@@ -568,11 +567,12 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4E]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving/blob/master/README.md "Problem Solving"
 [1-4F]: https://git.generalassemb.ly/WDIplus-ATX/JS-Racer/blob/master/readme.md "Make a Game"
 
-[1-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
+[1-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md 'Git and Github Lab'
 [1-5D]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github "Git and Github cont."
 [1-5E]: https://git.generalassemb.ly/WDIplus-ATX/kyrell/blob/master/README.md 'Kyrell'
+
 
 #### Daily Schedule Overview
 
