@@ -535,7 +535,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **11:30pm Lab 1**    | Install Fest         | [Loops and Errors][1-5C]                       | [Kyrell Game][1-2C]                  | [Functions Lesson][1-3C]                    | [Psuedo-Coding][1-4C]     |
 **1:30pm Review**     | Review               | Review                                         | Review                               | Review                                      | CSS Walkthrough |
 **2:00pm Lesson 2**   | [Course Overview][1-1DA], [How the Internet Works][1-1DB] |[Git & Github][1-5D]| [Arrays & iterating over them][1-2D]| [Problem Solving w Functions][1-3D] | [Callbacks and Event Listeners][1-4D]
-**3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-5E]                    | [Problem solving with loops, conditionals & arrays][] | [Scope Lesson][1-3F] | [Problem Solving][1-4E]   |
+**3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-2E]                    | [Problem solving with loops, conditionals & arrays][1-3E] | [Scope Lesson][1-4E] | [Problem Solving][1-5E]   |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! | [Finish labs][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]   | [More Function Problems w Scope + CSS Video][1-3E] | [JS-Racer!][1-4F]  |
 
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
