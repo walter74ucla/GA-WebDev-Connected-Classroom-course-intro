@@ -1,5 +1,5 @@
 # WDI Plus ATX Web Development Immersive
-
+<!---
 ## Final Project
 
 #### Week 12 - Final Project
@@ -13,6 +13,7 @@ Time                 | Day 1          |    Day 2      | Day 3                   
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project  / 3:00 Outcomes | Final Project | Final Project Presentations |
 **3:30pm Lab 2**     | Final Project  | Final Project | Outcomes                       | Final Project | Final Project Presentations |
 **Homework**         | Final Project  | Final Project | Final Project     			   | Final Project | CELEBRATION!                |
+--->
 
 <!--- MONDAY --->
 [12-1C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
@@ -22,6 +23,7 @@ Time                 | Day 1          |    Day 2      | Day 3                   
 <!--- WEDS --->
 [12-3A]: https://git.generalassemb.ly/WDIplus-ATX/algorithm-complexity-and-big-o/blob/master/README.md "Big O"
 
+<!---
 ## Unit 4: Getting Bilingual with Python
 
 #### Week 11 - Project 4
@@ -36,6 +38,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 **3:30pm Lab 2**     | Project 4  | Project 4 | Outcomes                         | Project 4 Presentations! | Final Project Approvals |
 **Homework**         | Project 4  | Project 4 | Project 4     					 | [Final Project Prep][11-4F]       | Final Project!!!        |
 
+ --->
 
 <!--- WEDNESDAY --->
 [11-3A]: https://git.generalassemb.ly/gist/alexw/80807439e72c961aeb5e3a70b6abaec7 "data structures"
@@ -59,7 +62,7 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 [11-5D]:#
 [11-5E]:#
 [11-5F]:#
-
+<!---
 #### Week 10 - Python + Django [reference material](https://wdi_sea.gitbooks.io/notes/content/15-python/python.html)
 Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
 -----                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
@@ -71,6 +74,7 @@ Time                 | Day 1                           |    Day 2               
 **2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Inhertiance][10-2D] | [Relationships][10-3D]  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
 **3:30pm Lab 2**     | [Python Challenges][10-1E] | [Codebar Lab][10-2E]  | Outcomes                         | [Django][10-4E]          | Project 4        |
 **Homework**         | [State Capitals + Video][10-1F] | Codebar Lab Cont. + [Reading][10-2F]  | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+ --->
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
@@ -109,7 +113,7 @@ Time                 | Day 1                           |    Day 2               
 [10-5D]:#
 [10-5E]:#
 [10-5F]:#
-
+<!---
 ## Unit 3: Front End 2018 with React
 
 #### Week 9 - Project 3
@@ -122,6 +126,7 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 **1:30pm Review**    | Project 3 | Project 3                 | Project 3 / 3:00 Outcomes       | Project 3                               | Project 3 Presentations |
 **3:30pm Lab 2**     | Project 3 | Project 3                 | Outcomes                        | Project 3                               | Project 3 Presentations |
 **Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | [Python Reading][9-5F] |
+ --->
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -160,7 +165,7 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 [9-5D]:#
 [9-5E]:#
 [9-5F]: https://git.generalassemb.ly/gist/alexw/53a0f9b5a55c60afadca1491eaa431ca "Python reading"
-
+<!---
 #### Week 8 - React
 Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
 -----                | --------                     | --------------                | ----------                                 | --------                 | --------- |
@@ -172,6 +177,7 @@ Time                 | Day 1                        |    Day 2                  
 **2:00pm Lesson 2**  | [React Lab][8-1D]            | [Todo Lab][8-2D]              | React Review + Walkthrough / 3:00 Outcomes | [Reddit Clone Lab][8-3F] | Project 3 |
 **3:30pm Lab 2**     | [React Lab 2][8-1E]          | [Todo Lab][8-2E]              | Outcomes                                   | [Project 3 Intro][8-4E]  | Project 3 |
 **Homework**         | [React Lab][8-1F] + Reading  | [Todo Lab][8-2F]              | [Reddit Clone Lab][8-3F] + [promises reading][8-3FB]                   | Project 3 Planning       | Project 3 |
+ --->
 
 <!--- MONDAY --->
 [8-1A]:#
@@ -211,7 +217,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-5D]:#
 [8-5E]:#
 [8-5F]:#
-
+<!---
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
 #### Week 7 - Project 2 + Bonus Lessons + Hackathon!
@@ -225,6 +231,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  [BCrypt + Roll your Own Auth][7-3B] / 3:00 Outcomes | Hackathon | Hackathon
 **3:30pm Lab 2** | Project 2 |  Project 2 Presentations Cont. | Outcomes | Hackathon| Hackathon |
 **Homework** | Project 2 | Relax | Relax | Hackathon | [Reading + Start thinking about Lightning Talks][7-5F] |
+ --->
 
 <!--- MONDAY --->
 [7-1A]:#
@@ -262,7 +269,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-5D]:#
 [7-5E]:#
 [7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
-
+<!---
 #### Week 6 - Project 2
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
 ----- | -------- | --------------   | ----------    | --------  | ---------   |
@@ -274,6 +281,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals :snowflake: |  Tunely Demos / 3:00 Outcomes | Project 2 | Project 2
 **3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals :snowflake: | Outcomes | Project 2| Project 2 |
 **Homework** | MLK | Project 2  Planning :snowflake: | Project 2 | Project 2 | Project 2 |
+ --->
 
 <!--- MONDAY --->
 [6-1A]:#
@@ -313,7 +321,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [6-5E]:#
 [6-5F]:#
 
-
+<!---
 #### Week 5 - Full CRUD, Full Stack
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -326,6 +334,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | [Embedded Relationships][5-3D] / 3:00 Outcomes | [Continue on Oauth with Passport Lab][5-4D] | SCRUM
 **3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App][5-4E] | Deploy Party! + Final Scrum @4:30|
 **Homework** | [Homework][5-1F]| [Homework: Mongoose Lab Bonuses][5-2F]| [Embedded Relationships Homework][5-3F]  | Homework Finish OAuth | [Continue on lab][5-5C] |
+ --->
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
@@ -365,7 +374,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
-
+<!---
 #### Week 4 - Project 1 Completions, Intro to Node and Express
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -378,6 +387,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [EJS Templates][4-5D1] [Express Router Lesson][4-5D]
 **3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Template Lab][4-5E] |
 **Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [EJS quick lab + Node Lab + Bonus PR][4-5F] |
+ --->
 
 <!--- MONDAY --->
 [4-1A]: #
@@ -417,7 +427,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
 ## Unit 1: The Frontend
-
+<!---
 #### Week 3 - API's, Advanced Problem Solving and Project 1
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -430,6 +440,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | Unit 1 Review    |   [AJAX Part 2][3-2D]  | OOP Refactor / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
 **3:30pm Lab 2** | Unit 1 Review    |   [Continue AJAX Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
 **Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP + Bonus JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
+ --->
 
 [3-1A]:#
 [3-1B]: https://git.generalassemb.ly/WDIplus-ATX/HTML-forms-and-animations/blob/master/README.md "Forms and Animations"
@@ -463,7 +474,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-5D]:#
 [3-5E]:#
 
-
+<!---
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -476,6 +487,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 **2:00pm Lesson 2** | [Objects Pt. 2][2-1D]    |   [LocalStorage & Iterators][2-2D]  | [Vanilla DOM Lab][2-4E] / 3:00 Outcomes     | [Intro to Bootstap][2-3B] | [jQuery Todo List: Full Day Lab][2-4D]
 **3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Continue Building Microblog][2-3C] | [jQuery Todo List: Full Day Lab][2-4G]   |
 **Homework** | [JS Datatypes][2-1F]  | [MicroBlog Pt. 1][2-2F] | [Portfolio Page][2-4F]  | [MicroBlog Pt. 2][2-3G] | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy <!--[2-2F]-->  |
+ --->
 
 [2-1A]: #
 [2-1B]: https://git.generalassemb.ly/WDIplus-ATX/Objects/tree/master "JavaScript Objects"
@@ -511,7 +523,9 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [2-5B]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
 [2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
 [2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue"
+[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue" 
+
+--->
 
 
 #### Week 1 - Fundamentals and Tools
