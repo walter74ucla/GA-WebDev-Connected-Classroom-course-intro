@@ -534,10 +534,11 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | Install Fest         | [Intro to Programming][1-5B]                    | [Conditionals and Loops][1-2B]      | Outcomes                                    | Tic Tac Toe Livecode  |  
  **11:30pm Lab 1**    | Install Fest         | [Loops and Errors][1-5C]                       | [Kyrell Game][1-2C]                  | [Functions Lesson][1-3C]                    | [Psuedo-Coding][1-4C]     |
 **1:30pm Review**     | Review               | Review                                         | Review                               | Review                                      | CSS Walkthrough |
-**2:00pm Lesson 2**   | [Course Overview][1-1DA], [How the Internet Works][1-1DB] |[Git & Github][1-5D]| [Arrays & iterating over them][1-2D]| [Problem Solving w Functions][1-3D] | [Callbacks and Event Listeners][1-4D]
+**2:00pm Lesson 2**   | [Course Overview][1-1DA], [How the Internet Works][1-1DB] |[Git & Github][1-2D]| [Arrays & iterating over them][1-3D]| [Problem Solving w Functions][1-4D] | [Callbacks and Event Listeners][1-5D]
 **3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-2E]                    | [Problem solving with loops, conditionals & arrays][1-3E] | [Scope Lesson][1-4E] | [Problem Solving][1-5E]   |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! | [Finish labs][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]   | [More Function Problems w Scope + CSS Video][1-3E] | [JS-Racer!][1-4F]  |
 
+<!--- MONDAY --->
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
 [1-1B]: #
 [1-1C]: #
@@ -546,20 +547,23 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
 [1-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/Week_One/Monday.md "Homework 1"
 
+<!--- Tues --->
 [1-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
-[1-2B]: https://git.generalassemb.ly/WDIplus-ATX/conditionals-and-loops/blob/master/README.md "Conditionals and Loops"
+[1-2B]: https://git.generalassemb.ly/wdi-wc-march2018/conditionals-and-loops "Conditionals and Loops"
 [1-2C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays "Problem solving with loops, conditionals & arrays"
-[1-2D]: https://git.generalassemb.ly/WDIplus-ATX/Arrays-iterating-over-them-/blob/master/README.md "Arrays & iterating over them"
+[1-2D]: https://git.generalassemb.ly/wdi-wc-march2018/git-and-github "Git + GitHub"
 [1-2E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Arrays Loops & Conditionals"
 [1-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md "Homework 2"
 
+<!--- Weds --->
 [1-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/weds.md "Shortcut + typing practice"
 [1-3B]: https://git.generalassemb.ly/WDIplus-ATX/functions/blob/master/README.md "Functions"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
-[1-3D]: https://git.generalassemb.ly/WDIplus-ATX/Scope/blob/master/README.md "Scope"
+[1-3D]:https://git.generalassemb.ly/wdi-wc-march2018/Arrays-iterating-over-them "Arrays + Iteration"
 [1-3E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Refresh from today + CSS Videos'
 [1-3F]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
 
+<!--- Thurs --->
 [1-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
 [1-4C]: https://git.generalassemb.ly/WDIplus-ATX/Pseudo-coding "Psuedo-Coding"
@@ -567,6 +571,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4E]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving/blob/master/README.md "Problem Solving"
 [1-4F]: https://git.generalassemb.ly/WDIplus-ATX/JS-Racer/blob/master/readme.md "Make a Game"
 
+<!--- Friday --->
 [1-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/fri.md "HTML Mockup"
 [1-5B]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github/blob/master/README.md "Tools and Setup"
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md 'Git and Github Lab'
