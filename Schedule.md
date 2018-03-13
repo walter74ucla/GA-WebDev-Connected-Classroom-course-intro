@@ -573,16 +573,17 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md 'Git and Github Lab'
 [1-5D]: https://git.generalassemb.ly/WDIplus-ATX/git-and-github "Git and Github cont."
 [1-5E]: https://git.generalassemb.ly/WDIplus-ATX/kyrell/blob/master/README.md 'Kyrell'
+
 #### Daily Schedule Overview
 
-Time | Monday - Tuesday | Wednesday |Thursday - Friday |
+Time in CST | Monday - Wednesday | Thursday | Friday |
 ----- | -------- | ----- | ----- |
-9:00  | Warm-Ups | Warm-ups | Warm-Ups |
-9:45 | Stand ups | Stand ups | Stand ups |
-10:00 | Lesson 1 | Lesson 1 | Lesson 1  |
-11:30 | Lab 1 | Lab 1 | Lab 1 |
-12:30 | Lunch | Lunch | Lunch |
-1:30 | Afternoon review | Lesson or Lab 2 | Afternoon review |
-2:00 | Lesson 2 | Lesson or Lab 2/ 3:00 Outcomes | Lesson 2 |
-3:30 | Lab 2 | Outcomes | Lab 2 |
-4:30 | Intro homework, One-on-ones | Get started on homework | Intro homework, One-on-ones |
+10:00  | Warm-Ups | Outcomes | Warm-Ups |
+10:45 | Stand ups | Outcomes | Stand ups |
+11:00 | Lesson 1  | Outcomes | Lesson 1  |
+12:30 | Lab 1     | Lab 1 | Lab 1 |
+1:30 | Lunch | Lunch | Lunch |
+2:30 | Afternoon review | Afternoon review | Afternoon review |
+3:00 | Lesson 2 | Lesson 2 | Lesson 2 |
+4:30 | Lab 2 | Lab 2 | Lab 2 |
+5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |
