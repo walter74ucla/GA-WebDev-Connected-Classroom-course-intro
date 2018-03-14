@@ -1,4 +1,4 @@
-# WDI Plus ATX Web Development Immersive
+# WDI West Coast March 2018
 <!---
 ## Final Project
 
