@@ -585,7 +585,7 @@ Time in CST | Monday - Wednesday | Thursday | Friday |
 ----- | -------- | ----- | ----- |
 10:00  | Warm-Ups | Outcomes | Warm-Ups |
 10:45 | Stand ups | Outcomes | Stand ups |
-11:00 | Lesson 1  | Outcomes | Lesson 1  |
+11:00 | Lesson 1  | Outcomes/ Lab 1 12:00 | Lesson 1  |
 12:30 | Lab 1     | Lab 1 | Lab 1 |
 1:30 | Lunch | Lunch | Lunch |
 2:30 | Afternoon review | Afternoon review | Afternoon review |
