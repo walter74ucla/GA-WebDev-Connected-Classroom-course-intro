@@ -534,9 +534,9 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
  **10:00am Lesson 1** | Install Fest         | [Intro to Programming][1-2B]                    | [Conditionals and Loops][1-3B]      | Outcomes/[HTML Walkthrough][1-4A]                                  | Tic Tac Toe Livecode  |  
  **11:30pm Lab 1**    | Install Fest         | [Loops and Errors][1-2C]                       | [Kyrell Game][1-3C]                  | [Functions Lesson][1-4C]                    | [Psuedo-Coding][1-5C]     |
 **1:30pm Review**     | [Course Overview][1-1DA] | Review                                         | Review                               | Review                                      | Review |
-**2:00pm Lesson 2**   |  [How the Internet Works][1-1DB] |[Git & Github][1-2D]| [Arrays & iterating over them][1-3D](Brandi)| [Problem Solving w Functions Lab][1-4D] | [Callbacks and Event Listeners][1-5D]
-**3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-2E]                    | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5E]   |
-**Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! | [Finish labs][1-2F] | [Arrays, loops, conditionals, HTML videos][1-2E]   | [More Function Problems w Scope + CSS Video][1-3E] | [JS-Racer!][1-4F]  |
+**2:00pm Lesson 2**   |  [How the Internet Works][1-1DB] |[Git & Github][1-2D] (Joe)| [Arrays & iterating over them][1-3D](Brandi)| [Problem Solving w Functions Lab][1-4D] (Shahzad)| [Callbacks and Event Listeners][1-5D]
+**3:30pm Lab 2**      | [Command Line Lab][1-1E]| [Git & Github Lab][1-2E] (Joe)                   | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5E]   |
+**Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! | [Finish labs][1-2F] (Joe) | [Arrays, loops, conditionals, HTML videos][1-2E]   | [More Function Problems w Scope + CSS Video][1-3E] (Shahzad)| [JS-Racer!][1-4F]  |
 
 <!--- MONDAY --->
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
