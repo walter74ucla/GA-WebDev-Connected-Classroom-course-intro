@@ -531,7 +531,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 -----                 | --------             | --------------                                 | ----------                           | --------                                    | ---------   |
  **9:00am Warm Ups**  | [Install Fest][1-1A] | [Shortcuts & Setting you up for Success][1-2A] | [Shortcuts and Typing Practice][1-3A]| Outcomes                                    | [HTML Walkthrough][1-5A]  
  **9:45am Stand Up**  | Install Fest         | Stand Up                                       | Stand Up                             | Outcomes                                    | Stand Up |
- **10:00am Lesson 1** | Install Fest         | [Intro to Programming][1-2B]                    | [Conditionals and Loops][1-2B]      | Outcomes                                    | Tic Tac Toe Livecode  |  
+ **10:00am Lesson 1** | Install Fest         | [Intro to Programming][1-2B]                    | [Conditionals and Loops][1-3B]      | Outcomes                                    | Tic Tac Toe Livecode  |  
  **11:30pm Lab 1**    | Install Fest         | [Loops and Errors][1-2C]                       | [Kyrell Game][1-3C]                  | [Functions Lesson][1-4C]                    | [Psuedo-Coding][1-5C]     |
 **1:30pm Review**     | Review               | Review                                         | Review                               | Review                                      | CSS Walkthrough |
 **2:00pm Lesson 2**   | [Course Overview][1-1DA], [How the Internet Works][1-1DB] |[Git & Github][1-2D]| [Arrays & iterating over them][1-3D]| [Problem Solving w Functions Lab][1-4D] | [Callbacks and Event Listeners][1-5D]
@@ -557,7 +557,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 <!--- Weds --->
 [1-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/weds.md "Shortcut + typing practice"
-[1-3B]: https://git.generalassemb.ly/WDIplus-ATX/functions/blob/master/README.md "Functions"
+[1-3B]: https://git.generalassemb.ly/wdi-wc-march2018/conditionals-and-loops "Conditionals and Loops"
 [1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
 [1-3D]:https://git.generalassemb.ly/wdi-wc-march2018/Arrays-iterating-over-them "Arrays + Iteration"
 [1-3E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Refresh from today + CSS Videos'
