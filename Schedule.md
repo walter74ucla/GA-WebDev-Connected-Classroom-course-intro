@@ -550,7 +550,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!--- Tues --->
 [1-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/tues.md "Shortcuts & Setting you up for Success"
 [1-2B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-programming "Intro to programming"
-[1-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Problem-Solving-Loops-Conditionals-Arrays "Problem solving with loops, conditionals & arrays"
+[1-2C]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Problem solving with loops, conditionals & arrays"
 [1-2D]: https://git.generalassemb.ly/wdi-wc-march2018/git-and-github "Git + GitHub"
 [1-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Homework/tree/master/Week_One/Tuesday/homework-2 "Arrays Loops & Conditionals"
 [1-2F]: https://git.generalassemb.ly/wdi-wc-march2018/Homework/tree/master/Week_One/Tuesday/homework-2 "Homework 2"
