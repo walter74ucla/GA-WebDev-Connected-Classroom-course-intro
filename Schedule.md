@@ -544,7 +544,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-1C]: #
 [1-1DA]: https://git.generalassemb.ly/wdi-wc-march2018/course-overview "Course Overview"
 [1-1DB]: https://git.generalassemb.ly/wdi-wc-march2018/how-the-internet-works "How the internet works"
-[1-1E]: https://git.generalassemb.ly/WDIplus-ATX/loops-and-errors/blob/master/README.md "Loops and errors"
+[1-1E]: https://git.generalassemb.ly/flawgical/Command-line-lab1/blob/master/README.md 'Command Line Lab"
 [1-1F]: https://git.generalassemb.ly/flawgical/Homework1/tree/master "Homework 1"
 
 <!--- Tues --->
