@@ -558,7 +558,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!--- Weds --->
 [1-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/weds.md "Shortcut + typing practice"
 [1-3B]: https://git.generalassemb.ly/wdi-wc-march2018/conditionals-and-loops "Conditionals and Loops"
-[1-3C]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-With-Functions/blob/master/README.md "Problem Solving With Functions"
+[1-3C]: https://git.generalassemb.ly/wdi-wc-march2018/kyrell "Kyrell"
 [1-3D]:https://git.generalassemb.ly/wdi-wc-march2018/Arrays-iterating-over-them "Arrays + Iteration"
 [1-3E]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Refresh from today + CSS Videos'
 [1-3F]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
