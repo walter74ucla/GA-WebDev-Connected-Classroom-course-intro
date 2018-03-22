@@ -560,7 +560,7 @@ Time                 | Day 1                    |    Day 2                      
 [1-3B]: https://git.generalassemb.ly/wdi-wc-march2018/conditionals-and-loops "Conditionals and Loops"
 [1-3C]: https://git.generalassemb.ly/wdi-wc-march2018/kyrell "Kyrell"
 [1-3D]:https://git.generalassemb.ly/wdi-wc-march2018/Arrays-iterating-over-them "Arrays + Iteration"
-[1-3E]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving-Loops-Conditionals-Arrays 'Refresh from today + CSS Videos'
+[1-3E]: https://git.generalassemb.ly/wdi-wc-march2018/More-functions-problems-w-scope-and-CSS-/blob/master/README.md 'Refresh from today + CSS Videos'
 [1-3F]: https://git.generalassemb.ly/WDIplus-ATX/Function-Problems-With-Scope/blob/master/README.md "Function Problems With Scope"
 [1-3G]: https://git.generalassemb.ly/wdi-wc-march2018/Homework/tree/master/Week_One/Wednesday/Arrays-Loops-Conditionals "Arrays Loops HW"
 
