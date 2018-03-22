@@ -477,53 +477,53 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!---
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** |  Homework Review  | [HTML Mockup][2-2A] | [CSS Mockup ][2-3A]   | [Whiteboard Thursday][2-4A] | [Flexbox Froggy][2-5A] |
- **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up ||
- **10:00am Lesson 1** | [Objects][2-1B]    |  [Combining Datatypes: Object-ception][2-2B]     | [Advanced HTML & CSS][2-3B] | [Intro to jQuery][2-4B]      | [jQuery Todo List: Full Day Lab][2-5B]       |  
- **11:30pm Lab 1** | [Objects Lab][2-2C]  |  [Datatypes Lab][2-1C]  | [Create a 404 Page][2-2C]  | [jQuery Events Lab][2-3F] | [jQuery Todo List: Full Day Lab][2-4C]     |
-**1:30pm Review** | Review | Review | Vanilla DOM Lab | Review | Review |
-**2:00pm Lesson 2** | [Objects Pt. 2][2-1D]    |   [LocalStorage & Iterators][2-2D]  | [Vanilla DOM Lab][2-4E] / 3:00 Outcomes     | [Intro to Bootstap][2-3B] | [jQuery Todo List: Full Day Lab][2-4D]
-**3:30pm Lab 2** | [Solar System Lab][2-1E] |  [Continue Datatypes Lab][2-2E] | Outcomes | [Continue Building Microblog][2-3C] | [jQuery Todo List: Full Day Lab][2-4G]   |
-**Homework** | [JS Datatypes][2-1F]  | [MicroBlog Pt. 1][2-2F] | [Portfolio Page][2-4F]  | [MicroBlog Pt. 2][2-3G] | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy [2-2F]  |
- --->
+Time                 | Day 1                    |    Day 2                                    | Day 3                       | Day 4                                | Day  5                                 |
+-----                | --------                 | --------------                              | ----------                  | --------                             | ---------                              |
+**9:00am Warm Ups**  | JS Racer Science Fair    | [HTML Mockup][2-2A]                         | [CSS Mockup ][2-3A]         | Outcomes                             | [Flexbox Froggy][2-5A]                 |
+**9:45am Stand Up**  | Stand Up                 | Stand Up                                    | Stand Up                    | Outcomes                             | Stand Up                               |
+**10:00am Lesson 1** | [Objects][2-1B]          | [Combining Datatypes: Object-ception][2-2B] | [Advanced HTML & CSS][2-3B] | Outcomes/ Whiteboard Thursday][2-4A] | [jQuery Todo List: Full Day Lab][2-5B] |  
+**11:30pm Lab 1**    | [Objects Lab][2-1C]      | [Datatypes Lab][2-2C]                       | [Create a 404 Page][2-3C]   | [Intro to jQuery Lesson][2-4B](Joe)  | jQuery Todo List: Full Day Lab         |
+**1:30pm Review**    | Review                   | Review                                      | Review                      | Review                               | Review                                 |
+**2:00pm Lesson 2**  | [Objects Pt. 2][2-1D]    | [LocalStorage & Iterators][2-2D]            | [Intro to Bootstap][2-3D]   | [jQuery Events Lab][2-4D]            | jQuery Todo List: Full Day Lab         |
+**3:30pm Lab 2**     | [Solar System Lab][2-1E] | [Continue Datatypes Lab][2-2E]              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
+**Homework**         | [JS Datatypes][2-1F]     | [MicroBlog Pt. 1][2-2F]                     | [Portfolio Page][2-3F]      | [MicroBlog Pt. 2][2-4F]              | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy |
+--->
 
-[2-1A]: #
-[2-1B]: https://git.generalassemb.ly/WDIplus-ATX/Objects/tree/master "JavaScript Objects"
-[2-1C]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md 'Combining Datatypes Lab'
-[2-1D]: https://git.generalassemb.ly/WDIplus-ATX/Objects/blob/master/README.md "Objects Part 2"
-[2-1E]: https://git.generalassemb.ly/WDIplus-ATX/Afternoon-lab-solarsystem "Solar System Lab"
-[2-1F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS Videos'
+<!--- MONDAY --->
+<!-- [2-1A]: # --->
+<!-- [2-1B]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/Objects/tree/master "JavaScript Objects" -->
+<!-- [2-1C]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md 'Combining Datatypes Lab' -->
+<!-- [2-1D]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/Objects/blob/master/README.md "Objects Part 2" -->
+<!-- [2-1E]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/Afternoon-lab-solarsystem "Solar System Lab" -->
+<!-- [2-1F]: # <!-- https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Objects and CSS Videos' -->
+<!--- Tues --->
+<!-- [2-2A]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday "Html Mockup 2" -->
+<!-- [2-2B]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/object-ception/blob/master/README.md "Object-ception" -->
+<!-- [2-2C]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/create-a-404-page/blob/master/README.md -->
+<!-- [2-2D]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/local-storage-and-iterators "Local Storage and Iterators" -->
+<!-- [2-2E]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md "Continued Combining Datatypes" -->
+<!-- [2-2F]: # <!-- https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'MicroBlog' -->
+<!--- Weds --->
+<!-- [2-3A]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2" -->
+<!-- [2-3B]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/intro-to-bootstrap 'Intro to Bootstrap' -->
+<!-- [2-3C]: # <!-- https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'Continue Building Microblog' -->
+<!-- [2-3D]: # <!-- w02/d03/m4-forms-with-jquery/ "Forms with jQuery" -->
+<!-- [2-3E]: # <!-- w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor" -->
+<!-- [2-3F]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/jQuery-Events-Lab/blob/master/README.md 'jQuery Events' -->
+<!-- [2-3G]: # <!-- https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'Microblog pt2' -->
+<!--- Thurs --->
+<!-- [2-4A]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"    -->
+<!-- [2-4B]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/Intro-to-jQuery/blob/master/README.md "Intro to jQuery" -->
+<!-- [2-4C]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab" -->
+<!-- [2-4D]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab" -->
+<!-- [2-4E]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM "Vanilla DOM Lab" -->
+<!-- [2-4F]: # <!-- https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Portfolio Homework' -->
+<!-- [2-4G]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab" -->
+<!--- Friday --->
+<!-- [2-5A]: # <!-- http://flexboxfroggy.com/ "Flexbox Froggy" -->
+<!-- [2-5B]: # <!-- https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab" -->
 
-[2-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/tree/master/week-2/tuesday "Html Mockup 2"
-[2-2B]: https://git.generalassemb.ly/WDIplus-ATX/object-ception/blob/master/README.md "Object-ception"
-[2-2C]: https://git.generalassemb.ly/WDIplus-ATX/create-a-404-page/blob/master/README.md
-[2-2D]: https://git.generalassemb.ly/WDIplus-ATX/local-storage-and-iterators "Local Storage and Iterators"
-[2-2E]: https://git.generalassemb.ly/WDIplus-ATX/combining-datatypes-morning-lab/blob/master/README.md "Continued Combining Datatypes"
-[2-2F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'MicroBlog'
 
-[2-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2"
-[2-3B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-bootstrap 'Intro to Bootstrap'
-[2-3C]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'Continue Building Microblog'
-[2-3D]: w02/d03/m4-forms-with-jquery/ "Forms with jQuery"
-[2-3E]: w02/d03/m5-microblog-bootstrap-refactor/ "Microblog Bootstrap Refactor"
-[2-3F]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Events-Lab/blob/master/README.md 'jQuery Events'
-[2-3G]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Week_Two/Tuesday.md 'Microblog pt2'
-
-[2-4A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "Whiteboard Thursday"   
-[2-4B]: https://git.generalassemb.ly/WDIplus-ATX/Intro-to-jQuery/blob/master/README.md "Intro to jQuery"
-[2-4C]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
-[2-4D]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
-[2-4E]: https://git.generalassemb.ly/WDIplus-ATX/Vanilla-DOM "Vanilla DOM Lab"
-[2-4F]: https://github.com/myDeveloperJourney/GA-Student-Homework/blob/master/Instructions.md 'Portfolio Homework'
-[2-4G]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
-
-[2-5A]: http://flexboxfroggy.com/ "Flexbox Froggy"
-[2-5B]: https://git.generalassemb.ly/WDIplus-ATX/jQuery-Todo-List/blob/master/README.md "Full-Day jQuery ToDo Lab"
-[2-5C]: w02/d05/m4-create-an-issue/ "Create an Issue"
-[2-5D]: # " "
-[2-5E]: w02/d05/hmwk-fix-an-issue/ "Fix an Issue" 
 
 #### Week 1 - Fundamentals and Tools
 
