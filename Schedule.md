@@ -568,7 +568,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [1-4A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/thurs "HTML Mockup"
 [1-4B]: w01/d04/m2-DOM-manipulation-and-events "DOM Manipulation and Events"
 [1-4C]:https://git.generalassemb.ly/wdi-wc-march2018/functions "Functions"
-[1-4D]: https://git.generalassemb.ly/WDIplus-ATX/callbacks-and-event-listeners/blob/master/README.md "Callbacks and Event Listeners"
+[1-4D]: https://git.generalassemb.ly/flawgical/Problem-solving-with-functions/blob/master/README.md "Problem-solving-w-functions"
 [1-4E]: https://git.generalassemb.ly/wdi-wc-march2018/Scope "Scope"
 [1-4F]: https://git.generalassemb.ly/WDIplus-ATX/JS-Racer/blob/master/readme.md "Make a Game"
 
