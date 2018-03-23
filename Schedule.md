@@ -570,7 +570,7 @@ Time                 | Day 1                    |    Day 2                      
 [1-4C]:https://git.generalassemb.ly/wdi-wc-march2018/functions "Functions"
 [1-4D]: https://git.generalassemb.ly/flawgical/Problem-solving-with-functions/blob/master/README.md "Problem-solving-w-functions"
 [1-4E]: https://git.generalassemb.ly/wdi-wc-march2018/Scope "Scope"
-[1-4F]: https://git.generalassemb.ly/WDIplus-ATX/JS-Racer/blob/master/readme.md "Make a Game"
+[1-4F]: https://git.generalassemb.ly/wdi-wc-march2018/JS-Racer "Make a Game"
 
 <!--- Friday --->
 [1-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-1/fri.md "CSS Mockup"
