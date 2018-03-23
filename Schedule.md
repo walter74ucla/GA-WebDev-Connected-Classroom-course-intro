@@ -578,6 +578,7 @@ Time                 | Day 1                    |    Day 2                      
 [1-5C]: https://git.generalassemb.ly/WDIplus-ATX/Git-Github-Lab/blob/master/Instructions.md 'Git and Github Lab'
 [1-5D]: https://git.generalassemb.ly/wdi-wc-march2018/callbacks-and-event-listeners "Callbacks and Event Listeners"
 [1-5E]: https://git.generalassemb.ly/WDIplus-ATX/kyrell/blob/master/README.md 'Kyrell'
+[1-5F]: https://git.generalassemb.ly/WDIplus-ATX/Pseudo-coding 'Pseudo-coding'
 
 
 #### Daily Schedule Overview
