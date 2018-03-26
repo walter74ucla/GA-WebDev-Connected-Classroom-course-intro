@@ -489,16 +489,16 @@ Time                 | Day 1                    |    Day 2                      
 
 <!--- MONDAY --->
  [2-1A]: #
- [2-1B]:  https://git.generalassemb.ly/WDIplus-ATX/Objects/tree/master "JavaScript Objects" 
+ [2-1B]:  https://git.generalassemb.ly/wdi-wc-march2018/Objects "JavaScript Objects" 
  [2-1C]: https://git.generalassemb.ly/wdi-wc-march2018/Objects-lab 'Objects Lab' 
- [2-1D]:  https://git.generalassemb.ly/WDIplus-ATX/Objects/blob/master/README.md "Objects Part 2" 
+ [2-1D]:  https://git.generalassemb.ly/wdi-wc-march2018/Objects "Objects Part 2" 
  [2-1E]:  https://git.generalassemb.ly/wdi-wc-march2018/Afternoon-lab-solarsystem "Solar System Lab" 
  [2-1F]: https://git.generalassemb.ly/wdi-wc-march2018/Homework/blob/master/Week_Two/Monday/JS_Datatypes.md 'Objects and CSS Videos'
 <!--- Tues --->
  [2-2A]:  https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-2/tuesday "Html Mockup 2" 
- [2-2B]:  https://git.generalassemb.ly/WDIplus-ATX/object-ception/blob/master/README.md "Object-ception" 
+ [2-2B]:  https://git.generalassemb.ly/wdi-wc-march2018/object-ception "Object-ception" 
  [2-2C]:  https://git.generalassemb.ly/wdi-wc-march2018/combining-datatypes-morning-lab 
- [2-2D]:  https://git.generalassemb.ly/WDIplus-ATX/local-storage-and-iterators "Local Storage and Iterators" 
+ [2-2D]:  https://git.generalassemb.ly/wdi-wc-march2018/local-storage-and-iterators "Local Storage and Iterators" 
  [2-2E]: https://git.generalassemb.ly/wdi-wc-march2018/combining-datatypes-morning-lab "Continued Combining Datatypes" 
  [2-2F]: https://git.generalassemb.ly/wdi-wc-march2018/Homework/blob/master/Week_Two/Tuesday/Microblog.md 'MicroBlog' 
 
