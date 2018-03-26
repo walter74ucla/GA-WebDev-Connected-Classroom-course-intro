@@ -484,7 +484,7 @@ Time                 | Day 1                    |    Day 2                      
 **11:30pm Lab 1**    | [Objects Lab][2-1C]      | [Datatypes Lab][2-2C]                       | [Create a 404 Page][2-3C]   | [Intro to jQuery Lesson][2-4B](Joe)  | jQuery Todo List: Full Day Lab         |
 **1:30pm Review**    | Review                   | Review                                      | Review                      | Review                               | Review                                 |
 **2:00pm Lesson 2**  | [Objects Pt. 2][2-1D]    | [LocalStorage & Iterators][2-2D]            | [Intro to Bootstap][2-3D]   | [jQuery Events Lab][2-4D]            | jQuery Todo List: Full Day Lab         |
-**3:30pm Lab 2**     | [Solar System Lab][2-1E] | [Continue Datatypes Lab][2-2E]              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
+**3:30pm Lab 2**     | [Solar System Lab][2-1E] (Brandi) | [Continue Datatypes Lab][2-2E]              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
 **Homework**         | [JS Datatypes][2-1F]     | [MicroBlog Pt. 1][2-2F]                     | [Portfolio Page][2-3F]      | [MicroBlog Pt. 2][2-4F]              | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy |
 
 <!--- MONDAY --->
