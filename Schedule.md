@@ -481,10 +481,10 @@ Time                 | Day 1                    |    Day 2                      
 **9:00am Warm Ups**  | JS Racer Science Fair    | [HTML Mockup][2-2A]                         | [CSS Mockup ][2-3A]         | Outcomes                             | [Flexbox Froggy][2-5A]                 |
 **9:45am Stand Up**  | Stand Up                 | Stand Up                                    | Stand Up                    | Outcomes                             | Stand Up                               |
 **10:00am Lesson 1** | [Objects][2-1B]          | [Combining Datatypes: Object-ception][2-2B] | [Advanced HTML & CSS][2-3B] | Outcomes/ Whiteboard Thursday][2-4A] | [jQuery Todo List: Full Day Lab][2-5B] |  
-**11:30pm Lab 1**    | [Objects Lab][2-1C]      | [Datatypes Lab][2-2C]                       | [Create a 404 Page][2-3C]   | [Intro to jQuery Lesson][2-4B](Joe)  | jQuery Todo List: Full Day Lab         |
+**11:30pm Lab 1**    | [Objects Lab][2-1C]      | [Datatypes Lab][2-2C] (Brandi)                      | [Create a 404 Page][2-3C]   | [Intro to jQuery Lesson][2-4B](Joe)  | jQuery Todo List: Full Day Lab         |
 **1:30pm Review**    | Review                   | Review                                      | Review                      | Review                               | Review                                 |
 **2:00pm Lesson 2**  | [Objects Pt. 2][2-1D]    | [LocalStorage & Iterators][2-2D]            | [Intro to Bootstap][2-3D]   | [jQuery Events Lab][2-4D]            | jQuery Todo List: Full Day Lab         |
-**3:30pm Lab 2**     | [Solar System Lab][2-1E] (Brandi) | [Continue Datatypes Lab][2-2E]              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
+**3:30pm Lab 2**     | [Solar System Lab][2-1E] (Brandi) | [Continue Datatypes Lab][2-2E] (Brandi)              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
 **Homework**         | [JS Datatypes][2-1F]     | [MicroBlog Pt. 1][2-2F]                     | [Portfolio Page][2-3F]      | [MicroBlog Pt. 2][2-4F]              | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy |
 
 <!--- MONDAY --->
