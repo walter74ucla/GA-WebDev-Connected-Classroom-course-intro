@@ -474,7 +474,6 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-5D]:#
 [3-5E]:#
 
-<!--
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
 Time                 | Day 1                    |    Day 2                                    | Day 3                       | Day 4                                | Day  5                                 |
@@ -487,7 +486,6 @@ Time                 | Day 1                    |    Day 2                      
 **2:00pm Lesson 2**  | [Objects Pt. 2][2-1D]    | [LocalStorage & Iterators][2-2D]            | [Intro to Bootstap][2-3D]   | [jQuery Events Lab][2-4D]            | jQuery Todo List: Full Day Lab         |
 **3:30pm Lab 2**     | [Solar System Lab][2-1E] | [Continue Datatypes Lab][2-2E]              | [Vanilla DOM Lab][2-3E]     | [Continue Building Microblog][2-4E]  | jQuery Todo List: Full Day Lab         |
 **Homework**         | [JS Datatypes][2-1F]     | [MicroBlog Pt. 1][2-2F]                     | [Portfolio Page][2-3F]      | [MicroBlog Pt. 2][2-4F]              | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy |
--->
 
 <!--- MONDAY --->
  [2-1A]: #
