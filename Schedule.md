@@ -504,7 +504,7 @@ Time                 | Day 1                    |    Day 2                      
 
 <!--- Weds --->
  [2-3A]:  https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-2/wednesday.md "CSS Mockup 2" 
- [2-3B]:  https://git.generalassemb.ly/wdi-wc-march2018/advanced-html-and-css
+ [2-3B]:  https://git.generalassemb.ly/wdi-wc-march2018/advanced-html-and-css "HTML + CSS"
  [2-3C]:  https://git.generalassemb.ly/wdi-wc-march2018/create-a-404-page 'Continue Building Microblog' 
  [2-3D]:  https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap "Bootstrap" 
  [2-3E]:  https://git.generalassemb.ly/wdi-wc-march2018/Vanilla-DOM "Microblog Bootstrap Refactor" 
