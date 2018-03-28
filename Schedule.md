@@ -508,7 +508,7 @@ Time                 | Day 1                    |    Day 2                      
  [2-3B]:  https://git.generalassemb.ly/wdi-wc-march2018/advanced-html-and-css "HTML + CSS"
  [2-3C]:  https://git.generalassemb.ly/wdi-wc-march2018/create-a-404-page 'Continue Building Microblog' 
  [2-3D]:  https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap "Bootstrap" 
- [2-3E]:  https://git.generalassemb.ly/wdi-wc-march2018/Vanilla-DOM "Microblog Bootstrap Refactor" 
+ [2-3E]:  #
  [2-3F]:  https://git.generalassemb.ly/wdi-wc-march2018/Homework/blob/master/Week_Two/Wednesday/Portfolio.md 'jQuery Events' 
 
 
