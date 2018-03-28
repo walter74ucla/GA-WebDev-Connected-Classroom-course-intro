@@ -427,22 +427,22 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
 ## Unit 1: The Frontend
-<!---
-#### Week 3 - API's, Advanced Problem Solving and Project 1
 
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Review Homework   | [Warm Up][3-2A] | [Whiteboard Wednesdays][3-3A]| [Warm Up][3-4A]  | [Project 1 Plan Share][3-5A]|
- **9:45am Stand Up** | Stand Up   | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B]    |  [AJAX Part 1][3-2B]     | [Object Oriented Programming][3-3B]           | [MVP's and Agile Methodologies][3-4B]      | Project 1       |  
- **11:30pm Lab 1** | [HTML Forms Lab][3-1C]     |  [AJAX Lab][3-2C]   | [Flower Power OOP Lab][3-2C]   | [Project 1 Intro][3-3C] | Project 1 |
-**1:30pm Review** | Review | Review | Review | Review | Review |
-**2:00pm Lesson 2** | Unit 1 Review    |   [AJAX Part 2][3-2D]  | OOP Refactor / 3:00 Outcomes     | [Project 1 Planning & Proposals][3-3C] | Project 1
-**3:30pm Lab 2** | Unit 1 Review    |   [Continue AJAX Lab][3-2E] | Outcomes | [Project 1 Planning & Proposals][3-3C] | Project 1   |
-**Homework** | [Responsive CSS][3-1F]  | [Homework][3-2F] | [OOP + Bonus JS Racer Refactor][3-3F]  | [ Video: Live code of Space Invaders + Project 1 Boilerplate][3-4F] | Project 1 |
- --->
+<!-- #### Week 3 - API's, OOP, and Project 1
 
-[3-1A]:#
+Time                  | Day 1                             |    Day 2                            | Day 3                                 | Day 4           | Day  5    |
+-----                 | --------                          | --------------                      | ----------                            | --------        | --------- |
+ **9:00am Warm Ups**  | [Warm Up][3-1A]                   | [Warm Up][3-2A]                     | [Whiteboard Wednesdays][3-3A]         | [Warm Up][3-4A] | Project 1 |
+ **9:45am Stand Up**  | Stand Up                          | Stand Up                            | Stand Up                              | Stand Up        | Stand Up  |
+ **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B] | [AJAX Part 2][3-2B]                 | OOP Refactor                          | Project 1       | Project 1 |  
+ **11:30pm Lab 1**    | [HTML Forms Lab][3-1C]            | [Continue AJAX Lab][3-2C]           | [MVP's and Agile Methodologies][3-3C] | Project 1       | Project 1 |
+**1:30pm Review**     | Review                            | Review                              | Review Unit 1                         | Project 1       | Project 1 |
+**2:00pm Lesson 2**   | [AJAX Part 1][3-1D]               | [Object Oriented Programming][3-2D] | Review Unit 1                         | Project 1       | Project 1 |
+**3:30pm Lab 2**      | [AJAX Lab][3-1E]                  | [Flower Power OOP Lab][3-2E]        | Review Unit 1                         | Project 1       | Project 1 |
+**Homework**          | [Responsive CSS][3-1F]            | [Homework][3-2F]                    | [Project 1 Planning & Proposals][3-3F]| Promect 1       | Project 1 |
+
+
+[3-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-3/monday.md
 [3-1B]: https://git.generalassemb.ly/WDIplus-ATX/HTML-forms-and-animations/blob/master/README.md "Forms and Animations"
 [3-1C]: https://git.generalassemb.ly/WDIplus-ATX/HTML-Forms-Lab/blob/master/README.md 'HTML Forms Lab'
 [3-1D]:#
@@ -473,6 +473,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [3-5C]:#
 [3-5D]:#
 [3-5E]:#
+ -->
 
 #### Week 2 - Intermediate JavaScript, jQuery and the DOM
 
