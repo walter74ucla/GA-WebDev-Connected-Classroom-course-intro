@@ -433,15 +433,14 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 
 Time                  | Day 1                             |    Day 2                            | Day 3                                 | Day 4           | Day  5    |
 -----                 | --------                          | --------------                      | ----------                            | --------        | --------- |
- **9:00am Warm Ups**  | [Warm Up][3-1A]                   | [Warm Up][3-2A]                     | [Whiteboard Wednesdays][3-3A]         | [Warm Up][3-4A] | Project 1 |
- **9:45am Stand Up**  | Stand Up                          | Stand Up                            | Stand Up                              | Stand Up        | Stand Up  |
- **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B] | [AJAX Part 2][3-2B]                 | OOP Refactor                          | Project 1       | Project 1 |  
- **11:30pm Lab 1**    | [HTML Forms Lab][3-1C]            | [Continue AJAX Lab][3-2C]           | [MVP's and Agile Methodologies][3-3C] | Project 1       | Project 1 |
-**1:30pm Review**     | Review                            | Review                              | Review Unit 1                         | Project 1       | Project 1 |
-**2:00pm Lesson 2**   | [AJAX Part 1][3-1D] (Brandi)              | [Object Oriented Programming][3-2D] | Review Unit 1                         | Project 1       | Project 1 |
-**3:30pm Lab 2**      | [AJAX Lab][3-1E]  (Brandi)                | [Flower Power OOP Lab][3-2E]        | Review Unit 1                         | Project 1       | Project 1 |
-**Homework**          | [Responsive CSS][3-1F]            | [Homework][3-2F]                    | [Project 1 Planning & Proposals][3-3F]| Promect 1       | Project 1 |
-
+ **9:00am Warm Ups**  | [Warm Up][3-1A]                   | [Warm Up][3-2A]                     | [Whiteboard Wednesdays][3-3A]         | Outcomes        | Project 1 |
+ **9:45am Stand Up**  | Stand Up                          | Stand Up                            | Stand Up                              | Outcomes        | Stand Up  |
+ **10:00am Lesson 1** | [HTML5 Forms + CSS Animate][3-1B] | [AJAX Part 2][3-2B]                 | OOP Refactor                          | Outcomes/ Project 1 | Project 1 |  
+ **11:30pm Lab 1**    | [HTML Forms Lab][3-1C]            | [Continue AJAX Lab][3-2C]           | Review Unit 1 (Alex)   			    | Project 1       | Project 1 |
+**1:30pm Review**     | Review                            | Review                              | Review Unit 1 (Alex)                  | Project 1       | Project 1 |
+**2:00pm Lesson 2**   | [AJAX Part 1][3-1D] (Brandi)      | [Object Oriented Programming][3-2D] | Review Unit 1 (Local)                 | Project 1       | Project 1 |
+**3:30pm Lab 2**      | [AJAX Lab][3-1E]  (Brandi)        | [Flower Power OOP Lab][3-2E]        | [MVP's and Agile Methodologies][3-3C](Local)| Project 1 | Project 1 |
+**Homework**          | [Responsive CSS][3-1F]            | [Homework][3-2F]                    | [Project 1 Planning & Proposals][3-3F]| Project 1       | Project 1 |
 
 [3-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-3/monday.md
 [3-1B]: https://git.generalassemb.ly/wdi-wc-march2018/HTML-forms-and-animations "Forms and Animations"
