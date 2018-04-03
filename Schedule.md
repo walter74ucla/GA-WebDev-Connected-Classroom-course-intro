@@ -451,7 +451,7 @@ Time                  | Day 1                             |    Day 2            
 
 [3-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-3/tuesday "Stopwatch Warm Up"
 [3-2B]: https://git.generalassemb.ly/wdi-wc-march2018/ajax/blob/master/README.md "AJAX $.get"
-[3-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Flower-Power-OOP 'Flower Power Lab'
+[3-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Ajax-Lab 'AJAX Lab'
 [3-2D]: https://git.generalassemb.ly/wdi-wc-march2018/ajax/blob/master/README.md "AJAX $.post"
 [3-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Ajax-Lab 'Continue AJAX Lab'
 [3-2F]: https://git.generalassemb.ly/wdi-wc-march2018/Currency-converter
