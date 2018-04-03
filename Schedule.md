@@ -453,7 +453,7 @@ Time                  | Day 1                             |    Day 2            
 [3-2B]: https://git.generalassemb.ly/wdi-wc-march2018/ajax/blob/master/README.md "AJAX $.get"
 [3-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Ajax-Lab 'AJAX Lab'
 [3-2D]: https://git.generalassemb.ly/wdi-wc-march2018/ajax/blob/master/README.md "AJAX $.post"
-[3-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Ajax-Lab 'Continue AJAX Lab'
+[3-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Flower-Power-OOP 'OOP'
 [3-2F]: https://git.generalassemb.ly/wdi-wc-march2018/Currency-converter
 
 [3-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
