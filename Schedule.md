@@ -459,9 +459,9 @@ Time                  | Day 1                             |    Day 2            
 
 [3-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-3/wednesday.md "Whiteboard Wednesday"
 [3-3B]: https://git.generalassemb.ly/wdi-wc-march2018/oop-js
-[3-3C]: https://git.generalassemb.ly/wdi-wc-march2018/project-1 "Project 1!"
+[3-3C]: https://git.generalassemb.ly/wdi-wc-march2018/mvp-and-agile "Project 1!"
 [3-3D]:#
-[3-3F]:#
+[3-3F]: https://git.generalassemb.ly/wdi-wc-march2018/project-1
 [3-4F]: https://vimeo.com/105955605 'Live Code of Space Invaders'
 
 [3-4A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-3/thursday/clock-hands/README.md "Thursday Warm up"
