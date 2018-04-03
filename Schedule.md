@@ -73,7 +73,8 @@ Time                 | Day 1                           |    Day 2               
 **1:30pm Review**    |  Review					       | Review						       | Python Review					  | Review				     | Review   		|
 **2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Inhertiance][10-2D] | [Relationships][10-3D]  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
 **3:30pm Lab 2**     | [Python Challenges][10-1E] | [Codebar Lab][10-2E]  | Outcomes                         | [Django][10-4E]          | Project 4        |
-**Homework**         | [State Capitals + Video][10-1F] | Codebar Lab Cont. + [Reading][10-2F]  | [Orange Tree OOPython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+**Homework**         | [State Capitals + Video][10-1F] | Codebar Lab Cont. + [Reading][10-2F]  | [Orange Tree 
+ython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
  --->
 
 <!--- MONDAY --->
@@ -452,7 +453,7 @@ Time                  | Day 1                             |    Day 2            
 [3-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-3/tuesday "Stopwatch Warm Up"
 [3-2B]: https://git.generalassemb.ly/wdi-wc-march2018/ajax/blob/master/README.md "AJAX $.get"
 [3-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Ajax-Lab 'AJAX Lab'
-[3-2D]: https://git.generalassemb.ly/WDIplus-ATX/oop-js/blob/master/README.md "OOP"
+[3-2D]: https://git.generalassemb.ly/wdi-wc-march2018/oop-js "OOP"
 [3-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Flower-Power-OOP 'OOP'
 [3-2F]: https://git.generalassemb.ly/wdi-wc-march2018/Currency-converter
 
