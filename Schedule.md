@@ -375,21 +375,20 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
-<!---
-#### Week 4 - Project 1 Completions, Intro to Node and Express
+<!-- #### Week 4 - Project 1 Completions, Intro to Node and Express
 
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Happy New Year! :confetti_ball:  | [Warm Up (optional)][4-2A] | [Whiteboard Wednesdays][4-3A]| [Warm Up][4-4A]  | [Warm Up][4-5A]|
- **9:45am Stand Up** | Happy New Year! :confetti_ball: | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | Happy New Year! :confetti_ball: |  Project 1     |  [Optional Lesson: Firebase][4-3B]| [Intro To Node and Express][4-4B]      | [Serving Static Files in Express][4-5B] |  
- **11:30pm Lab 1** | Happy New Year! :confetti_ball: |  Project 1  |  Project 1 Presentation Prep   | [Express Lab][4-4C] | [Static File Lab][4-5C] |
-**1:30pm Review** | Happy New Year! :confetti_ball: | Project 1  |  Project 1 Presentations | Review | Review |
-**2:00pm Lesson 2** | Happy New Year! :confetti_ball: |  Project 1  | Project 1 Presentations / 3:00 Outcomes | [Intro to REST][4-4D] | [EJS Templates][4-5D1] [Express Router Lesson][4-5D]
-**3:30pm Lab 2** | Happy New Year! :confetti_ball: |  Project 1 | Outcomes | [Build a mini RESTful JSON API][4-4E] | [EJS Template Lab][4-5E] |
-**Homework** | Project 1 | Project 1 | [Watch Videos, Self Guided Review of Unit 1][4-3F]  | [Complete Labs for today][4-4F] | [EJS quick lab + Node Lab + Bonus PR][4-5F] |
- --->
-
+Time (MT)             | Day 1                    |    Day 2                             | Day 3                             | Day 4                                      | Day  5                                    |
+-----                 | --------                 | --------------                       | ----------                        | --------                                   | ---------                                 |
+ **9:00am Warm Ups**  | [Canvas][4-1A](Optional) | [Grid System Review][4-2A](Optional) | Project 1 Presentations Prep      | [Warm Up][4-5A]                            | [Warm Up][4-5A]					         |
+ **9:45am Stand Up**  | Stand Up                 | Stand Up                             | Project 1 Presentations!          | Stand Up                                   | Stand Up                                  |
+ **10:00am Lesson 1** | Project 1                | Project 1                            | Project 1 Presentations!          | [Intro to REST][4-4D]                      | [Serving Static Files in Express][4-5B]   |  
+ **11:30pm Lab 1**    | Project 1                | Project 1                            | Project 1 Presentations!          | Continue Express Lab                       | [Static File Lab][4-5C](Brandi)           |
+**1:30pm Review**     | Project 1                | Project 1                            | Project 1 Retrospective           | Review                                     | Review                                    |
+**2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | [Intro to Model View Controller][4-4D]     | [EJS Templates][4-5D1]                    |
+**3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | [EJS Template Lab][4-5E](Brandi)          |
+**Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [EJS quick lab + Node Lab][4-5F](Shahzad) |
+-->
+<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 <!--- MONDAY --->
 [4-1A]: #
 [4-1B]: #
@@ -425,7 +424,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [4-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
 [4-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
 [4-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
-[4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
+[4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR" 
 
 ## Unit 1: The Frontend
 
