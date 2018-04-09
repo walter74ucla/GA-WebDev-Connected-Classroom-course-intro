@@ -1,5 +1,5 @@
 # WDI West Coast March 2018
-
+<!---
 ## Final Project
 
 #### Week 12 - Final Project
@@ -373,7 +373,7 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
-<!-- #### Week 4 - Project 1 Completions, Intro to Node and Express
+#### Week 4 - Project 1 Completions, Intro to Node and Express
 
 Time (MT)             | Day 1                    |    Day 2                             | Day 3                             | Day 4                                      | Day  5                                    |
 -----                 | --------                 | --------------                       | ----------                        | --------                                   | ---------                                 |
@@ -385,7 +385,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 **2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | [Intro to Model View Controller][4-4D]     | [EJS Templates][4-5D1]                    |
 **3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | [EJS Template Lab][4-5E](Brandi)          |
 **Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [EJS quick lab + Node Lab][4-5F](Shahzad) |
--->
+
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 <!--- MONDAY --->
 [4-1A]: #
