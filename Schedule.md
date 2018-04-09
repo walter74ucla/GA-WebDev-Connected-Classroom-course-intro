@@ -413,8 +413,8 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
 [4-4C]: https://git.generalassemb.ly/WDIplus-ATX/Express-Lab/blob/master/README.md
 [4-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
-[4-4E]: https://git.generalassemb.ly/WDIplus-ATX/rest-intro-lab/blob/master/README.md
-[4-4F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
+[4-4E]: https://git.generalassemb.ly/wdi-wc-march2018/rest-intro-lab
+[4-4F]: https://git.generalassemb.ly/wdi-wc-march2018/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
 <!--- FRIDAY --->
 [4-5A]: https://git.generalassemb.ly/WDIplus-ATX/debugging-js/blob/master/readme.md "Friday Warm up"
 [4-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
