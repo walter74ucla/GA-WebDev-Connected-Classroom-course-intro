@@ -410,7 +410,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-3F]: #
 <!--- THURSDAY --->
 [4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
-[4-4B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
+[4-4B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
 [4-4C]: https://git.generalassemb.ly/wdi-wc-march2018/Express-Lab/blob/master/README.md "Express-Lab"
 [4-4D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-rest-with-express/blob/master/README.md "Intro to REST" 
 [4-4E]: https://git.generalassemb.ly/wdi-wc-march2018/rest-intro-lab
