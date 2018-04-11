@@ -407,7 +407,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-3C]: #
 [4-3D]: #
 [4-3E]: #
-[4-3F]: #
+[4-3F]: https://git.generalassemb.ly/wdi-wc-march2018/Node-Homework-Videos/blob/master/README.md
 <!--- THURSDAY --->
 [4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
 [4-4B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
