@@ -380,10 +380,10 @@ Time (MT)             | Day 1                    |    Day 2                     
 -----                 | --------                 | --------------                       | ----------                        | --------                                   | ---------                                 |
  **9:00am Warm Ups**  | [Canvas][4-1A](Optional) | [Grid System Review][4-2A](Optional) | Project 1 Presentations Prep      | Outcomes                                   | [Warm Up][4-5A]					         |
  **9:45am Stand Up**  | Stand Up                 | Stand Up                             | Project 1 Presentations!          | Outcomes                                   | Stand Up                                  |
- **10:00am Lesson 1** | Project 1                | Project 1                            | Project 1 Presentations!          | Outcomes/ [Intro to REST][4-4D]            | [Intro to Model View Controller][4-4D]    |  
+ **10:00am Lesson 1** | Project 1                | Project 1                            | Project 1 Presentations!          | Outcomes/ [Intro to REST][4-4B]            | [Intro to Model View Controller][4-4D]    |  
  **11:30pm Lab 1**    | Project 1                | Project 1                            | Project 1 Presentations!          |  Intro Rest                                | [Serving Static Files in Express][4-5B]   |
 **1:30pm Review**     | Project 1                | Project 1                            | Project 1 Retrospective           | Review                                     | Review                                    |
-**2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | Continue Express Lab                       | [Static File Lab][4-5C](Brandi)           |
+**2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | Continue Express Lab / [Intro MVC][]                    | [Static File Lab][4-5C](Brandi)           |
 **3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) |  [EJS Templates][4-5D1]                   |
 **Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [EJS Template Lab][4-5E](Brandi)          |
 
@@ -412,9 +412,9 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-3F]: https://git.generalassemb.ly/wdi-wc-march2018/Node-Homework-Videos/blob/master/README.md
 <!--- THURSDAY --->
 [4-4A]:https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-4/thursday.md "Thursday Warm up"
-[4-4B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-node-and-express/blob/master/README.md "Intro to Node and Express"
+[4-4B]:  https://git.generalassemb.ly/wdi-wc-march2018/intro-to-rest-with-express "Intro to REST"
 [4-4C]: https://git.generalassemb.ly/wdi-wc-march2018/Express-Lab/blob/master/README.md "Express-Lab"
-[4-4D]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-rest-with-express "Intro to REST" 
+[4-4D]: https://git.generalassemb.ly/alexw/intro-mvc/blob/master/README.md
 [4-4E]: https://git.generalassemb.ly/wdi-wc-march2018/rest-intro-lab
 [4-4F]: https://git.generalassemb.ly/wdi-wc-march2018/Student-Homework-Repo/blob/master/week-4/thursday.md "Complete Labs"
 <!--- FRIDAY --->
