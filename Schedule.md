@@ -323,17 +323,18 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 <!---
 #### Week 5 - Full CRUD, Full Stack
 
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | [Warm Up][5-1A]  | [Warm Up][5-2A] | [Whiteboard Wednesdays][5-3A]| [Warm Up][5-4A]  | [Warm Up][5-5A]|
- **9:45am Stand Up** | Stand Up | Stand Up | Stand Up | Stand Up | Stand Up |
- **10:00am Lesson 1** | Create + Read |  [Intro to Mongo][5-2B]    |  [Full Stack Todo Lab][5-3B]| [OAuth with Passport][5-4B]      | [Tunely: Full Stack Group Lab][5-5C] |  
- **11:30pm Lab 1** | [create read lab][5-1C] | [Partials and Express Generator][5-2C]  |  [Full Stack Todo Lab][5-3C]   | [OAuth Lab][5-4C] | [Tunely: Full Stack Group Lab][5-5C] |
-**1:30pm Review** | Review | Review  |  Review | Review | Guest Speaker Ben Hulan! |
-**2:00pm Lesson 2** | [Update Destroy][5-1D] |  [Intro to Mongoose][5-2D] | [Embedded Relationships][5-3D] / 3:00 Outcomes | [Continue on Oauth with Passport Lab][5-4D] | SCRUM
-**3:30pm Lab 2** | Update Destroy Lab |  [Mongoose Lab][5-3E] | Outcomes | [Deploying a Full stack App][5-4E] | Deploy Party! + Final Scrum @4:30|
-**Homework** | [Homework][5-1F]| [Homework: Mongoose Lab Bonuses][5-2F]| [Embedded Relationships Homework][5-3F]  | Homework Finish OAuth | [Continue on lab][5-5C] |
- --->
+Time                  | Day 1                          |    Day 2                               | Day 3                                          | Day 4                                    | Day  5                 |
+-----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
+ **9:00am Warm Ups**  | Warm Up                        | Warm Up                                | Whiteboard Wednesdays                          | Warm Up          					    | Warm Up                |
+ **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Stand Up                                 | Stand Up               |
+ **10:00am Lesson 1** | Intro to Mongo                 | Full Stack Todo Lab                    | Embedded Relationships                         | Deploying a Full stack App               | Tunely                 |  
+ **11:30pm Lab 1**    | Intro to Mongoose              | Full Stack Todo Lab                    | Embedded Relationships                         | Express Router                           | Tunely                 |
+**1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
+**2:00pm Lesson 2**   | Mongoose Lab                   | Full Stack Todo Lab                    | Auth Lesson                                    | Tunely: Full Stack Group Lab             | Deploy Party!          |
+**3:30pm Lab 2**      | Partials and Express Generator | Full Stack Todo Lab                    | Auth Lab 							             | Tunely                                   | Tunely                 |      
+**Homework**          | Homework: Mongoose Lab Bonuses | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
+-->
+<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
