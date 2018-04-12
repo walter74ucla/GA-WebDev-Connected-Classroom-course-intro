@@ -217,7 +217,7 @@ Time                 | Day 1                        |    Day 2                  
 [8-5E]:#
 [8-5F]:#
 <!---
-## Unit 2: Intro to the Back End - Node, Express and MongoDB
+
 
 #### Week 7 - Project 2 + Bonus Lessons + Hackathon!
 Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
@@ -270,16 +270,16 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
 <!---
 #### Week 6 - Project 2
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | MLK :pray: |:snowflake: | Project 2 Approvals| Project 2  | Project 2|
- **9:45am Stand Up** | MLK | :snowflake:  | Project 2 | Stand Up | Stand Up |
- **10:00am Lesson 1** | MLK |  [Project 2 Intro][6-2B] :snowflake:   |  Project 2| Project 2 | Project 2 |  
- **11:30pm Lab 1** | MLK | [Project 2 Planning][6-2C] :snowflake:  |  Project 2   | Project 2 | Project 2 |
-**1:30pm Review** | MLK | Project 2 Planning :snowflake:   |   Project 2 | Project 2 | Project 2 |
-**2:00pm Lesson 2** | MLK |  Project 2 Planning, Proposals :snowflake: |  Tunely Demos / 3:00 Outcomes | Project 2 | Project 2
-**3:30pm Lab 2** | MLK |  Project 2 Planning, Proposals :snowflake: | Outcomes | Project 2| Project 2 |
-**Homework** | MLK | Project 2  Planning :snowflake: | Project 2 | Project 2 | Project 2 |
+Time                  | Day 1               |    Day 2              | Day 3      | Day 4     | Day  5      |
+-----                 | --------            | --------------        | ---------- | --------  | ---------   |
+ **9:00am Warm Ups**  | Warm Ups            | Project 2             | Project 2  | Outcomes  | Project 2   |
+ **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up   | Outcomes  | Stand Up    |
+ **10:00am Lesson 1** | Unit 2 Review       | Optional OAuth Lesson | Project 2  | Outcomes  | Project 2   |  
+ **11:30pm Lab 1**    | Project 2 Intro     | Project 2             | Project 2  | Project 2 | Project 2   |
+**1:30pm Review**     | Project 2 Planning  | Project 2             | Project 2  | Project 2 | Project 2   |
+**2:00pm Lesson 2**   | Project 2 Approvals | Project 2             | Project 2  | Project 2 | Project 2   |
+**3:30pm Lab 2**      | Project 2           | Project 2             | Project 2  | Project 2 | Project 2   |
+**Homework**          | Project 2           | Project 2             | Project 2  | Project 2 | Project 2   |
  --->
 
 <!--- MONDAY --->
@@ -376,6 +376,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
+## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
 #### Week 4 - Project 1 Completions, Intro to Node and Express
 
