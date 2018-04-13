@@ -332,7 +332,7 @@ Time (MT)             | Day 1                          |    Day 2               
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab][5-1E] (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
-**Homework**          | Homework: Mongoose Lab Bonuses (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
+**Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 
