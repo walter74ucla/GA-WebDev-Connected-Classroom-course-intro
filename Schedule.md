@@ -330,7 +330,7 @@ Time (MT)             | Day 1                          |    Day 2               
  **10:00am Lesson 1** | Intro to Mongo                 | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | Intro to Mongoose (Alex)         | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
-**2:00pm Lesson 2**   | Mongoose Lab (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | Tunely: Full Stack Group Lab (Brandi)           | Deploy Party!          |
+**2:00pm Lesson 2**   | Mongoose Lab (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
 **Homework**          | Homework: Mongoose Lab Bonuses (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
@@ -365,7 +365,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-4C]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
 [5-4D]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
 [5-4E]: https://git.generalassemb.ly/WDIplus-ATX/HEROKU-EXPRESS/blob/master/README.md "Deploy"
-[5-4F]: #
+[5-4F]: https://git.generalassemb.ly/wdi-wc-march2018/Tunely-Lab 'Tunely'
 <!--- FRIDAY --->
 [5-5A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/friday.md "Friday Warm up"
 [5-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
