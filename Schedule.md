@@ -388,8 +388,8 @@ Time (MT)             | Day 1                    |    Day 2                     
  **11:30pm Lab 1**    | Project 1                | Project 1                            | Project 1 Presentations!          |  Intro Rest                                | [Static File Lab][4-5C](Brandi)           |
 **1:30pm Review**     | Project 1                | Project 1                            | Project 1 Retrospective           | Review                                     | Review                                    |
 **2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | Continue Express Lab / [Intro MVC][4-4D]   | [EJS Templates][4-5D1]                    |
-**3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | [EJS Template Lab][4-5E](Brandi)          |
-**Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | Ada's Pizza Express Lab (Shahzad)        |
+**3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | [EJS Template Lab][4-5D1](Brandi)          |
+**Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [Ada's Pizza Express Lab][4-5E] (Brandi)        |
 
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 <!-- Note: we also might need EJS quicklab and or Node Lab to be added to the weekend homework or moved to friday -->
