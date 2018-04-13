@@ -387,8 +387,8 @@ Time (MT)             | Day 1                    |    Day 2                     
  **10:00am Lesson 1** | Project 1                | Project 1                            | Project 1 Presentations!          | Outcomes/ [Intro to REST][4-4B]            | [Serving Static Files in Express][4-5B]   |  
  **11:30pm Lab 1**    | Project 1                | Project 1                            | Project 1 Presentations!          |  Intro Rest                                | [Static File Lab][4-5C](Brandi)           |
 **1:30pm Review**     | Project 1                | Project 1                            | Project 1 Retrospective           | Review                                     | Review                                    |
-**2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | Continue Express Lab / [Intro MVC][4-4D]   | TBD                   |
-**3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | TBD         |
+**2:00pm Lesson 2**   | Project 1                | Project 1                            | [Intro To Node and Express][4-4B] | Continue Express Lab / [Intro MVC][4-4D]   | [EJS Lesson + lab][4-5D]                   |
+**3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | EJS Lesson + Lab cont.         |
 **Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [Ada's Pizza Express Lab][4-5E] (Brandi)        |
 
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
@@ -426,7 +426,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-5B]: https://git.generalassemb.ly/WDIplus-ATX/express-static-assets-and-middleware/blob/master/README.md "Static Files and Middleware"
 [4-5C]: https://git.generalassemb.ly/wdi-wc-march2018/static-asset-lab/blob/master/README.md "Static Asset Lab"
 [4-5D1]: https://git.generalassemb.ly/wdi-wc-march2018/express-ejs-views "EJS Templates"
-[4-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
+[4-5D]: https://git.generalassemb.ly/wdi-wc-march2018/express-ejs-views
 [4-5E]: https://git.generalassemb.ly/wdi-wc-march2018/express-ejs-views-lab "EJS Template Lab"
 [4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR" 
 
