@@ -427,7 +427,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 [4-5C]: https://git.generalassemb.ly/wdi-wc-march2018/static-asset-lab/blob/master/README.md "Static Asset Lab"
 [4-5D1]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views "EJS Templates"
 [4-5D]: https://git.generalassemb.ly/WDIplus-ATX/Express-router/blob/master/README.md "Express Router Lesson"
-[4-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
+[4-5E]: https://git.generalassemb.ly/wdi-wc-march2018/express-ejs-views-lab "EJS Template Lab"
 [4-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR" 
 
 
