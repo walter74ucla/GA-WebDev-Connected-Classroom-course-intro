@@ -344,7 +344,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master 'Create-Read-Lab'
 [5-1D]: https://git.generalassemb.ly/WDIplus-ATX/C-R-U-D-LAB/blob/master/README.md "Update Destroy Lab"
 [5-1E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Lab
-[5-1F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-5/monday.md
+[5-1F]: https://git.generalassemb.ly/wdi-wc-march2018/Student-Homework-Repo/blob/master/week-5/monday.md
 <!--- TUESDAY --->
 [5-2A]: ""
 [5-2B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongo/blob/master/README.md "Mongo"
