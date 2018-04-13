@@ -320,20 +320,20 @@ Time                  | Day 1               |    Day 2              | Day 3     
 [6-5E]:#
 [6-5F]:#
 
-<!---
+
 #### Week 5 - Full CRUD, Full Stack
 
 Time (MT)             | Day 1                          |    Day 2                               | Day 3                                          | Day 4                                    | Day  5                 |
 -----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
  **9:00am Warm Ups**  | Warm Up                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
- **10:00am Lesson 1** | Intro to Mongo                 | Full Stack Todo Lab                    | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
- **11:30pm Lab 1**    | Intro to Mongoose              | Full Stack Todo Lab                    | Embedded Relationships                         | Express Router                           | Tunely                 |
+ **10:00am Lesson 1** | Intro to Mongo                 | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
+ **11:30pm Lab 1**    | Intro to Mongoose (Alex)         | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
-**2:00pm Lesson 2**   | Mongoose Lab                   | Full Stack Todo Lab                    | Auth Lesson                                    | Tunely: Full Stack Group Lab             | Deploy Party!          |
-**3:30pm Lab 2**      | Partials and Express Generator | Full Stack Todo Lab                    | Auth Lab 							             | Tunely                                   | Tunely                 |      
-**Homework**          | Homework: Mongoose Lab Bonuses | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
--->
+**2:00pm Lesson 2**   | Mongoose Lab (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | Tunely: Full Stack Group Lab (Brandi)           | Deploy Party!          |
+**3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
+**Homework**          | Homework: Mongoose Lab Bonuses (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
+
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
