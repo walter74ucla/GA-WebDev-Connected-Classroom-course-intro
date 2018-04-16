@@ -330,15 +330,16 @@ Time (MT)             | Day 1                          |    Day 2               
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
-**2:00pm Lesson 2**   | [Mongoose Lab][5-1E] (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
+**2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1E]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
 **Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
 <!--- MONDAY --->
 [5-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/monday.md "Warm Up"
 [5-1B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongo "Mongo"
-[5-1C]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongoose "Mongoose
-[5-1E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Lab
+[5-1C]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongoose "Mongoose"
+[5-1D]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Lab
+[5-1E]: #
 [5-1F]: https://git.generalassemb.ly/wdi-wc-march2018/Student-Homework-Repo/blob/master/week-5/monday.md
 <!--- TUESDAY --->
 [5-2A]: ""
