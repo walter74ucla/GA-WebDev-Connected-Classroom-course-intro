@@ -335,7 +335,7 @@ Time (MT)             | Day 1                          |    Day 2               
 **Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
 <!--- MONDAY --->
-[5-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
+[5-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/monday.md "Warm Up"
 [5-1B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongo "Mongo"
 [5-1C]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongoose "Mongoose
 [5-1E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Lab
