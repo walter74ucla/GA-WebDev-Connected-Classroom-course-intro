@@ -327,21 +327,17 @@ Time (MT)             | Day 1                          |    Day 2               
 -----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
  **9:00am Warm Ups**  | Warm Up                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
- **10:00am Lesson 1** | Intro to Mongo                 | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
- **11:30pm Lab 1**    | Intro to Mongoose (Alex)         | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
+ **10:00am Lesson 1** | [Intro to Mongo][5-1B]                 | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
+ **11:30pm Lab 1**    | [Intro to Mongoose][5-1C] (Alex)         | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab][5-1E] (Joe)                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
 **Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
-<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
-
-<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
-
 <!--- MONDAY --->
-[5-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
-[5-1B]: #
-[5-1C]: https://git.generalassemb.ly/WDIplus-ATX/Create-Read-Lab/tree/master 'Create-Read-Lab'
+[5-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/wednesday.md "Warm Up"
+[5-1B]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongo "Mongo"
+[5-1C]: https://git.generalassemb.ly/wdi-wc-march2018/intro-to-mongoose "Mongoose
 [5-1D]: https://git.generalassemb.ly/WDIplus-ATX/C-R-U-D-LAB/blob/master/README.md "Update Destroy Lab"
 [5-1E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Lab
 [5-1F]: https://git.generalassemb.ly/wdi-wc-march2018/Student-Homework-Repo/blob/master/week-5/monday.md
@@ -493,7 +489,7 @@ Time                 | Day 1                    |    Day 2                      
 **Homework**         | [JS Datatypes][2-1F]     | [MicroBlog Pt. 1][2-2F]                     | [Portfolio Page][2-3F]      | [MicroBlog Pt. 2][2-4F]              | Make Todo or MicroBlog Portfolio-worthy, Finish Flexbox Froggy |
 
 <!--- MONDAY --->
- [2-1A]: #
+ [2-1A]: 
  [2-1B]:  https://git.generalassemb.ly/wdi-wc-march2018/Objects "JavaScript Objects" 
  [2-1C]: https://git.generalassemb.ly/wdi-wc-march2018/Objects-lab 'Objects Lab' 
  [2-1D]:  https://git.generalassemb.ly/wdi-wc-march2018/Objects "Objects Part 2" 
