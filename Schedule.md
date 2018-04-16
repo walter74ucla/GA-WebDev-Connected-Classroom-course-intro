@@ -330,7 +330,7 @@ Time (MT)             | Day 1                          |    Day 2               
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
-**2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1E]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
+**2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1D]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | Express Generator(Shahzad) | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
 **Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
