@@ -325,7 +325,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 
 Time (MT)             | Day 1                          |    Day 2                               | Day 3                                          | Day 4                                    | Day  5                 |
 -----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
- **9:00am Warm Ups**  | Warm Up                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
+ **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | [Intro to Mongoose (Alex)][5-1C] | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
