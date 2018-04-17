@@ -346,7 +346,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-2B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongo/blob/master/README.md "Mongo"
 [5-2C]: https://git.generalassemb.ly/WDIplus-ATX/Express-generator-and-partials/blob/master/README.md "Partials and Express Generator"
 [5-2D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongoose/blob/master/README.md "Mongoose"
-[5-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Todo-Lab 'Mongoose All Day To Do List Lab'
+[5-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Fullstack-Todo-lab-mongoose/blob/master/README.md 'Mongoose All Day To Do List Lab'
 [5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab 'Mongoose Lab'
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
