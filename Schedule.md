@@ -327,7 +327,7 @@ Time (MT)             | Day 1                          |    Day 2               
 -----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
  **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | [Whiteboard Wednesdays][5-3A]                  | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
- **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
+ **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | [Embedded Relationships][5-3B]                 | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1D]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
@@ -350,7 +350,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab 'Mongoose Lab'
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
-[5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
+[5-3B]: https://git.generalassemb.ly/wdi-wc-march2018/mongo-mongoose-relationships 'Embeded relationships'
 [5-3C]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
 [5-3D]: https://git.generalassemb.ly/WDIplus-ATX/mongo-mongoose-relationships "Relationships"
 [5-3E]: #
