@@ -328,7 +328,7 @@ Time (MT)             | Day 1                          |    Day 2               
  **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
- **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | Full Stack Todo Lab                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
+ **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1D]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | [Express Generator][5-1E] | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
@@ -346,7 +346,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-2B]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongo/blob/master/README.md "Mongo"
 [5-2C]: https://git.generalassemb.ly/WDIplus-ATX/Express-generator-and-partials/blob/master/README.md "Partials and Express Generator"
 [5-2D]: https://git.generalassemb.ly/WDIplus-ATX/intro-to-mongoose/blob/master/README.md "Mongoose"
-[5-2E]: #
+[5-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Mongoose-Todo-Lab 'Mongoose All Day To Do List Lab'
 [5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab 'Mongoose Lab'
 <!--- WEDNESDAY --->
 [5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
