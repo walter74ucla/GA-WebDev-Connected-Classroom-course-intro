@@ -325,7 +325,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 
 Time (MT)             | Day 1                          |    Day 2                               | Day 3                                          | Day 4                                    | Day  5                 |
 -----                 | --------                       | --------------                         | ----------                                     | --------                                 | ---------              |
- **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | Whiteboard Wednesdays                          | Outcomes          					    | Warm Up                |
+ **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | [Whiteboard Wednesdays][5-3A]                  | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | Embedded Relationships                         | Outcomes/ Deploying a Full stack App     | Tunely                 |  
  **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | Embedded Relationships (Joe)                         | Express Router                           | Tunely                 |
@@ -349,7 +349,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-2E]: https://git.generalassemb.ly/wdi-wc-march2018/Fullstack-Todo-lab-mongoose/blob/master/README.md 'Mongoose All Day To Do List Lab'
 [5-2F]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Lab 'Mongoose Lab'
 <!--- WEDNESDAY --->
-[5-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
+[5-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-5/wednesday.md "Whiteboard Wednesday"
 [5-3B]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
 [5-3C]: https://git.generalassemb.ly/WDIplus-ATX/Mongoose-Todo-Lab/blob/master/README.md 'Mongoose-Todo-Lab'
 [5-3D]: https://git.generalassemb.ly/WDIplus-ATX/mongo-mongoose-relationships "Relationships"
