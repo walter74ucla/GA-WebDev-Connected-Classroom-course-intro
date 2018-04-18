@@ -328,7 +328,7 @@ Time (MT)             | Day 1                          |    Day 2               
  **9:00am Warm Ups**  | [Warm Up][5-1A]                        | Warm Up                                | [Whiteboard Wednesdays][5-3A]                  | Outcomes          					    | Warm Up                |
  **9:45am Stand Up**  | Stand Up                       | Stand Up                               | Stand Up                                       | Outcomes                                 | Stand Up               |
  **10:00am Lesson 1** | [Intro to Mongo][5-1B]         | Full Stack Todo Lab(Shahzad)                   | [Embedded Relationships][5-3B]                 | Outcomes/ Deploying a Full stack App     | Tunely                 |  
- **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | [Embedded Relationships][5-3C] (Joe)                         | Express Router                           | Tunely                 |
+ **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | [Embedded Relationships][5-3C] (Joe)                         | [Express Router - Alex][5-4C]                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1D]                 | Full Stack Todo Lab                    | [Auth Lesson][5-3D]                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
 **3:30pm Lab 2**      | [Express Generator][5-1E] | Full Stack Todo Lab                    | [Auth Lab][5-3E] (Joe)			             | Tunely                                   | Tunely                 |      
@@ -358,7 +358,7 @@ Time (MT)             | Day 1                          |    Day 2               
 <!--- THURSDAY --->
 [5-4A]:http://www.jwstelly.org/BrainTeaser/Problem.php?id=14 "Thursday Warm up"
 [5-4B]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
-[5-4C]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
+[5-4C]: https://git.generalassemb.ly/wdi-wc-march2018/Express-router/blob/master/README.md "Router"
 [5-4D]: https://git.generalassemb.ly/WDIplus-ATX/passport-and-oauth/blob/master/readme.md "OAuth"
 [5-4E]: https://git.generalassemb.ly/WDIplus-ATX/HEROKU-EXPRESS/blob/master/README.md "Deploy"
 [5-4F]: https://git.generalassemb.ly/wdi-wc-march2018/Tunely-Lab 'Tunely'
