@@ -331,7 +331,7 @@ Time (MT)             | Day 1                          |    Day 2               
  **11:30pm Lab 1**    | [Intro to Mongoose - Alex][5-1C] | [Full Stack Todo Lab][5-2E]                    | [Embedded Relationships][5-3C] (Joe)                         | Express Router                           | Tunely                 |
 **1:30pm Review**     | Review                         | Review                                 | Review                                         | Review                                   | Review                 |
 **2:00pm Lesson 2**   | [Mongoose Lab - Joe][5-1D]                 | Full Stack Todo Lab                    | Auth Lesson                                    | [Tunely: Full Stack Group Lab][5-4F] (Brandi)           | Deploy Party!          |
-**3:30pm Lab 2**      | [Express Generator][5-1E] | Full Stack Todo Lab                    | Auth Lab (Joe)			             | Tunely                                   | Tunely                 |      
+**3:30pm Lab 2**      | [Express Generator][5-1E] | Full Stack Todo Lab                    | [Auth Lab][5-3E] (Joe)			             | Tunely                                   | Tunely                 |      
 **Homework**          | [Homework: Mongoose Lab Bonuses][5-1F] (Joe) | Full Stack Todo Lab                    | Finish Auth Lab                                | Tunely                                   | Finish Tunely          |
 
 <!--- MONDAY --->
@@ -353,7 +353,7 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-3B]: https://git.generalassemb.ly/wdi-wc-march2018/mongo-mongoose-relationships 'Embeded relationships'
 [5-3C]: https://github.com/den-materials/mongo-structured-data
 [5-3D]: https://git.generalassemb.ly/WDIplus-ATX/mongo-mongoose-relationships "Relationships"
-[5-3E]: #
+[5-3E]: https://github.com/SF-WDI-LABS/express-simple-auth
 [5-3F]: #
 <!--- THURSDAY --->
 [5-4A]:http://www.jwstelly.org/BrainTeaser/Problem.php?id=14 "Thursday Warm up"
