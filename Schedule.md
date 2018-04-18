@@ -270,16 +270,16 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
 <!---
 #### Week 6 - Project 2
-Time                  | Day 1               |    Day 2              | Day 3      | Day 4     | Day  5      |
------                 | --------            | --------------        | ---------- | --------  | ---------   |
- **9:00am Warm Ups**  | Warm Ups            | Project 2             | Project 2  | Outcomes  | Project 2   |
- **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up   | Outcomes  | Stand Up    |
- **10:00am Lesson 1** | Unit 2 Review       | Optional OAuth Lesson | Project 2  | Outcomes  | Project 2   |  
- **11:30pm Lab 1**    | Project 2 Intro     | Project 2             | Project 2  | Project 2 | Project 2   |
-**1:30pm Review**     | Project 2 Planning  | Project 2             | Project 2  | Project 2 | Project 2   |
-**2:00pm Lesson 2**   | Project 2 Approvals | Project 2             | Project 2  | Project 2 | Project 2   |
-**3:30pm Lab 2**      | Project 2           | Project 2             | Project 2  | Project 2 | Project 2   |
-**Homework**          | Project 2           | Project 2             | Project 2  | Project 2 | Project 2   |
+Time                  | Day 1               |    Day 2              | Day 3                      | Day 4     | Day  5      |
+-----                 | --------            | --------------        | ----------                 | --------  | ---------   |
+ **9:00am Warm Ups**  | Warm Ups            | Project 2             | Project 2                  | Outcomes  | Project 2   |
+ **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up                   | Outcomes  | Stand Up    |
+ **10:00am Lesson 1** | Unit 2 Review       | Optional OAuth Lesson | Optional Sass Lesson (Joe) | Outcomes  | Project 2   |  
+ **11:30pm Lab 1**    | Project 2 Intro     | Project 2             | Project 2                  | Project 2 | Project 2   |
+**1:30pm Review**     | Project 2 Planning  | Project 2             | Project 2                  | Project 2 | Project 2   |
+**2:00pm Lesson 2**   | Project 2 Approvals | Project 2             | Project 2                  | Project 2 | Project 2   |
+**3:30pm Lab 2**      | Project 2           | Project 2             | Project 2                  | Project 2 | Project 2   |
+**Homework**          | Project 2           | Project 2             | Project 2                  | Project 2 | Project 2   |
  --->
 
 <!--- MONDAY --->
