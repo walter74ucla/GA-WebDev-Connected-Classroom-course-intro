@@ -217,19 +217,18 @@ Time                 | Day 1                        |    Day 2                  
 [8-5E]:#
 [8-5F]:#
 <!---
+#### Week 7 - React
 
-
-#### Week 7 - Project 2 + Bonus Lessons + Hackathon!
-Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                                    |
------ | -------- | --------------   | ----------    | --------  | ---------   |
- **9:00am Warm Ups** | Project 2  | Project 2 | [Whiteboard Wednesday][7-3A] | Hackathon :computer:  | Hackathon |
- **9:45am Stand Up** | Stand Up | Stand Up  | Stand Up | Hackathon | Hackathon |
- **10:00am Lesson 1** | Project 2 |  Project 2  | [Unit 2 Review][7-3B]  | Hackathon | Hackathon |  
- **11:30pm Lab 1** | Project 2 | Project 2  |  [TDD + Jasmine][7-3C]   | Hackathon | Hackathon |
-**1:30pm Review** | Project 2 | Project 2   |[BCrypt + Roll your Own Auth][7-3D]    | Hackathon | Hackathon |
-**2:00pm Lesson 2** | Project 2 |  Project 2 Presentations |  [BCrypt + Roll your Own Auth][7-3B] / 3:00 Outcomes | Hackathon | Hackathon
-**3:30pm Lab 2** | Project 2 |  Project 2 Presentations Cont. | Outcomes | Hackathon| Hackathon |
-**Homework** | Project 2 | Relax | Relax | Hackathon | [Reading + Start thinking about Lightning Talks][7-5F] |
+Time (MT)              | Day 1                       |    Day 2                  | Day 3                 | Day 4            | Day  5    |
+-----                  | --------                    | --------------            | ----------            | --------         | --------- |
+ **9:00am Warm Ups**   | Project 2                   | Warm Up                   | Whiteboard Wednesday  | Outcomes         | Warm Up   |
+ **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes         | Stand Up  |
+ **10:00am Lesson 1**  | Project 2 Presentation Prep | Intro to React            | React Router + Review | Outcomes         | TBD       | 
+ **11:30pm Lab 1**     | Project 2 Presentation Prep | Intro to React part Deux  | Data Flow             | Giphy Lab        | TBD       |
+**1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review           | TBD       |
+**2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab            | Todo Lab              | Giphy Lab        | TBD       |
+**3:30pm Lab 2**       | Project 2 Presentations!    | React ATM Lab             | Todo Lab              | Giphy Lab        | TBD       |
+**Homework**           | Videos + Lightning Talks    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab | TBD       |
  --->
 
 <!--- MONDAY --->
