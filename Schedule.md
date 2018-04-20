@@ -268,7 +268,8 @@ Time | Day 1 |    Day 2       | Day 3      | Day 4     | Day  5                 
 [7-5D]:#
 [7-5E]:#
 [7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
-<!---
+## Unit 2: Intro to the Back End - Node, Express and MongoDB
+
 #### Week 6 - Project 2
 Time                  | Day 1               |    Day 2              | Day 3                      | Day 4     | Day  5      |
 -----                 | --------            | --------------        | ----------                 | --------  | ---------   |
@@ -280,7 +281,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 **2:00pm Lesson 2**   | Project 2 Approvals | Project 2             | Project 2                  | Project 2 | Project 2   |
 **3:30pm Lab 2**      | Project 2           | Project 2             | Project 2                  | Project 2 | Project 2   |
 **Homework**          | Project 2           | Project 2             | Project 2                  | Project 2 | Project 2   |
- --->
+
 
 <!--- MONDAY --->
 [6-1A]:#
@@ -372,7 +373,6 @@ Time (MT)             | Day 1                          |    Day 2               
 [5-5E]: https://git.generalassemb.ly/WDIplus-ATX/express-ejs-views-lab "EJS Template Lab"
 [5-5F]: https://git.generalassemb.ly/WDIplus-ATX/Student-Homework-Repo/blob/master/week-4/friday.md "EJS quick lab + Node Lab + Bonus PR"
 
-## Unit 2: Intro to the Back End - Node, Express and MongoDB
 
 #### Week 4 - Project 1 Completions, Intro to Node and Express
 
