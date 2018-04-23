@@ -275,7 +275,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
  **9:00am Warm Ups**  | [Warm Ups][6-1A]    | Project 2             | Project 2                  | Outcomes  | Project 2   |
  **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up                   | Outcomes  | Stand Up    |
  **10:00am Lesson 1** | Unit 2 Review       | Optional OAuth Lesson | Optional Sass Lesson (Joe) | Outcomes  | Project 2   |  
- **11:30pm Lab 1**    | Project 2 Intro     | Project 2             | Project 2                  | Project 2 | Project 2   |
+ **11:30pm Lab 1**    | Project 2 [6-2B]     | Project 2             | Project 2                  | Project 2 | Project 2   |
 **1:30pm Review**     | Project 2 Planning  | Project 2             | Project 2                  | Project 2 | Project 2   |
 **2:00pm Lesson 2**   | Project 2 Approvals | Project 2             | Project 2                  | Project 2 | Project 2   |
 **3:30pm Lab 2**      | Project 2           | Project 2             | Project 2                  | Project 2 | Project 2   |
@@ -291,8 +291,8 @@ Time                  | Day 1               |    Day 2              | Day 3     
 [6-1F]:#
 <!--- TUESDAY --->
 [6-2A]:#
-[6-2B]: https://git.generalassemb.ly/WDIplus-ATX/project-2-express/blob/master/README.md "Project 2"
-[6-2C]: https://git.generalassemb.ly/WDIplus-ATX/project-2-express/blob/master/README.md "Project 2"
+[6-2B]: https://git.generalassemb.ly/wdi-wc-march2018/Unit-2-Project/blob/master/README.md "Project 2"
+[6-2C]: https://git.generalassemb.ly/wdi-wc-march2018/Unit-2-Project/blob/master/README.md "Project 2"
 [6-2D]:#
 [6-2E]:#
 [6-2F]:#
