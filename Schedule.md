@@ -272,7 +272,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 #### Week 6 - Project 2
 Time                  | Day 1               |    Day 2              | Day 3                      | Day 4     | Day  5      |
 -----                 | --------            | --------------        | ----------                 | --------  | ---------   |
- **9:00am Warm Ups**  | Warm Ups            | Project 2             | Project 2                  | Outcomes  | Project 2   |
+ **9:00am Warm Ups**  | [Warm Ups][6-1A]    | Project 2             | Project 2                  | Outcomes  | Project 2   |
  **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up                   | Outcomes  | Stand Up    |
  **10:00am Lesson 1** | Unit 2 Review       | Optional OAuth Lesson | Optional Sass Lesson (Joe) | Outcomes  | Project 2   |  
  **11:30pm Lab 1**    | Project 2 Intro     | Project 2             | Project 2                  | Project 2 | Project 2   |
@@ -283,7 +283,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 
 
 <!--- MONDAY --->
-[6-1A]:#
+[6-1A]: https://git.generalassemb.ly/wdi-wc-march2018/home/blob/master/Schedule.md "Warm up"
 [6-1B]:#
 [6-1C]:#
 [6-1D]:#
