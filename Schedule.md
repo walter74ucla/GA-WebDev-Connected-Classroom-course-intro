@@ -274,7 +274,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 -----                 | --------            | --------------        | ----------                 | --------  | ---------   |
  **9:00am Warm Ups**  | [Warm Ups][6-1A]    | Project 2             | Project 2                  | Outcomes  | Project 2   |
  **9:45am Stand Up**  | Stand Up            | Stand Up              | Stand Up                   | Outcomes  | Stand Up    |
- **10:00am Lesson 1** | Unit 2 Review       | Project 2             | Optional Sass Lesson (Joe) | Outcomes  | Project 2   |  
+ **10:00am Lesson 1** | Unit 2 Review       | Project 2             | [Optional Sass Lesson][6-3B] (Joe) | Outcomes  | Project 2   |  
  **11:30pm Lab 1**    | [Project 2][6-2B]   | Project 2             | Project 2                  | Project 2 | Project 2   |
 **1:30pm Review**     | Project 2 Planning  | Project 2             | Project 2                  | Project 2 | Project 2   |
 **2:00pm Lesson 2**   | Project 2 Approvals | [Optional OAuth Lesson][6-2D]   | Project 2                  | Project 2 | Project 2   |
@@ -298,7 +298,7 @@ Time                  | Day 1               |    Day 2              | Day 3     
 [6-2F]:#
 <!--- WEDNESDAY --->
 [6-3A]:#
-[6-3B]:#
+[6-3B]:https://github.com/den-materials/sass-intro-lesson/blob/master/README.md "Sass and Gulp"
 [6-3C]:#
 [6-3D]:#
 [6-3E]:#
