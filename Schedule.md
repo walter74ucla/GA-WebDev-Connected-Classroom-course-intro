@@ -112,9 +112,9 @@ ython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 [10-5D]:#
 [10-5E]:#
 [10-5F]:#
-<!---
-## Unit 3: Front End 2018 with React
 
+## Unit 3: Front End 2018 with React
+<!---
 #### Week 9 - Project 3
 Time                 | Day 1     |    Day 2                  | Day 3                           | Day 4                                   | Day  5    |
 -----                | --------  | --------------            | ----------                      | --------                                | --------- |
@@ -216,20 +216,19 @@ Time                 | Day 1                        |    Day 2                  
 [8-5D]:#
 [8-5E]:#
 [8-5F]:#
-<!---
+
 #### Week 7 - React
 
-Time (MT)              | Day 1                       |    Day 2                  | Day 3                 | Day 4            | Day  5    |
------                  | --------                    | --------------            | ----------            | --------         | --------- |
- **9:00am Warm Ups**   | Project 2                   | Warm Up                   | Whiteboard Wednesday  | Outcomes         | Warm Up   |
- **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes         | Stand Up  |
- **10:00am Lesson 1**  | Project 2 Presentation Prep | Intro to React            | React Router + Review | Outcomes         | TBD       | 
- **11:30pm Lab 1**     | Project 2 Presentation Prep | Intro to React part Deux  | Data Flow             | Giphy Lab        | TBD       |
-**1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review           | TBD       |
-**2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab            | Todo Lab              | Giphy Lab        | TBD       |
-**3:30pm Lab 2**       | Project 2 Presentations!    | React ATM Lab             | Todo Lab              | Giphy Lab        | TBD       |
-**Homework**           | Videos + Lightning Talks    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab | TBD       |
- --->
+Time (MT)              | Day 1                       |    Day 2                  | Day 3                 | Day 4              | Day  5    |
+-----                  | --------                    | --------------            | ----------            | --------           | --------- |
+ **9:00am Warm Ups**   | Project 2                   | Warm Up                   | Whiteboard Wednesday  | Outcomes           | Warm Up   |
+ **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
+ **10:00am Lesson 1**  | Project 2 Presentation Prep | Intro to React            | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
+ **11:30pm Lab 1**     | Project 2 Presentation Prep | Intro to React part Deux  | Data Flow (local)     | Local Choice       | TBD              |
+**1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
+**2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab (Shahzad)  | Todo Lab (Joe)        | JSON API Review    | Reddit Clone Lab |
+**3:30pm Lab 2**       | React Overview (local)      | React ATM Lab (Shahzad)   | Todo Lab              | Giphy Lab (Brandi) | Reddit Clone Lab |
+**Homework**           | Videos + Lightning Talks    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab   | Reddit Clone Lab |
 
 <!--- MONDAY --->
 [7-1A]:#
