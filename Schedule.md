@@ -223,7 +223,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 -----                  | --------                    | --------------            | ----------            | --------           | --------- |
  **9:00am Warm Ups**   | Project 2                   | Warm Up                   | Whiteboard Wednesday  | Outcomes           | Warm Up   |
  **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
- **10:00am Lesson 1**  | Project 2 Presentation Prep | Intro to React            | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
+ **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2A]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | Intro to React part Deux  | Data Flow (local)     | Local Choice       | TBD              |
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
 **2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab (Shahzad)  | Todo Lab (Joe)        | JSON API Review    | Reddit Clone Lab |
@@ -238,7 +238,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-1E]:https://git.generalassemb.ly/wdi-wc-march2018/React-intro-homework/blob/master/README.md 'Vidoes + Lightening'
 [7-1F]: 
 <!--- TUESDAY --->
-[7-2A]:#
+[7-2A]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro/blob/master/README.md "React 1"
 [7-2B]:#
 [7-2C]:#
 [7-2D]:#
