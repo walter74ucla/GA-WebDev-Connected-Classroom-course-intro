@@ -228,15 +228,15 @@ Time (MT)              | Day 1                       |    Day 2                 
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
 **2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab (Shahzad)  | Todo Lab (Joe)        | JSON API Review    | Reddit Clone Lab |
 **3:30pm Lab 2**       | React Overview (local)      | React ATM Lab (Shahzad)   | Todo Lab              | Giphy Lab (Brandi) | Reddit Clone Lab |
-**Homework**           | Videos + Lightning Talks    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab   | Reddit Clone Lab |
+**Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab   | Reddit Clone Lab |
 
 <!--- MONDAY --->
 [7-1A]:#
 [7-1B]:#
 [7-1C]:#
 [7-1D]:#
-[7-1E]:#
-[7-1F]:#
+[7-1E]:https://git.generalassemb.ly/wdi-wc-march2018/React-intro-homework/blob/master/README.md 'Vidoes + Lightening'
+[7-1F]: 
 <!--- TUESDAY --->
 [7-2A]:#
 [7-2B]:#
