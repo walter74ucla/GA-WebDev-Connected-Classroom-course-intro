@@ -241,8 +241,8 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-7
 [7-2B]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro/blob/master/README.md "React 1" 
 [7-2C]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro-2/blob/master/README.md "React 2"
-[7-2D]: https://git.generalassemb.ly/wdi-wc-march2018/React-Blog/blob/master/README.md "React Blog Lab'
-[7-2E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab 'React ATM lab'
+[7-2D]: https://git.generalassemb.ly/wdi-wc-march2018/React-Blog/blob/master/README.md "React Blog Lab"
+[7-2E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab "React ATM lab"
 [7-2F]:#
 <!--- WEDNESDAY --->
 [7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
