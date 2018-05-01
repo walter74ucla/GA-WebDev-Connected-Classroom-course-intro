@@ -228,7 +228,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
 **2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | [Todo Lab][7-3D] (Joe)        | JSON API Review    | Reddit Clone Lab |
 **3:30pm Lab 2**       | React Overview (local)      | [React ATM Lab][7-2E]   | Todo Lab              | Giphy Lab (Brandi) | Reddit Clone Lab |
-**Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab   | Reddit Clone Lab |
+**Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Giphy Lab   | Reddit Clone Lab |
 
 <!--- MONDAY --->
 [7-1A]:#
