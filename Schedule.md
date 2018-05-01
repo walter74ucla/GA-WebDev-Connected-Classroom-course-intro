@@ -226,8 +226,8 @@ Time (MT)              | Day 1                       |    Day 2                 
  **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | TBD              |
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
-**2:00pm Lesson 2**    | Project 2 Presentations!    | React Blog Lab (Shahzad)  | Todo Lab (Joe)        | JSON API Review    | Reddit Clone Lab |
-**3:30pm Lab 2**       | React Overview (local)      | React ATM Lab (Shahzad)   | Todo Lab              | Giphy Lab (Brandi) | Reddit Clone Lab |
+**2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | Todo Lab (Joe)        | JSON API Review    | Reddit Clone Lab |
+**3:30pm Lab 2**       | React Overview (local)      | [React ATM Lab][7-2E]   | Todo Lab              | Giphy Lab (Brandi) | Reddit Clone Lab |
 **Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Reddit Clone Lab   | Reddit Clone Lab |
 
 <!--- MONDAY --->
@@ -241,8 +241,8 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-7
 [7-2B]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro/blob/master/README.md "React 1" 
 [7-2C]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro-2/blob/master/README.md "React 2"
-[7-2D]:#
-[7-2E]:#
+[7-2D]: https://git.generalassemb.ly/wdi-wc-march2018/React-Blog/blob/master/README.md "React Blog Lab'
+[7-2E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab 'React ATM lab'
 [7-2F]:#
 <!--- WEDNESDAY --->
 [7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
