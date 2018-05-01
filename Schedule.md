@@ -246,7 +246,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-2F]:#
 <!--- WEDNESDAY --->
 [7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
-[7-3B]: https://git.generalassemb.ly/wdi-wc-march2018/react-router "React Router"
+[7-3B]: #
 [7-3D]: https://git.generalassemb.ly/wdi-wc-march2018/react_todo_walkthrough "Todo Lab"
 [7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
 [7-3E]:#
