@@ -182,8 +182,8 @@ Time                 | Day 1                        |    Day 2                  
 [8-1A]:#
 [8-1B]: https://git.generalassemb.ly/WDIplus-ATX/react-intro/blob/master/README.md "React Intro"
 [8-1C]: https://git.generalassemb.ly/WDIplus-ATX/react-intro-2/blob/master/README.md "React Intro 2"
-[8-1D]: https://git.generalassemb.ly/wdi-wc-march2018/React-Blog/blob/master/README.md 'React Lab'
-[8-1E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab 'React Lab 2'
+[8-1D]:  'React Lab'
+[8-1E]:  'React Lab 2'
 [8-1F]:#
 [8-1FB]:#
 <!--- TUESDAY --->
@@ -241,7 +241,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-7
 [7-2B]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro/blob/master/README.md "React 1" 
 [7-2C]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro-2/blob/master/README.md "React 2"
-[7-2D]: https://git.generalassemb.ly/wdi-wc-march2018/React-Blog/blob/master/README.md "React Blog Lab"
+[7-2D]: https://git.generalassemb.ly/wdi-wc-march2018/simple-blog-react "React Blog Lab"
 [7-2E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab "React ATM lab"
 [7-2F]:#
 <!--- WEDNESDAY --->
