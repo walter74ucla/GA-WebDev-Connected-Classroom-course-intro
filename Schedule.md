@@ -223,7 +223,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 -----                  | --------                    | --------------            | ----------            | --------           | --------- |
  **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]                   | Whiteboard Wednesday  | Outcomes           | Warm Up   |
  **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
- **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | [React Router][7-3B] (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
+ **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | TBD              |
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Reddit Clone Lab (Alex) |
 **2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | [Todo Lab][7-3D] (Joe)        | JSON API Review    | Reddit Clone Lab |
