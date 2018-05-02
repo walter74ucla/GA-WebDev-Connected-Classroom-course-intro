@@ -221,7 +221,7 @@ Time                 | Day 1                        |    Day 2                  
 
 Time (MT)              | Day 1                       |    Day 2                  | Day 3                 | Day 4              | Day  5    |
 -----                  | --------                    | --------------            | ----------            | --------           | --------- |
- **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]                   | Whiteboard Wednesday  | Outcomes           | Warm Up   |
+ **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]           | [Whiteboard Wednesday][7-3A] | Outcomes           | Warm Up   |
  **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
  **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | TBD              |
@@ -245,7 +245,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-2E]: https://git.generalassemb.ly/wdi-wc-march2018/atm-react-lab "React ATM lab"
 [7-2F]:#
 <!--- WEDNESDAY --->
-[7-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-2/thursday.md "revisit piglatin"
+[7-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-7/weds.md
 [7-3B]:#
 [7-3D]: https://git.generalassemb.ly/wdi-wc-march2018/react_todo_walkthrough "Todo Lab"
 [7-3C]: https://git.generalassemb.ly/WDIplus-ATX/tdd-with-jasmine/blob/master/readme.md "Jasmine"
