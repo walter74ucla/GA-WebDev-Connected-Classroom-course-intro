@@ -3,16 +3,16 @@
 ## Final Project
 
 #### Week 12 - Final Project
-Time                 | Day 1          |    Day 2      | Day 3                          | Day 4         | Day  5                      |
------                | --------       | ----------    | ----------                     | --------      | ---------                   |
-**9:00am Warm Ups**  | Final Project  | Final Project | [Optional Big O lesson][12-3A]                 | Final Project | Final Project               |
-**9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up                       | Stand Up      | Stand Up                    |   
-**10:00am Lesson 1** | Final Project  | Final Project | Final Project                  | Final Project | Final Project 	 	         |  
-**11:30pm Lab 1**    | Final Project  | Final Project | Final Project                  | Final Project | Final Project               |  
-**1:30pm Review**    | [Webpack Optional Lesson][12-1C]  | [Redux Optional Lesson][12-1C] | Final Project				   | Final Project | Final Project  		     |
-**2:00pm Lesson 2**  | Final Project  | Final Project | Final Project  / 3:00 Outcomes | Final Project | Final Project Presentations |
-**3:30pm Lab 2**     | Final Project  | Final Project | Outcomes                       | Final Project | Final Project Presentations |
-**Homework**         | Final Project  | Final Project | Final Project     			   | Final Project | CELEBRATION!                |
+Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
+-----                | --------       | ----------    | ----------    | --------      | ---------                   |
+**9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
+**9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up      | Stand Up      | Stand Up                    |   
+**10:00am Lesson 1** | Final Project  | Final Project | Big O lesson  | Final Project | Final Project 	 	        |  
+**11:30pm Lab 1**    | Final Project  | Final Project | Final Project | Final Project | Final Project               |  
+**1:30pm Review**    | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
+**2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
+**3:30pm Lab 2**     | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
+**Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!   
 --->
 
 <!--- MONDAY --->
@@ -24,19 +24,20 @@ Time                 | Day 1          |    Day 2      | Day 3                   
 [12-3A]: https://git.generalassemb.ly/WDIplus-ATX/algorithm-complexity-and-big-o/blob/master/README.md "Big O"
 
 <!---
-## Unit 4: Getting Bilingual with Python
+## Unit 4 - Becoming Bilingual 
 
 #### Week 11 - Project 4
-Time                 | Day 1      |    Day 2  | Day 3                            | Day 4                    | Day  5                  |
------                | --------   | ----------| ----------                       | --------                 | ---------               |
-**9:00am Warm Ups**  | Project 4  | Project 4 | [Data Structures][11-3A]  | Project 4                | Final Project Approvals |
-**9:45am Stand Up**  | Stand Up   | Stand Up  | Stand Up                         | Stand Up                 | Stand Up         		  |   
-**10:00am Lesson 1** | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |  
-**11:30pm Lab 1**    | Project 4  | Project 4 | Project 4                        | Project 4                | Final Project Approvals |
-**1:30pm Review**    | Project 4  | Project 4 | Project 4					     | Project 4                | Final Project Approvals |
-**2:00pm Lesson 2**  | Project 4  | Project 4 | Project 4  / 3:00 Outcomes       | Project 4 Presentations! | Final Project Approvals |
-**3:30pm Lab 2**     | Project 4  | Project 4 | Outcomes                         | Project 4 Presentations! | Final Project Approvals |
-**Homework**         | Project 4  | Project 4 | Project 4     					 | [Final Project Prep][11-4F]       | Final Project!!!        |
+Time (MT)            | Day 1     |    Day 2               | Day 3     | Day 4                | Day 5         |
+-----                | --------  | --------------         | --------- | --------             | ---------     |
+**9:00am Warm Ups**  | Project 4 | Project 4              | Project 4 | Outcomes             | Final Project |
+**9:45am Stand Up**  | Stand Up  | Stand Up               | Stand Up  | Outcomes             | Stand Up      |   
+**10:00am Lesson 1** | Project 4 | Data Structures Lesson | Project 4 | Outcomes             | Final Project |  
+**11:30pm Lab 1**    | Project 4 | Project 4              | Project 4 | Project 4 Prezi Prep | Final Project |
+**1:30pm Review**    | Project 4 | Project 4	             | Project 4 | Project 4 Prezis     | Final Project |
+**2:00pm Lesson 2**  | Project 4 | Project 4              | Project 4 | Project 4 Prezis     | Final Project |
+**3:30pm Lab 2**     | Project 4 | Project 4              | Project 4 | Final Project Intro  | Final Project |
+**Homework**         | Project 4 | Project 4              | Project 4 | Final Project        | Final Project |
+
 
 <!--- WEDNESDAY --->
 [11-3A]: https://git.generalassemb.ly/gist/alexw/80807439e72c961aeb5e3a70b6abaec7 "data structures"
@@ -61,18 +62,17 @@ Time                 | Day 1      |    Day 2  | Day 3                           
 [11-5E]:#
 [11-5F]:#
 <!---
-#### Week 10 - Python + Django [reference material](https://wdi_sea.gitbooks.io/notes/content/15-python/python.html)
-Time                 | Day 1                           |    Day 2                          | Day 3                            | Day 4                    | Day  5           |
------                | --------                        | --------------                    | ----------                       | --------                 | ---------        |
-**9:00am Warm Ups**  | [Warm Ups][10-1A]               | [Warm Ups][10-2A]                          | [Whiteboard Wednesday][10-3A]      | Warm Ups                 | Warm Ups         |
-**9:45am Stand Up**  | Stand Up                        | Stand Up                          | Stand Up                         | Stand Up                 | Stand Up         |   
-**10:00am Lesson 1** | [Intro to Python][10-1B]        | [Python Classes][10-2B]           | [SQL][10-3B]                     | [Intro to Django][10-4B] | [Project 4 Prep][10-5B] |  
-**11:30pm Lab 1**    | Intro to Python | [Shopping List Lab][10-2C]       | [SQL Carmen Sandiego lab][10-3C] | [Django][10-4C]          | Project 4        |
-**1:30pm Review**    |  Review					       | Review						       | Python Review					  | Review				     | Review   		|
-**2:00pm Lesson 2**  | [Python Challenges][10-1D]      | [Inhertiance][10-2D] | [Relationships][10-3D]  / 3:00 Outcomes   | [Django][10-4D]          | Project 4        |
-**3:30pm Lab 2**     | [Python Challenges][10-1E] | [Codebar Lab][10-2E]  | Outcomes                         | [Django][10-4E]          | Project 4        |
-**Homework**         | [State Capitals + Video][10-1F] | Codebar Lab Cont. + [Reading][10-2F]  | [Orange Tree 
-ython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
+#### Week 10 - Python + Django
+Time (MT)            | Day 1                    |    Day 2          | Day 3                           | Day 4           | Day 5     |
+-----                | --------                 | --------------    | ---------                       | --------        | --------- |
+**9:00am Warm Ups**  | Warm Up                  | Warm Up           | Warm Up                         | Outcomes        | Project 4 |
+**9:45am Stand Up**  | Stand Up                 | Stand Up          | Django TBD Lesson (code along?) | Outcomes        | Project 4 |   
+**10:00am Lesson 1** | Inheritance              | Relationships     | Django All Day Lab | Outcomes        | Project 4 |  
+**11:30pm Lab 1**    | Codebar Lab              | TBD Lab           | Django All Day Lab | Intro Project 4 | Project 4 |
+**1:30pm Review**    | Review                   | Review	           | Django All Day Lab | Project 4       | Project 4 |
+**2:00pm Lesson 2**  | SQL                      | Intro to Django   | Django All Day Lab | Project 4       | Project 4 |
+**3:30pm Lab 2**     | SQL Carmen San Diego Lab | Django Lab        | Django All Day Lab | Project 4       | Project 4 |
+**Homework**         | Orange Tree              | Finish Django Lab | Django All Day Lab | Project 4       | Project 4 |
  --->
 
 <!--- MONDAY --->
@@ -113,18 +113,18 @@ ython][10-3F]    | [Project 4 Prep][10-4F]  | Project 4        |
 [10-5E]:#
 [10-5F]:#
 
-## Unit 3: Front End 2018 with React
 <!---
-#### Week 9 - Project 3
-Time                 | Day 1     |    Day 2                  | Day 3                           | Day 4                                   | Day  5    |
------                | --------  | --------------            | ----------                      | --------                                | --------- |
-**9:00am Warm Ups**  | Project 3 | Project 3                 | Whiteboard Wednesday (Optional) | Project 3                               | Project 3 |
-**9:45am Stand Up**  | Stand Up  | Stand Up                  | Stand Up                        | Stand Up                                | Stand Up  |   
-**10:00am Lesson 1** | Project 3 | [Webpack][9-2C](Optional) | [Redux][9-3C](Optional)         | [Advanced Command Line][9-4C](Optional) | Project 3 |  
-**11:30pm Lab 1**    | Project 3 | Project 3                 | Project 3                       | Project 3                               | Project 3 |
-**1:30pm Review**    | Project 3 | Project 3                 | Project 3 / 3:00 Outcomes       | Project 3                               | Project 3 Presentations |
-**3:30pm Lab 2**     | Project 3 | Project 3                 | Outcomes                        | Project 3                               | Project 3 Presentations |
-**Homework**         | Project 3 | Project 3                 | Project 3                       | Project 3 Planning                      | [Python Reading][9-5F] |
+#### Week 9 - Hackathon + Python
+Time (MT)            | Day 1     |    Day 2                        | Day 3    | Day 4            | Day  5              |
+-----                | --------  | --------------                  | ---------| --------         | ---------           |
+**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep     | Hackaton | Outcomes         | Warm Ups            |
+**9:45am Stand Up**  | Stand Up  | Stand Up                        | Hackaton | Outcomes         | Stand Up            |   
+**10:00am Lesson 1** | Project 3 | Local Presentations             | Hackaton | Outcomes         | Python TBD          |  
+**11:30pm Lab 1**    | Project 3 | Local Presentations             | Hackaton | Hackathon Prezis | Python Challenges   |
+**1:30pm Review**    | Project 3 | Global Presentations	           | Hackaton | Hackathon Prezis | Review   		   |
+**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Hackathon | Hackaton | Intro Python     | Python Classes      |
+**3:30pm Lab 2**     | Project 3 | Hackaton                        | Hackaton | Python Exercises | Shopping List Lab   |
+**Homework**         | Project 3 | Hackaton                        | Hackaton | Python Exercises | Create a Reddit Bot |
  --->
 
 <!--- MONDAY --->
@@ -164,19 +164,20 @@ Time                 | Day 1     |    Day 2                  | Day 3            
 [9-5D]:#
 [9-5E]:#
 [9-5F]: https://git.generalassemb.ly/gist/alexw/53a0f9b5a55c60afadca1491eaa431ca "Python reading"
-<!---
-#### Week 8 - React
-Time                 | Day 1                        |    Day 2                      | Day 3                                      | Day 4                    | Day  5    |
------                | --------                     | --------------                | ----------                                 | --------                 | --------- |
-**9:00am Warm Ups**  | [Warm Up][8-1A]              | [Warm Up][8-2A]               | [Whiteboard Wednesday][8-3A]               | [Warm Up][8-4A]          | Project 3 |
-**9:45am Stand Up**  | Stand Up                     | Stand Up                      | Stand Up                                   | Stand Up                 | Stand Up  |   
-**10:00am Lesson 1** | [Intro to React][8-1B]       | [React Router + Review][8-2B] | [Giphy Lab][8-3B]                          | [Reddit Clone Lab][8-4B] | Project 3 |  
-**11:30pm Lab 1**    | [Intro to React pt. 2][8-1C] | [Todo Lab][8-2C]              | [Giphy Lab][8-3C]                          | [Reddit Clone Lab][8-4B] | Project 3 |
-**1:30pm Review**    | Review                       | Review                        | [React Review + Walkthrough][8-3D]         | Review                   | Project 3 |
-**2:00pm Lesson 2**  | [React Lab][8-1D]            | [Todo Lab][8-2D]              | React Review + Walkthrough / 3:00 Outcomes | [Reddit Clone Lab][8-3F] | Project 3 |
-**3:30pm Lab 2**     | [React Lab 2][8-1E]          | [Todo Lab][8-2E]              | Outcomes                                   | [Project 3 Intro][8-4E]  | Project 3 |
-**Homework**         | [React Lab][8-1F] + Reading  | [Todo Lab][8-2F]              | [Reddit Clone Lab][8-3F] + [promises reading][8-3FB]                   | Project 3 Planning       | Project 3 |
- --->
+
+## Unit 3: Front End 2018 with React
+
+#### Week 8 - Project 3
+Time (MT)            | Day 1            | Day 2              | Day 3                            | Day 4     | Day  5    |
+-----                | --------         | --------------     | ----------                       | --------  | --------- |
+**9:00am Warm Ups**  | Warm Up          | Project 3          | Whiteboard Wednesday (Optional)  | Outcomes  | Project 3 |
+**9:45am Stand Up**  | Stand Up         | Stand Up           | Stand Up                         | Outcomes  | Stand Up  |   
+**10:00am Lesson 1** | React Native lesson | Webpack (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
+**11:30pm Lab 1**    | React Native Lab    | Deploy Party(Local)    | Project 3                        | Project 3 | Project 3 |
+**1:30pm Review**    | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |
+**2:00pm Lesson 2**  | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |               
+**3:30pm Lab 2**     | Project 3 intro  | Project 3          | Project 3                        | Project 3 | Project 3 |
+**Homework**         | Project 3        | Project 3          | Project 3                        | Project 3 | Project 3 |
 
 <!--- MONDAY --->
 [8-1A]:#
