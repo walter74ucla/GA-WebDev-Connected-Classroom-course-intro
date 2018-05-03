@@ -225,7 +225,7 @@ Time (MT)              | Day 1                       |    Day 2                 
  **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]           | [Whiteboard Wednesday][7-3A] | Outcomes           | Warm Up   |
  **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
  **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
- **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | Firebase (Alex)              |
+ **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | [Firebase][7-5C] (Alex)              |
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Redux (Optional, Shahzad)  |
 **2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | [Todo Lab][7-3D] (Joe)        | [JSON API Review][7-4D]    | Reddit Clone Lab (Alex) |
 **3:30pm Lab 2**       | React Overview (local)      | [React ATM Lab][7-2E]   | Todo Lab              | [Giphy Lab][7-4E] (Brandi) | Reddit Clone Lab |
@@ -262,7 +262,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 <!--- FRIDAY --->
 [7-5A]:#
 [7-5B]:#
-[7-5C]:#
+[7-5C]: https://git.generalassemb.ly/wdi-wc-march2018/Basic-Firebase-Tutorial/blob/master/README.md "Firebase"
 [7-5C]:#
 [7-5D]:#
 [7-5E]:#
