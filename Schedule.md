@@ -222,7 +222,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 
 Time (MT)              | Day 1                       |    Day 2                  | Day 3                 | Day 4              | Day  5    |
 -----                  | --------                    | --------------            | ----------            | --------           | --------- |
- **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]           | [Whiteboard Wednesday][7-3A] | Outcomes           | Warm Up   |
+ **9:00am Warm Ups**   | Project 2                   | [Warm Up][7-2A]           | [Whiteboard Wednesday][7-3A] | Outcomes           | [Warm Up][7-5A]   |
  **9:45am Stand Up**   | Stand Up                    | Stand Up                  | Stand Up              | Outcomes           | Stand Up  |
  **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | [Firebase][7-5C] (Alex)              |
@@ -260,7 +260,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-4E]: https://git.generalassemb.ly/wdi-wc-march2018/react-giphy "React Giphy"
 [7-4F]:#
 <!--- FRIDAY --->
-[7-5A]:#
+[7-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-7/friday.md "Warm Up"
 [7-5B]:#
 [7-5C]: https://git.generalassemb.ly/wdi-wc-march2018/Basic-Firebase-Tutorial/blob/master/README.md "Firebase"
 [7-5C]:#
