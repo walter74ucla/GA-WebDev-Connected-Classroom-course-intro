@@ -227,7 +227,7 @@ Time (MT)              | Day 1                       |    Day 2                 
  **10:00am Lesson 1**  | Project 2 Presentation Prep | [Intro to React][7-2B]    | React Router (local)  | Outcomes           | Component Life Cycle  & Devtool plugin (local)| 
  **11:30pm Lab 1**     | Project 2 Presentation Prep | [React Intro part Deux][7-2C] | Data Flow (local)     | Local Choice       | [Firebase][7-5C] (Alex)              |
 **1:30pm Review**      | Project 2 Presentations!    | Review                    | Review                | Review             | Redux (Optional, Shahzad)  |
-**2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | [Todo Lab][7-3D] (Joe)        | [JSON API Review][7-4D]    | Reddit Clone Lab (Alex) |
+**2:00pm Lesson 2**    | Project 2 Presentations!    | [React Blog Lab][7-2D]  | [Todo Lab][7-3D] (Joe)        | [JSON API Review][7-4D]    | [Reddit Clone Lab][7-5D] (Alex) |
 **3:30pm Lab 2**       | React Overview (local)      | [React ATM Lab][7-2E]   | Todo Lab              | [Giphy Lab][7-4E] (Brandi) | Reddit Clone Lab |
 **Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Finish Giphy Lab   | Reddit Clone Lab |
 
@@ -264,7 +264,7 @@ Time (MT)              | Day 1                       |    Day 2                 
 [7-5B]:#
 [7-5C]: https://git.generalassemb.ly/wdi-wc-march2018/Basic-Firebase-Tutorial/blob/master/README.md "Firebase"
 [7-5C]:#
-[7-5D]:#
+[7-5D]: https://git.generalassemb.ly/wdi-wc-march2018/reddit-clone-mern/blob/master/README.md
 [7-5E]:#
 [7-5F]: https://git.generalassemb.ly/gist/alexw/2eb4a2f1e53da026178d4fa928b7b0be 'About Lightining Talks'
 ## Unit 2: Intro to the Back End - Node, Express and MongoDB
