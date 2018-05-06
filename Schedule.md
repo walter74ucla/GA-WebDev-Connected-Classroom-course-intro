@@ -170,7 +170,7 @@ Time (MT)            | Day 1     |    Day 2                        | Day 3    | 
 #### Week 8 - Project 3
 Time (MT)            | Day 1            | Day 2              | Day 3                            | Day 4     | Day  5    |
 -----                | --------         | --------------     | ----------                       | --------  | --------- |
-**9:00am Warm Ups**  | Warm Up          | Project 3          | Whiteboard Wednesday (Optional)  | Outcomes  | Project 3 |
+**9:00am Warm Ups**  | Warm Up          | Project 3          | [Whiteboard Wednesday][8-3A]     | Outcomes  | Project 3 |
 **9:45am Stand Up**  | Stand Up         | Stand Up           | Stand Up                         | Outcomes  | Stand Up  |   
 **10:00am Lesson 1** | React Native lesson | Webpack (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
 **11:30pm Lab 1**    | React Native Lab    | Deploy Party(Local)    | Project 3                        | Project 3 | Project 3 |
@@ -195,7 +195,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 [8-2E]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 [8-2F]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 <!--- WEDNESDAY --->
-[8-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/wednesday.md "Whiteboard Wendesday"
+[8-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-8/wednesday.md "Whiteboard Wendesday"
 [8-3B]: https://git.generalassemb.ly/WDIplus-ATX/react-giphy/blob/master/README.md 'Giphy Lab'
 [8-3D]:#
 [8-3C]: https://git.generalassemb.ly/WDIplus-ATX/react-giphy/blob/master/README.md 'Giphy Lab'
