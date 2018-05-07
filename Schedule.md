@@ -176,7 +176,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 **11:30pm Lab 1**    | React Native Lab    | Deploy Party(Local)    | Project 3                        | Project 3 | Project 3 |
 **1:30pm Review**    | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |
 **2:00pm Lesson 2**  | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |               
-**3:30pm Lab 2**     | Project 3 intro  | Project 3          | Project 3                        | Project 3 | Project 3 |
+**3:30pm Lab 2**     | [Project 3][8-1E] intro  | Project 3          | Project 3                        | Project 3 | Project 3 |
 **Homework**         | Project 3        | Project 3          | Project 3                        | Project 3 | Project 3 |
 
 <!--- MONDAY --->
@@ -184,7 +184,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 [8-1B]: https://git.generalassemb.ly/wdi-wc-march2018/react-native/blob/master/README.md "React Native"
 [8-1C]: https://git.generalassemb.ly/WDIplus-ATX/react-intro-2/blob/master/README.md "React Intro 2"
 [8-1D]:#  'React Lab'
-[8-1E]:#  'React Lab 2'
+[8-1E]: https://git.generalassemb.ly/wdi-wc-march2018/project3 "project 3"
 [8-1F]:#
 [8-1FB]:#
 <!--- TUESDAY --->
