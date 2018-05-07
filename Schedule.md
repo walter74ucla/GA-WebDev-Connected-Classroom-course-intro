@@ -172,7 +172,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 -----                | --------         | --------------     | ----------                       | --------  | --------- |
 **9:00am Warm Ups**  | [Warm Up][8-1A]  | Project 3          | [Whiteboard Wednesday][8-3A]     | Outcomes  | Project 3 |
 **9:45am Stand Up**  | Stand Up         | Stand Up           | Stand Up                         | Outcomes  | Stand Up  |   
-**10:00am Lesson 1** | React Native lesson | Webpack (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
+**10:00am Lesson 1** | [React Native lesson][8-1B]| Webpack (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
 **11:30pm Lab 1**    | React Native Lab    | Deploy Party(Local)    | Project 3                        | Project 3 | Project 3 |
 **1:30pm Review**    | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |
 **2:00pm Lesson 2**  | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |               
@@ -181,7 +181,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 
 <!--- MONDAY --->
 [8-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-8/monday.md
-[8-1B]: https://git.generalassemb.ly/WDIplus-ATX/react-intro/blob/master/README.md "React Intro"
+[8-1B]: https://git.generalassemb.ly/wdi-wc-march2018/react-native/blob/master/README.md "React Native"
 [8-1C]: https://git.generalassemb.ly/WDIplus-ATX/react-intro-2/blob/master/README.md "React Intro 2"
 [8-1D]:#  'React Lab'
 [8-1E]:#  'React Lab 2'
