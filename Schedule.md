@@ -172,7 +172,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 -----                | --------         | --------------     | ----------                       | --------  | --------- |
 **9:00am Warm Ups**  | [Warm Up][8-1A]  | Project 3          | [Whiteboard Wednesday][8-3A]     | Outcomes  | Project 3 |
 **9:45am Stand Up**  | Stand Up         | Stand Up           | Stand Up                         | Outcomes  | Stand Up  |   
-**10:00am Lesson 1** | [React Native lesson][8-1B]| Webpack (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
+**10:00am Lesson 1** | [React Native lesson][8-1B]| [Webpack][8-2B] (Optional) | Advanced Command Line (Optional, Local) | Outcomes	| Project 3 |  
 **11:30pm Lab 1**    | React Native Lab    | Deploy Party(Local)    | Project 3                        | Project 3 | Project 3 |
 **1:30pm Review**    | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |
 **2:00pm Lesson 2**  | Unit 3 Review    | Project 3          | Project 3                        | Project 3 | Project 3 |               
@@ -189,7 +189,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 [8-1FB]:#
 <!--- TUESDAY --->
 [8-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-8/tuesday.md "Warm up"
-[8-2B]: https://git.generalassemb.ly/WDIplus-ATX/react-router/blob/master/README.md "React Router"
+[8-2B]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
 [8-2C]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 [8-2D]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
 [8-2E]: https://git.generalassemb.ly/WDIplus-ATX/react_todo_walkthrough "Todo Lab"
