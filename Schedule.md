@@ -23,9 +23,9 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 <!--- WEDS --->
 [12-3A]: https://git.generalassemb.ly/WDIplus-ATX/algorithm-complexity-and-big-o/blob/master/README.md "Big O"
 
-<!---
-## Unit 4 - Becoming Bilingual 
 
+## Unit 4 - Becoming Bilingual 
+<!---
 #### Week 11 - Project 4
 Time (MT)            | Day 1     |    Day 2               | Day 3     | Day 4                | Day 5         |
 -----                | --------  | --------------         | --------- | --------             | ---------     |
@@ -113,19 +113,17 @@ Time (MT)            | Day 1                    |    Day 2          | Day 3     
 [10-5E]:#
 [10-5F]:#
 
-<!---
-#### Week 9 - Hackathon + Python
-Time (MT)            | Day 1     |    Day 2                        | Day 3    | Day 4            | Day  5              |
------                | --------  | --------------                  | ---------| --------         | ---------           |
-**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep     | Hackaton | Outcomes         | Warm Ups            |
-**9:45am Stand Up**  | Stand Up  | Stand Up                        | Hackaton | Outcomes         | Stand Up            |   
-**10:00am Lesson 1** | Project 3 | Local Presentations             | Hackaton | Outcomes         | Python TBD          |  
-**11:30pm Lab 1**    | Project 3 | Local Presentations             | Hackaton | Hackathon Prezis | Python Challenges   |
-**1:30pm Review**    | Project 3 | Global Presentations	           | Hackaton | Hackathon Prezis | Review   		   |
-**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Hackathon | Hackaton | Intro Python     | Python Classes      |
-**3:30pm Lab 2**     | Project 3 | Hackaton                        | Hackaton | Python Exercises | Shopping List Lab   |
-**Homework**         | Project 3 | Hackaton                        | Hackaton | Python Exercises | Create a Reddit Bot |
- --->
+#### Week 9 - Python
+Time (MT)            | Day 1     |    Day 2                     | Day 3                       | Day 4                        | Day  5             |
+-----                | --------  | --------------               | ---------                   | --------                     | ---------          |
+**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | Hackaton                    | Outcomes                     | Warm Ups           |
+**9:45am Stand Up**  | Stand Up  | Stand Up                     | Stand Up                    | Outcomes                     | Stand Up           |   
+**10:00am Lesson 1** | Project 3 | Local Presentations          | Python TBD (local)          | Outcomes                     | Catch Up Day!      |  
+**11:30pm Lab 1**    | Project 3 | Local Presentations          | Python Challenges (Shahzad) | Inheritance (local)          | Catch Up Day!      |
+**1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
+**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Python Classes (Alex)       | Orange Tree Lab (Alex)       | Catch Up Day!      |
+**3:30pm Lab 2**     | Project 3 | Intro Python (Alex)          | Shopping List Lab (Shahzad) | SQL (local)                  | Catch Up Day!      |
+**Homework**         | Project 3 | Python Exercises	(Alex)		| Cont. Labs from today       | Carmen San Diego Lab(Brandi) | Build a Reddit Bot |
 
 <!--- MONDAY --->
 [9-1A]:#
