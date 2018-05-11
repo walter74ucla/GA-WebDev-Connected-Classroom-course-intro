@@ -63,16 +63,16 @@ Time (MT)            | Day 1     |    Day 2               | Day 3     | Day 4   
 [11-5F]:#
 <!---
 #### Week 10 - Python + Django
-Time (MT)            | Day 1                    |    Day 2          | Day 3                           | Day 4           | Day 5     |
------                | --------                 | --------------    | ---------                       | --------        | --------- |
-**9:00am Warm Ups**  | Warm Up                  | Warm Up           | Warm Up                         | Outcomes        | Project 4 |
-**9:45am Stand Up**  | Stand Up                 | Stand Up          | Django TBD Lesson (code along?) | Outcomes        | Project 4 |   
-**10:00am Lesson 1** | Inheritance              | Relationships     | Django All Day Lab | Outcomes        | Project 4 |  
-**11:30pm Lab 1**    | Codebar Lab              | TBD Lab           | Django All Day Lab | Intro Project 4 | Project 4 |
-**1:30pm Review**    | Review                   | Review	           | Django All Day Lab | Project 4       | Project 4 |
-**2:00pm Lesson 2**  | SQL                      | Intro to Django   | Django All Day Lab | Project 4       | Project 4 |
-**3:30pm Lab 2**     | SQL Carmen San Diego Lab | Django Lab        | Django All Day Lab | Project 4       | Project 4 |
-**Homework**         | Orange Tree              | Finish Django Lab | Django All Day Lab | Project 4       | Project 4 |
+Time (MT)            | Day 1             |    Day 2           | Day 3               | Day 4           | Day 5     |
+-----                | --------          | --------------     | ---------           | --------        | --------- |
+**9:00am Warm Ups**  | Warm Up           | Warm Up            | Warm Up             | Outcomes        | Project 4 |
+**9:45am Stand Up**  | Stand Up          | Stand Up           | Stand Up            | Outcomes        | Project 4 |   
+**10:00am Lesson 1** | Relationships     | Django Code Along  | Advanced Django TBD | Outcomes        | Project 4 |  
+**11:30pm Lab 1**    | TBD Lab           | TBD Big Django Lab | TBD                 | Intro Project 4 | Project 4 |
+**1:30pm Review**    | Review            | Review	          | Review              | Project 4       | Project 4 |
+**2:00pm Lesson 2**  | Intro to Django   | TBD Big Django Lab | Algorithms          | Project 4       | Project 4 |
+**3:30pm Lab 2**     | Django Lab        | TBD Big Django Lab | SEO                 | Project 4       | Project 4 |
+**Homework**         | Finish Django Lab | TBD Big Django Lab | Project 4 Prep      | Project 4       | Project 4 |
  --->
 
 <!--- MONDAY --->
