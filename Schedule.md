@@ -123,7 +123,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Inheritance (Local)                | SQL (local)                  | Catch Up Day!      |
 **3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)          | Orange Tree Lab (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
-**Homework**         | Project 3 | [Project Euler][9-2F] - solve 6 out of the first	12!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
+**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
 
 <!--- MONDAY --->
 [9-1A]:#
