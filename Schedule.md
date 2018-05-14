@@ -122,8 +122,8 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | Shopping List Lab (Shahzad) | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Inheritance (Local)                | SQL (local)                  | Catch Up Day!      |
-**3:30pm Lab 2**     | Project 3 | Intro Python (Alex)          | Orange Tree Lab (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
-**Homework**         | Project 3 | Python Exercises	(Alex)		    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
+**3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)          | Orange Tree Lab (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
+**Homework**         | Project 3 | [Project Euler][9-2F] - solve 6 out of the first	12!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -136,10 +136,10 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 <!--- TUESDAY --->
 [9-2A]:#
 [9-2B]:#
-[9-2C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
+[9-2C]:#
 [9-2D]:#
-[9-2E]:#
-[9-2F]:#
+[9-2E]: https://git.generalassemb.ly/wdi-wc-march2018/intro-python/blob/master/README.md "Intro Python"
+[9-2F]: https://projecteuler.net/archives "Project Euler"
 <!--- WEDNESDAY --->
 [9-3A]:#
 [9-3B]:#
