@@ -121,7 +121,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **10:00am Lesson 1** | Project 3 | Local Presentations          | Python Classes (Alex)       | Outcomes                     | Catch Up Day!      |  
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | Shopping List Lab (Shahzad) | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
-**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Inheritance                 | SQL (local)                  | Catch Up Day!      |
+**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Inheritance (Local)                | SQL (local)                  | Catch Up Day!      |
 **3:30pm Lab 2**     | Project 3 | Intro Python (Alex)          | Orange Tree Lab (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
 **Homework**         | Project 3 | Python Exercises	(Alex)		    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
 
