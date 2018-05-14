@@ -116,7 +116,7 @@ Time (MT)            | Day 1             |    Day 2           | Day 3           
 #### Week 9 - Python
 Time (MT)            | Day 1     |    Day 2                     | Day 3                       | Day 4                        | Day  5             |
 -----                | --------  | --------------               | ---------                   | --------                     | ---------          |
-**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | Hackaton                    | Outcomes                     | Warm Ups           |
+**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | Whiteboard Weds             | Outcomes                     | Warm Ups           |
 **9:45am Stand Up**  | Stand Up  | Stand Up                     | Stand Up                    | Outcomes                     | Stand Up           |   
 **10:00am Lesson 1** | Project 3 | Local Presentations          | Python TBD (local)          | Outcomes                     | Catch Up Day!      |  
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | Python Challenges (Shahzad) | Inheritance (local)          | Catch Up Day!      |
