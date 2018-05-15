@@ -118,7 +118,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 -----                | --------  | --------------               | ---------                   | --------                     | ---------          |
 **9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | [Whiteboard Weds][9-3A]     | Outcomes                     | Warm Ups           |
 **9:45am Stand Up**  | Stand Up  | Stand Up                     | Stand Up                    | Outcomes                     | Stand Up           |   
-**10:00am Lesson 1** | Project 3 | Local Presentations          | [Python Classes] [9-3C](Local)       | Outcomes                     | Catch Up Day!      |  
+**10:00am Lesson 1** | Project 3 | Local Presentations          | [Python Classes][9-3C] (Local)       | Outcomes                     | Catch Up Day!      |  
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | Shopping List Lab (Shahzad) | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | [Inheritance][9-3D] (Alex)                | SQL (local)                  | Catch Up Day!      |
