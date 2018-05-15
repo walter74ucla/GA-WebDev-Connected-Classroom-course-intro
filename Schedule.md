@@ -121,7 +121,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **10:00am Lesson 1** | Project 3 | Local Presentations          | Python Classes (Local)       | Outcomes                     | Catch Up Day!      |  
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | Shopping List Lab (Shahzad) | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
-**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | Inheritance (Alex)                | SQL (local)                  | Catch Up Day!      |
+**2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | [Inheritance][9-3D] (Alex)                | SQL (local)                  | Catch Up Day!      |
 **3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)  | Orange Tree Lab (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
 **Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
 
@@ -143,8 +143,8 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 <!--- WEDNESDAY --->
 [9-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-9/wednesday.md "Whiteboard Weds"
 [9-3B]:#
-[9-3D]:#
 [9-3C]:#
+[9-3D]: https://git.generalassemb.ly/wdi-wc-march2018/python-class-inheritance
 [9-3E]:#
 [9-3F]:#
 <!--- THURSDAY --->
