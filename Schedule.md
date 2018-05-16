@@ -123,7 +123,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | [Inheritance][9-3D] (Alex)                | SQL (local)                  | Catch Up Day!      |
 **3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)  | [Orange Tree Lab][9-3E] (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
-**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | [Build a Reddit Bot][9-5F] |
+**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | [Python Homework][9-3F] | Finish Labs + Python Reading | [Build a Reddit Bot][9-5F] |
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -146,7 +146,7 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 [9-3C]: https://git.generalassemb.ly/wdi-wc-march2018/python-classes
 [9-3D]: https://git.generalassemb.ly/wdi-wc-march2018/python-class-inheritance "Inheritance"
 [9-3E]: https://git.generalassemb.ly/alexw/orange-tree-oop-python/blob/master/README.md "Orange Tree"
-[9-3F]:#
+[9-3F]: https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 "Python Homework"
 <!--- THURSDAY --->
 [9-4A]:#
 [9-4B]:#
