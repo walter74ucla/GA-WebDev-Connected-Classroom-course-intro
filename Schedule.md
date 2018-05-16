@@ -116,14 +116,14 @@ Time (MT)            | Day 1             |    Day 2           | Day 3           
 #### Week 9 - Python
 Time (MT)            | Day 1     |    Day 2                     | Day 3                       | Day 4                        | Day  5             |
 -----                | --------  | --------------               | ---------                   | --------                     | ---------          |
-**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | [Whiteboard Weds][9-3A]     | Outcomes                     | Warm Ups           |
+**9:00am Warm Ups**  | Project 3 | Project 3 Presentation Prep  | [Whiteboard Weds][9-3A]     | Outcomes                     | [Warm Ups][9-5A]           |
 **9:45am Stand Up**  | Stand Up  | Stand Up                     | Stand Up                    | Outcomes                     | Stand Up           |   
 **10:00am Lesson 1** | Project 3 | Local Presentations          | [Python Classes][9-3C] (Local)       | Outcomes                     | Catch Up Day!      |  
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | [Shopping List Lab][9-3B] | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | [Inheritance][9-3D] (Alex)                | SQL (local)                  | Catch Up Day!      |
 **3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)  | [Orange Tree Lab][9-3E] (Alex)      | Carmen San Diego Lab(Brandi)                  | Catch Up Day!      |
-**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | Build a Reddit Bot |
+**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | Python Challenges (Shahzad) | Finish Labs + Python Reading | [Build a Reddit Bot][9-5F] |
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -155,13 +155,13 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 [9-4E]:#
 [9-4F]:#
 <!--- FRIDAY --->
-[9-5A]:#
+[9-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-9/friday.md
 [9-5B]:#
 [9-5C]:#
 [9-5C]:#
 [9-5D]:#
 [9-5E]:#
-[9-5F]: https://git.generalassemb.ly/gist/alexw/53a0f9b5a55c60afadca1491eaa431ca "Python reading"
+[9-5F]: https://git.generalassemb.ly/wdi-wc-march2018/reddit-bot-lab/blob/master/README.md "reddit bot"
 
 ## Unit 3: Front End 2018 with React
 
