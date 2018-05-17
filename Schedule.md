@@ -122,8 +122,8 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 **11:30pm Lab 1**    | Project 3 | Local Presentations          | [Shopping List Lab][9-3B] | Python TBD (local)           | Catch Up Day!      |
 **1:30pm Review**    | Project 3 | Global Presentations	        | Review                      | Review                       | Review   		  |
 **2:00pm Lesson 2**  | Project 3 | Global Prezis / Intro Python | [Inheritance][9-3D] (Alex)                | SQL (local)                  | Catch Up Day!      |
-**3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)  | [Orange Tree Lab][9-3E] (Alex)      | [Carmen San Diego Lab][9-4F](Brandi)                  | Catch Up Day!      |
-**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | [Python Homework][9-3F] | Finish Labs + Python Reading | [Build a Reddit Bot][9-5F] |
+**3:30pm Lab 2**     | Project 3 | [Intro Python][9-2E] (Alex)  | [Orange Tree Lab][9-3E] (Alex)      | [Carmen San Diego Lab][9-4E](Brandi)                  | Catch Up Day!      |
+**Homework**         | Project 3 | [Project Euler][9-2F] - solve 5 out of the first	10!	    | [Python Homework][9-3F] | Finish Labs + Python Crash Course [Chapter 9][9-4F] | [Build a Reddit Bot][9-5F] |
 
 <!--- MONDAY --->
 [9-1A]:#
@@ -147,13 +147,15 @@ Time (MT)            | Day 1     |    Day 2                     | Day 3         
 [9-3D]: https://git.generalassemb.ly/wdi-wc-march2018/python-class-inheritance "Inheritance"
 [9-3E]: https://git.generalassemb.ly/alexw/orange-tree-oop-python/blob/master/README.md "Orange Tree"
 [9-3F]: https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 "Python Homework"
+
 <!--- THURSDAY --->
 [9-4A]:#
 [9-4B]:#
 [9-4C]:#
 [9-4D]:#
-[9-4E]:#
-[9-4F]:https://github.com/WDI-SEA/sql-carmen-san-diego "Carmen San Diego"
+[9-4E]: https://github.com/WDI-SEA/sql-carmen-san-diego "Carmen San Diego"
+[9-4F]: http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf
+
 <!--- FRIDAY --->
 [9-5A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-9/friday.md
 [9-5B]:#
