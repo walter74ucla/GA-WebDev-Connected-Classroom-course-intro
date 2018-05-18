@@ -7,7 +7,7 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
 **9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up      | Stand Up      | Stand Up                    |   
-**10:00am Lesson 1** | Final Project  | Final Project | Final Project | Final Project | Final Project 	 	        |  
+**10:00am Lesson 1** | Testing (Alex) | Final Project | Final Project | Final Project | Final Project 	 	        |  
 **11:30pm Lab 1**    | Final Project  | Final Project | Final Project | Final Project | Final Project               |  
 **1:30pm Review**    | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
