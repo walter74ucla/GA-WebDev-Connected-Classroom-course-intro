@@ -61,19 +61,19 @@ Time (MT)            | Day 1     |    Day 2               | Day 3     | Day 4   
 [11-5D]:#
 [11-5E]:#
 [11-5F]:#
-<!---
+
 #### Week 10 - Python + Django
-Time (MT)            | Day 1             |    Day 2           | Day 3               | Day 4           | Day 5     |
------                | --------          | --------------     | ---------           | --------        | --------- |
-**9:00am Warm Ups**  | Warm Up           | Warm Up            | Warm Up             | Outcomes        | Project 4 |
-**9:45am Stand Up**  | Stand Up          | Stand Up           | Stand Up            | Outcomes        | Project 4 |   
-**10:00am Lesson 1** | Relationships     | Django Code Along  | Advanced Django TBD | Outcomes        | Project 4 |  
-**11:30pm Lab 1**    | TBD Lab           | TBD Big Django Lab | TBD                 | Intro Project 4 | Project 4 |
-**1:30pm Review**    | Review            | Review	          | Review              | Project 4       | Project 4 |
-**2:00pm Lesson 2**  | Intro to Django   | TBD Big Django Lab | Algorithms          | Project 4       | Project 4 |
-**3:30pm Lab 2**     | Django Lab        | TBD Big Django Lab | SEO                 | Project 4       | Project 4 |
-**Homework**         | Finish Django Lab | TBD Big Django Lab | Project 4 Prep      | Project 4       | Project 4 |
- --->
+Time (MT)            | Day 1                  |    Day 2                | Day 3                  | Day 4           | Day 5     |
+-----                | --------               | --------------          | ---------              | --------        | --------- |
+**9:00am Warm Ups**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Project 4 |
+**9:45am Stand Up**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Stand Up  |   
+**10:00am Lesson 1** | Relationships (Alex)   | Django Live Code (Alex) | Data Structure (Local) | Outcomes        | Project 4 |  
+**11:30pm Lab 1**    | Intro to Django (Alex) | Django Lab (Brandi)     | Big O Notation (Alex)  | Intro Project 4 | Project 4 |
+**1:30pm Review**    | Review                 | Review	                | Review                 | Project 4       | Project 4 |
+**2:00pm Lesson 2**  | Django Lab (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
+**3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
+**Homework**         | TBD Django homework    | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
+
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
