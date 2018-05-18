@@ -68,7 +68,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 **9:00am Warm Ups**  | [Warm Up][10-1A]       | [Warm Up][10-2A]        | [Warm Up][10-3A]       | Outcomes        | Project 4 |
 **9:45am Stand Up**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Stand Up  |   
 **10:00am Lesson 1** | [Relationships][10-1B] (Alex)   | Django Live Code (Alex) | Data Structure (Local) | Outcomes        | Project 4 |  
-**11:30pm Lab 1**    | Intro to Django (Alex) | Django Lab (Brandi)     | Big O Notation (Alex)  | Intro Project 4 | Project 4 |
+**11:30pm Lab 1**    | [Intro to Django][10-1C] (Alex) | Django Lab (Brandi)     | Big O Notation (Alex)  | Intro Project 4 | Project 4 |
 **1:30pm Review**    | Review                 | Review	                | Review                 | Project 4       | Project 4 |
 **2:00pm Lesson 2**  | Django Lab (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
 **3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
@@ -78,7 +78,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/monday.md
 [10-1B]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
-[10-1C]:#
+[10-1C]: https://git.generalassemb.ly/wdi-wc-march2018/django-workshop
 [10-1D]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
 [10-1E]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
 [10-1F]:https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 
