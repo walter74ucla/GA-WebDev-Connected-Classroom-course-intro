@@ -7,7 +7,7 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
 **9:45am Stand Up**  | Stand Up       | Stand Up      | Stand Up      | Stand Up      | Stand Up                    |   
-**10:00am Lesson 1** | Final Project  | Final Project | Big O lesson  | Final Project | Final Project 	 	        |  
+**10:00am Lesson 1** | Final Project  | Final Project | Final Project | Final Project | Final Project 	 	        |  
 **11:30pm Lab 1**    | Final Project  | Final Project | Final Project | Final Project | Final Project               |  
 **1:30pm Review**    | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
@@ -27,16 +27,16 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 ## Unit 4 - Becoming Bilingual 
 <!---
 #### Week 11 - Project 4
-Time (MT)            | Day 1     |    Day 2               | Day 3     | Day 4                | Day 5         |
------                | --------  | --------------         | --------- | --------             | ---------     |
-**9:00am Warm Ups**  | Project 4 | Project 4              | Project 4 | Outcomes             | Final Project |
-**9:45am Stand Up**  | Stand Up  | Stand Up               | Stand Up  | Outcomes             | Stand Up      |   
-**10:00am Lesson 1** | Project 4 | Data Structures Lesson | Project 4 | Outcomes             | Final Project |  
-**11:30pm Lab 1**    | Project 4 | Project 4              | Project 4 | Project 4 Prezi Prep | Final Project |
-**1:30pm Review**    | Project 4 | Project 4	             | Project 4 | Project 4 Prezis     | Final Project |
-**2:00pm Lesson 2**  | Project 4 | Project 4              | Project 4 | Project 4 Prezis     | Final Project |
-**3:30pm Lab 2**     | Project 4 | Project 4              | Project 4 | Final Project Intro  | Final Project |
-**Homework**         | Project 4 | Project 4              | Project 4 | Final Project        | Final Project |
+Time (MT)            | Day 1     |    Day 2         | Day 3     | Day 4                | Day 5         |
+-----                | --------  | --------------   | --------- | --------             | ---------     |
+**9:00am Warm Ups**  | Project 4 | Project 4        | Project 4 | Outcomes             | Final Project |
+**9:45am Stand Up**  | Stand Up  | Stand Up         | Stand Up  | Outcomes             | Stand Up      |   
+**10:00am Lesson 1** | Project 4 | Project 4        | Project 4 | Outcomes             | Final Project |  
+**11:30pm Lab 1**    | Project 4 | Project 4        | Project 4 | Project 4 Prezi Prep | Final Project |
+**1:30pm Review**    | Project 4 | Project 4	    | Project 4 | Project 4 Prezis     | Final Project |
+**2:00pm Lesson 2**  | Project 4 | Project 4        | Project 4 | Project 4 Prezis     | Final Project |
+**3:30pm Lab 2**     | Project 4 | Project 4        | Project 4 | Final Project Intro  | Final Project |
+**Homework**         | Project 4 | Project 4        | Project 4 | Final Project        | Final Project |
 
 
 <!--- WEDNESDAY --->
