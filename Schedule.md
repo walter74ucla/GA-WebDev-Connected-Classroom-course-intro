@@ -65,7 +65,7 @@ Time (MT)            | Day 1     |    Day 2         | Day 3     | Day 4         
 #### Week 10 - Python + Django
 Time (MT)            | Day 1                  |    Day 2                | Day 3                  | Day 4           | Day 5     |
 -----                | --------               | --------------          | ---------              | --------        | --------- |
-**9:00am Warm Ups**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Project 4 |
+**9:00am Warm Ups**  | [Warm Up][10-1A]       | [Warm Up][10-2A]        | [Warm Up][10-3A]       | Outcomes        | Project 4 |
 **9:45am Stand Up**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Stand Up  |   
 **10:00am Lesson 1** | Relationships (Alex)   | Django Live Code (Alex) | Data Structure (Local) | Outcomes        | Project 4 |  
 **11:30pm Lab 1**    | Intro to Django (Alex) | Django Lab (Brandi)     | Big O Notation (Alex)  | Intro Project 4 | Project 4 |
@@ -76,7 +76,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 
 
 <!--- MONDAY --->
-[10-1A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/monday.md "Warm up"
+[10-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/monday.md
 [10-1B]: https://git.generalassemb.ly/alexw/intro-python "Intro python"
 [10-1C]:#
 [10-1D]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
@@ -84,14 +84,14 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 [10-1F]:https://git.generalassemb.ly/gist/alexw/1a850d8f4d031ab7aa19523e4304e2b5 
 
 <!--- TUESDAY --->
-[10-2A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/tuesday.md
+[10-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/tuesday.md
 [10-2B]: https://git.generalassemb.ly/WDIplus-ATX/python-classes/blob/master/README.md "Classes"
 [10-2C]: https://git.generalassemb.ly/flawgical/Shopping-list-python "Shopping List Lab"
 [10-2D]: https://git.generalassemb.ly/WDIplus-ATX/python-class-inheritance "Inheritance"
 [10-2E]: https://git.generalassemb.ly/WDIplus-ATX/codebar "Codebar lab"
 [10-2F]: https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
 <!--- WEDNESDAY --->
-[10-3A]: https://git.generalassemb.ly/WDIplus-ATX/warm-ups/blob/master/week-10/wednesday.md "Whiteboard Weds"
+[10-3A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/wednesday.md
 [10-3B]: https://git.generalassemb.ly/alexw/intro-sql "SQL"
 [10-3C]: https://git.generalassemb.ly/WDIplus-ATX/carmen-sandiego/blob/master/README.md 'Carmen Sandiego'
 [10-3D]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
