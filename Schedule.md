@@ -67,7 +67,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 -----                | --------               | --------------          | ---------              | --------        | --------- |
 **9:00am Warm Ups**  | [Warm Up][10-1A]       | [Warm Up][10-2A]        | [Warm Up][10-3A]       | Outcomes        | Project 4 |
 **9:45am Stand Up**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Stand Up  |   
-**10:00am Lesson 1** | Relationships (Alex)   | Django Live Code (Alex) | Data Structure (Local) | Outcomes        | Project 4 |  
+**10:00am Lesson 1** | [Relationships][10-1B] (Alex)   | Django Live Code (Alex) | Data Structure (Local) | Outcomes        | Project 4 |  
 **11:30pm Lab 1**    | Intro to Django (Alex) | Django Lab (Brandi)     | Big O Notation (Alex)  | Intro Project 4 | Project 4 |
 **1:30pm Review**    | Review                 | Review	                | Review                 | Project 4       | Project 4 |
 **2:00pm Lesson 2**  | Django Lab (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
@@ -77,7 +77,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 
 <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/monday.md
-[10-1B]: https://git.generalassemb.ly/alexw/intro-python "Intro python"
+[10-1B]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
 [10-1C]:#
 [10-1D]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
 [10-1E]:https://git.generalassemb.ly/WDIplus-ATX/python-challenges/blob/master/README.md 'python challenges'
