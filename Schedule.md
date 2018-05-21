@@ -72,7 +72,7 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 **1:30pm Review**    | Review                 | Review	                | Review                 | Project 4       | Project 4 |
 **2:00pm Lesson 2**  | [Django Lab][10-1D] (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
 **3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
-**Homework**         | Finish at least first 4 steps of Lab    | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
+**Homework**         | Finish first 4 steps of Lab    | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
 
 
 <!--- MONDAY --->
