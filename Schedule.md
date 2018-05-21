@@ -1,5 +1,5 @@
 # WDI West Coast March 2018
-<!---
+
 ## Final Project
 
 #### Week 12 - Final Project
@@ -13,7 +13,7 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **3:30pm Lab 2**     | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!   
---->
+
 
 <!--- MONDAY --->
 [12-1C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
@@ -25,19 +25,17 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 
 
 ## Unit 4 - Becoming Bilingual 
-<!---
 #### Week 11 - Project 4
-Time (MT)            | Day 1     |    Day 2         | Day 3     | Day 4                | Day 5         |
------                | --------  | --------------   | --------- | --------             | ---------     |
-**9:00am Warm Ups**  | Project 4 | Project 4        | Project 4 | Outcomes             | Final Project |
-**9:45am Stand Up**  | Stand Up  | Stand Up         | Stand Up  | Outcomes             | Stand Up      |   
-**10:00am Lesson 1** | Project 4 | Project 4        | Project 4 | Outcomes             | Final Project |  
-**11:30pm Lab 1**    | Project 4 | Project 4        | Project 4 | Project 4 Prezi Prep | Final Project |
-**1:30pm Review**    | Project 4 | Project 4	    | Project 4 | Project 4 Prezis     | Final Project |
-**2:00pm Lesson 2**  | Project 4 | Project 4        | Project 4 | Project 4 Prezis     | Final Project |
-**3:30pm Lab 2**     | Project 4 | Project 4        | Project 4 | Final Project Intro  | Final Project |
-**Homework**         | Project 4 | Project 4        | Project 4 | Final Project        | Final Project |
-
+Time (MT)            | Day 1               |    Day 2         | Day 3     | Day 4                | Day 5         |
+-----                | --------            | --------------   | --------- | --------             | ---------     |
+**9:00am Warm Ups**  | Memorial Day :rose: | Project 4        | Project 4 | Outcomes             | Final Project |
+**9:45am Stand Up**  | Memorial Day        | Stand Up         | Stand Up  | Outcomes             | Stand Up      |   
+**10:00am Lesson 1** | Memorial Day        | Project 4        | Project 4 | Outcomes             | Final Project |  
+**11:30pm Lab 1**    | Memorial Day        | Project 4        | Project 4 | Project 4 Prezi Prep | Final Project |
+**1:30pm Review**    | Memorial Day        | Project 4	      | Project 4 | Project 4 Prezis     | Final Project |
+**2:00pm Lesson 2**  | Memorial Day        | Project 4        | Project 4 | Project 4 Prezis     | Final Project |
+**3:30pm Lab 2**     | Memorial Day        | Project 4        | Project 4 | Final Project Intro  | Final Project |
+**Homework**         | Memorial Day        | Project 4        | Project 4 | Final Project        | Final Project |
 
 <!--- WEDNESDAY --->
 [11-3A]: https://git.generalassemb.ly/gist/alexw/80807439e72c961aeb5e3a70b6abaec7 "data structures"
