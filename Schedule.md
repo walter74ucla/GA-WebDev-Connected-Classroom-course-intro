@@ -66,11 +66,11 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 **9:00am Warm Ups**  | [Warm Up][10-1A]       | [Warm Up][10-2A]        | [Warm Up][10-3A]       | Outcomes        | Project 4 |
 **9:45am Stand Up**  | Warm Up                | Warm Up                 | Warm Up                | Outcomes        | Stand Up  |   
 **10:00am Lesson 1** | [Relationships][10-1B] (Alex)   | [Django Lab: CatCollectr][10-2G] (Brandi) | Data Structure (Local) | Outcomes        | Project 4 |  
-**11:30pm Lab 1**    | [Intro to Django][10-1C] (Alex) | Django Lab (Brandi)     | [Big O Notation][1-3C] (Alex)  | Intro Project 4 | Project 4 |
+**11:30pm Lab 1**    | [Intro to Django][10-1C] (Alex) | Django Lab (Brandi)     | [Big O Notation][10-3C] (Alex)  | Intro Project 4 | Project 4 |
 **1:30pm Review**    | Review                 | Review	                | Review                 | Project 4       | Project 4 |
 **2:00pm Lesson 2**  | [Django Lab][10-1D] (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
-**3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
-**Homework**         | Finish first 4 steps of Lab    | Django Lab (Brandi)     | Project 4 Prep         | Project 4       | Project 4 |
+**3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | [Project 4 Prep][10-3E]         | Project 4       | Project 4 |
+**Homework**         | Finish first 4 steps of Lab    | Django Lab (Brandi)     | [Project 4 Prep][10-3E]         | Project 4       | Project 4 |
 
 
 <!--- MONDAY --->
@@ -94,8 +94,8 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 [10-3B]: https://git.generalassemb.ly/alexw/intro-sql "SQL"
 [10-3C]: https://git.generalassemb.ly/wdi-wc-march2018/algorithm-complexity-and-big-o
 [10-3D]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
-[10-3E]:#
-[10-3F]: https://git.generalassemb.ly/gist/alexw/2f4c60314e6f601e1bce9127ba77c998
+[10-3E]: https://git.generalassemb.ly/wdi-wc-march2018/project-4/blob/master/README.md
+[10-3F]: 
 <!--- THURSDAY --->
 [10-4A]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
 [10-4B]: https://git.generalassemb.ly/alexw/TreasureGram
