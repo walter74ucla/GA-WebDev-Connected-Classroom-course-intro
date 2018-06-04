@@ -1,6 +1,14 @@
 # Unit 1 Resources
 
-## HTML
+## HTML CSS
+
+- [Shay Howe](https://learn.shayhowe.com/)
+
+## Eloquent Javascript for Reading 
+
+- [Eloquent PDF](https://eloquentjavascript.net/)
+
+
 
 #### Canvas
 
