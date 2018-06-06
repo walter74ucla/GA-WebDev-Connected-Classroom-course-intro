@@ -4,7 +4,7 @@
 
 ## JavaScript
 
-  This is the only language that runs in a Browswer. It's Object Oriented, but a bit weird. It also can run in Node, and be used for backend applications. 
+  This is the only language that runs in a Brower. It's Object Oriented, but a bit weird. It also can run in Node, and be used for backend applications. 
  
 ## JavaScript + Node
 
