@@ -2,11 +2,11 @@
 
 #### Week 1 - Fundamentals and Tools
 
-Monday - Course Overview, Command Line
-Tuesday - Intro to Programming, Booleans, Strings, Loops, Github
-Wednesday - Conditionals, Loops, Arrays, Iterating
-Thursday - Functions & Scope
-Friday - Objects!!!!!!!!!, basic css
+* Monday - Course Overview, Command Line
+* Tuesday - Intro to Programming, Booleans, Strings, Loops, Github
+* Wednesday - Conditionals, Loops, Arrays, Iterating
+* Thursday - Functions & Scope
+* Friday - Objects!!!!!!!!!, basic css
 
 
 #### Daily Schedule Overview
