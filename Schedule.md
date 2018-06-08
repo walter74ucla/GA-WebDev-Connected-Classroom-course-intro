@@ -3,6 +3,13 @@
 ## Final Project -->
 
 <!-- #### Week 12 - Final Project
+=======
+# WDI Schedule
+
+Final Project
+
+#### Week 12 - Final Project
+>>>>>>> 608f45208cb7a2dd24168e395d33260c24979531
 Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
@@ -538,6 +545,8 @@ Time                 | Day 1                    |    Day 2                      
 **4:30pm Lab 2**      | [Command Line Lab][1-1E](Shahzad)| [Git & Github Lab][1-2E] (Joe)                   | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5G] (Brandi)  |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! (Shahzad) | [Finish labs][1-2F] (Joe) | [Arrays, loops, conditionals, HTML videos][1-3G]  (Brandi) | [More Function Problems w Scope + CSS Video][1-3E] (Shahzad)| [JS-Racer!][1-4F] (Brandi) |
 
+-->
+
 <!--- MONDAY --->
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
 [1-1B]: #
@@ -586,10 +595,10 @@ Time                 | Day 1                    |    Day 2                      
 
 Time in CST | Monday - Wednesday | Thursday | Friday |
 ----- | -------- | ----- | ----- |
-10:00  | Warm-Ups | Outcomes | Warm-Ups |
-10:45 | Stand ups | Outcomes | Stand ups |
-11:00 | Lesson 1  | Outcomes/ Lab 1 12:00 | Lesson 1  |
-12:30 | Lab 1     | Lab 1 | Lab 1 |
+9:30  | Warm-Ups | Outcomes | Warm-Ups |
+10:30 | Stand ups | Outcomes | Stand ups |
+10:50 | Lesson 1  | Outcomes/ Lab 1 11:00 | Lesson 1  |
+12:20 | Lab 1     | Lab 1 | Lab 1 |
 1:30 | Lunch | Lunch | Lunch |
 2:30 | Afternoon review | Afternoon review | Afternoon review |
 3:00 | Lesson 2 | Lesson 2 | Lesson 2 |
