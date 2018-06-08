@@ -1,5 +1,5 @@
 # WDI 
-<!-- 
+<!-- <!-- 
 ## Final Project -->
 
 <!-- #### Week 12 - Final Project
@@ -9,7 +9,7 @@
 Final Project
 
 #### Week 12 - Final Project
->>>>>>> 608f45208cb7a2dd24168e395d33260c24979531
+
 Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
@@ -22,12 +22,12 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 **Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!    -->
 
 
-<!--- MONDAY --->
+- MONDAY --->
 [12-1C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
 
-<!--- TUESDAY --->
+- TUESDAY --->
 [12-2C]: https://github.com/shahzadkhan3iii7/react-redux-click-counter "React"
-<!--- WEDS --->
+- WEDS --->
 [12-3A]: https://git.generalassemb.ly/WDIplus-ATX/algorithm-complexity-and-big-o/blob/master/README.md "Big O"
 
 
@@ -215,7 +215,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 [8-4D]:#
 [8-4E]: https://git.generalassemb.ly/WDIplus-ATX/project3/blob/master/readme.md "Project 3"
 [8-4F]:#
-<!--- FRIDAY --->
+<!--- FRIDAY ---> -->
 [8-5A]:#
 [8-5B]:#
 [8-5C]:#
@@ -237,14 +237,14 @@ Time (MT)              | Day 1                       |    Day 2                 
 **3:30pm Lab 2**       | React Overview (local)      | [React ATM Lab][7-2E]   | Todo Lab              | [Giphy Lab][7-4E] (Brandi) | Reddit Clone Lab |
 **Homework**           | [Videos + Lightning Talks][7-1E]    | Continue Labs + Reading   | Todo Lab              | Finish Giphy Lab   | Reddit Clone Lab |
 
-<!--- MONDAY --->
+- MONDAY --->
 [7-1A]:#
 [7-1B]:#
 [7-1C]:#
 [7-1D]:#
 [7-1E]:https://git.generalassemb.ly/wdi-wc-march2018/React-intro-homework/blob/master/README.md 'Vidoes + Lightening'
 [7-1F]: 
-<!--- TUESDAY --->
+- TUESDAY --->
 [7-2A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/tree/master/week-7
 [7-2B]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro/blob/master/README.md "React 1" 
 [7-2C]: https://git.generalassemb.ly/wdi-wc-march2018/react-intro-2/blob/master/README.md "React 2"
@@ -392,8 +392,8 @@ Time (MT)             | Day 1                    |    Day 2                     
 **3:30pm Lab 2**      | Project 1                | Project 1                            | [Express Lab][4-4C](Shahzad)      | [Build a mini RESTful JSON API][4-4E](Joe) | EJS Lesson + Lab cont.         |
 **Homework**          | Project 1                | Project 1                            | [Watch Videos][4-3F](Shahzad)     | [Complete Labs for today][4-4F](Joe)       | [Ada's Pizza Express Lab][4-5E] (Brandi)        |
 
-<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
-<!-- Note: we also might need EJS quicklab and or Node Lab to be added to the weekend homework or moved to friday -->
+<!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! 
+<!-- Note: we also might need EJS quicklab and or Node Lab to be added to the weekend homework or moved to friday 
 - MONDAY --->
 [4-1A]: #
 [4-1B]: #
@@ -545,7 +545,7 @@ Time                 | Day 1                    |    Day 2                      
 **4:30pm Lab 2**      | [Command Line Lab][1-1E](Shahzad)| [Git & Github Lab][1-2E] (Joe)                   | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5G] (Brandi)  |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! (Shahzad) | [Finish labs][1-2F] (Joe) | [Arrays, loops, conditionals, HTML videos][1-3G]  (Brandi) | [More Function Problems w Scope + CSS Video][1-3E] (Shahzad)| [JS-Racer!][1-4F] (Brandi) |
 
--->
+
 
 <!--- MONDAY --->
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
@@ -591,7 +591,7 @@ Time                 | Day 1                    |    Day 2                      
 [1-5G]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving 'PB&J Implement'
 
 
-#### Daily Schedule Overview
+<!-- <!-- #### Daily Schedule Overview
 
 Time in CST | Monday - Wednesday | Thursday | Friday |
 ----- | -------- | ----- | ----- |
@@ -603,5 +603,5 @@ Time in CST | Monday - Wednesday | Thursday | Friday |
 2:30 | Afternoon review | Afternoon review | Afternoon review |
 3:00 | Lesson 2 | Lesson 2 | Lesson 2 |
 4:30 | Lab 2 | Lab 2 | Lab 2 |
-5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |
+5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |  
  
