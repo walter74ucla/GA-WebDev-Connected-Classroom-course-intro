@@ -1,6 +1,6 @@
 # WDI Schedule
 
-[//]: # (Comment) ## Final Project
+Final Project
 
 #### Week 12 - Final Project
 Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
