@@ -1,15 +1,11 @@
 # WDI 
-<!-- 
-## Final Project -->
 
-<!-- #### Week 12 - Final Project
-=======
 # WDI Schedule
 
 Final Project
 
 #### Week 12 - Final Project
->>>>>>> 608f45208cb7a2dd24168e395d33260c24979531
+
 Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
