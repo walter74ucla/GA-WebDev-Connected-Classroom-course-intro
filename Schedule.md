@@ -1,5 +1,5 @@
 # WDI Schedule
-
+<!-- 
 Final Project
 
 #### Week 12 - Final Project
@@ -13,10 +13,10 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 **1:30pm Review**    | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **3:30pm Lab 2**     | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
-**Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!    -->
+**Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!    --> -->
 
 
-- MONDAY --->
+<!-- - MONDAY --->
 [12-1C]: https://git.generalassemb.ly/gist/alexw/7fe4b5e0736b1364018078bafbd28774 "Webpack"
 
 - TUESDAY --->
@@ -36,9 +36,9 @@ Time (MT)            | Day 1               |    Day 2         | Day 3     | Day 
 **1:30pm Review**    | Memorial Day        | Project 4	      | Project 4 | Project 4 Prezis     | Final Project |
 **2:00pm Lesson 2**  | Memorial Day        | Project 4        | Project 4 | Project 4 Prezis     | Final Project |
 **3:30pm Lab 2**     | Memorial Day        | Project 4        | Project 4 | Final Project Intro  | Final Project |
-**Homework**         | Memorial Day        | Project 4        | Project 4 | Final Project        | Final Project |
+**Homework**         | Memorial Day        | Project 4        | Project 4 | Final Project        | Final Project | -->
 
-<!--- WEDNESDAY --->
+<!-- - WEDNESDAY --->
 [11-3A]: https://git.generalassemb.ly/gist/alexw/80807439e72c961aeb5e3a70b6abaec7 "data structures"
 [11-3B]:#
 [11-3D]:#
@@ -72,9 +72,9 @@ Time (MT)            | Day 1                  |    Day 2                | Day 3 
 **2:00pm Lesson 2**  | [Django Lab][10-1D] (Joe)       | Django Lab (Brandi)     | SEO (Joe)              | Project 4       | Project 4 |
 **3:30pm Lab 2**     | Django Lab             | Django Lab (Brandi)     | [Project 4 Prep][10-3E]         | Project 4       | Project 4 |
 **Homework**         | Finish first 4 steps of Lab    | Django Lab (Brandi)     | [Project 4 Prep][10-3E]         | Project 4       | Project 4 |
+ -->
 
-
-<!--- MONDAY --->
+<!-- <!--- MONDAY --->
 [10-1A]: https://git.generalassemb.ly/wdi-wc-march2018/warm-ups/blob/master/week-10/monday.md
 [10-1B]: https://git.generalassemb.ly/gist/alexw/8580f95cd86156811d382ce7ee26d9d1
 [10-1C]: https://git.generalassemb.ly/wdi-wc-march2018/django-workshop
@@ -209,7 +209,7 @@ Time (MT)            | Day 1            | Day 2              | Day 3            
 [8-4D]:#
 [8-4E]: https://git.generalassemb.ly/WDIplus-ATX/project3/blob/master/readme.md "Project 3"
 [8-4F]:#
-<!--- FRIDAY ---> -->
+<!--- FRIDAY ---> 
 [8-5A]:#
 [8-5B]:#
 [8-5C]:#
@@ -538,7 +538,7 @@ Time                 | Day 1                    |    Day 2                      
 **3:00pm Lesson 2**   |  [How the Internet Works][1-1DB] |[Git & Github][1-2D] | [Arrays & iterating over them][1-3D](Alex)| [Problem Solving w Functions Lab][1-4D] (Shahzad)| [Tic Tac Toe Livecode][1-5D]
 **4:30pm Lab 2**      | [Command Line Lab][1-1E](Shahzad)| [Git & Github Lab][1-2E] (Joe)                   | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5G] (Brandi)  |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! (Shahzad) | [Finish labs][1-2F] (Joe) | [Arrays, loops, conditionals, HTML videos][1-3G]  (Brandi) | [More Function Problems w Scope + CSS Video][1-3E] (Shahzad)| [JS-Racer!][1-4F] (Brandi) |
-
+ -->
 
 
 <!--- MONDAY --->
