@@ -1,5 +1,6 @@
-# WDI West Coast March 2018
+# WDI 
 
+<!---
 ## Final Project
 
 #### Week 12 - Final Project
@@ -581,7 +582,7 @@ Time                 | Day 1                    |    Day 2                      
 [1-5F]: https://git.generalassemb.ly/WDIplus-ATX/Pseudo-coding 'Pseudo-coding with PB&Js'
 [1-5G]: https://git.generalassemb.ly/WDIplus-ATX/Problem-Solving 'PB&J Implement'
 
-
+-->
 #### Daily Schedule Overview
 
 Time in CST | Monday - Wednesday | Thursday | Friday |
