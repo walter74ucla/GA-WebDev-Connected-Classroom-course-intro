@@ -1,10 +1,3 @@
-# WDI 
-<<<<<<< HEAD
-<!-- <!-- 
-## Final Project -->
-=======
->>>>>>> 4a1747be22183fbbaa7af355e17b835ad199fd17
-
 # WDI Schedule
 
 Final Project
