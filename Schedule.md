@@ -538,7 +538,7 @@ Time                 | Day 1                    |    Day 2                      
 **4:30pm Lab 2**      | [Command Line Lab][1-1E](Shahzad)| [Git & Github Lab][1-2E] (Joe)                   | [Problem solving with loops, conditionals & arrays][1-3E](Brandi) | [Scope Lesson][1-4E] | [Problem Solving][1-5G] (Brandi)  |
 **Homework**          | [Homework1][1-1F] + Upload a photo to Github + Slack profiles! (Shahzad) | [Finish labs][1-2F] (Joe) | [Arrays, loops, conditionals, HTML videos][1-3G]  (Brandi) | [More Function Problems w Scope + CSS Video][1-3E] (Shahzad)| [JS-Racer!][1-4F] (Brandi) |
 
--->
+--->
 
 <!--- MONDAY --->
 [1-1A]: https://git.generalassemb.ly/wdi-wc-march2018/installfest
