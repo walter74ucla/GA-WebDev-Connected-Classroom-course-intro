@@ -34,7 +34,7 @@ If you run into any problems installing this software, please alert an instructo
 * **Why**: GA as a company uses Slack to communicate with staff and students.
 * **Instructions**: Browse to https://slack.com/apps and download/install Slack. Sign in to the **ga-students** team that you have been invited to.
 
-1.  Add a picture of your face and edit your profile to say (your name, location)
+* Add a picture of your face and edit your profile to say (your name, location)
 
 
 ## Required Chrome Extensions
