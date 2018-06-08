@@ -1,8 +1,8 @@
-# WDI West Coast March 2018
+# WDI 
+<!-- 
+## Final Project -->
 
-## Final Project
-
-#### Week 12 - Final Project
+<!-- #### Week 12 - Final Project
 Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4         | Day  5                      |
 -----                | --------       | ----------    | ----------    | --------      | ---------                   |
 **9:00am Warm Ups**  | Final Project  | Final Project | Final Project | Final Project | Final Project               |
@@ -12,7 +12,7 @@ Time (MT)            | Day 1          |    Day 2      | Day 3         | Day 4   
 **1:30pm Review**    | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **2:00pm Lesson 2**  | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
 **3:30pm Lab 2**     | Final Project  | Final Project | Final Project | Final Project | Final Project Presentations |
-**Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!   
+**Homework**         | Final Project  | Final Project | Final Project | Final Project | CELEBRATION!    -->
 
 
 <!--- MONDAY --->
@@ -387,7 +387,7 @@ Time (MT)             | Day 1                    |    Day 2                     
 
 <!-- NOTE: We need [Express Router Lesson][4-5D] for Monday week 5!!! -->
 <!-- Note: we also might need EJS quicklab and or Node Lab to be added to the weekend homework or moved to friday -->
-<!--- MONDAY --->
+- MONDAY --->
 [4-1A]: #
 [4-1B]: #
 [4-1C]: #
@@ -525,7 +525,7 @@ Time                 | Day 1                    |    Day 2                      
 
 
 
-#### Week 1 - Fundamentals and Tools
+<!-- #### Week 1 - Fundamentals and Tools
 
  Time in CST                | Day 1                |    Day 2                                       | Day 3                                | Day 4                                       | Day  5                                    |
 -----                 | --------             | --------------                                 | ----------                           | --------                                    | ---------   |
@@ -595,3 +595,4 @@ Time in CST | Monday - Wednesday | Thursday | Friday |
 3:00 | Lesson 2 | Lesson 2 | Lesson 2 |
 4:30 | Lab 2 | Lab 2 | Lab 2 |
 5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |
+ 
