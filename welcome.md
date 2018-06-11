@@ -9,4 +9,4 @@
 3. What you would like to get out of this class.
 
 
-## OK! Let's get a jump on our first lesson!
+
