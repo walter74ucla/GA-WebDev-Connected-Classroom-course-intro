@@ -8,7 +8,7 @@ To do that you will need to partner up with someone. You're going to work togeth
 
 - Edit the `~/.bash_profile` file
 - File the exact path using `pwd` and tab-completion of apps
-- Add `alias` for each application so files may be opened
+- Add `alias` for each application so files may be opened (You can use Atom, Sublime, or both)
 - Open files and/or folders using `your_alias_name .` to test your script
 
 
@@ -35,10 +35,10 @@ PATH="/usr/local/bin:/usr/local/sbin:$PATH"
 ##### Adding Aliases
 
 - At the **end** of your `.bash_profile` file, you may add an alias. You'll need the exact path of your apps to do so.
-- You can add an alias by assigning a _command_ like so: `alias ws='open -a /Applications/Atom.app'` (Note yours may be different make sure you are printing your workind directory to get the correct file path)
+- You can add an alias by assigning a _command_ like so: `alias ws='open -a /Applications/Atom.app'` (Note yours may be different make sure you are printing your workind directory to get the correct file path, ex2 `# alias subl='open -a "Sublime Text"'`, Note if you have spaces in your application name use double quotes to wrap the space, pay close attention to the ex2, look at the different types of quotations.)
 - Here are the aliases you should use for each app:
   * `subl` for Sublime Text
-  * `safari` for Safari
+  * `atom` for Atom
   * `chrome` for Chrome
 
 ##### Testing
