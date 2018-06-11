@@ -19,6 +19,6 @@ Time in CST | Monday - Wednesday | Thursday | Friday |
 12:20 | Lab 1     | Lab 1 | Lab 1 |
 1:30 | Lunch | Lunch | Lunch |
 2:30 | Afternoon review | Afternoon review | Afternoon review |
-3:00 | Lesson 2 | Lesson 2 | Lesson 2 |
-4:30 | Lab 2 | Lab 2 | Lab 2 |
-5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Intro homework, One-on-ones |  
+3:00 | Lesson 2 | Lesson 2 | Weekend Homework |
+4:30 | Lab 2 | Lab 2 | Weekend Homework |
+5:30 | Intro homework, One-on-ones | Intro homework, One-on-ones | Weekend Homework |  
