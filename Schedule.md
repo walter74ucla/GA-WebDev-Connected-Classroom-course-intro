@@ -1,5 +1,13 @@
 # WDI 
 
+#### Week 2 - 
+
+* __Monday__ - this keyword, Review
+* __Tuesday__ - More complex Objects, 
+* __Wednesday__ - All Day Code Game 
+* __Thursday__ - jQuery, DOM events
+* __Friday__ - Build along jQuery Game, fun, fun, fun
+
 #### Week 1 - Fundamentals and Tools
 
 * __Monday__ - Course Overview, Command Line
