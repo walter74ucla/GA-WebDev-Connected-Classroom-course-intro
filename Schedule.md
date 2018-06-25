@@ -1,5 +1,14 @@
 # WDI 
 
+#### Week 3 -
+
+* __Monday__ - Build todo List Jquery, Start tomagotchi Project
+* __Tuesday__ -Ajax, Tomagotchi
+* __Wednesday__ - Review, Tomagotchi
+* __Thursday__ - Tomagotchi Presentations, Intro Project
+* __Friday__ - Project time
+
+
 #### Week 2 - 
 
 * __Monday__ - this keyword, Review
