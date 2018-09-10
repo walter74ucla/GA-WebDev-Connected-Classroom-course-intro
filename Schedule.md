@@ -2,7 +2,17 @@
 
 #### Week 1 - Fundamentals and Tools
 
-* __Monday__ - Course Overview, Command Line
+#### __Monday__ - Course Overview, Command Line
+
+* Links 
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 - 
+* Homework - 
+
+
+#### __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
 
 #### Links 
 
@@ -12,18 +22,7 @@
 * Lab 2 - 
 * Homework - 
 
-
-* __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
-
-#### Links 
-
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 - 
-* Lab 2 - 
-* Homework - 
-
-* __Wednesday__ - Conditionals, Loops, Arrays, Iterating
+#### __Wednesday__ - Conditionals, Loops, Arrays, Iterating
 
 #### Links 
 
@@ -33,7 +32,7 @@
 * Lab 2 - 
 * Homework - 
 
-* __Thursday__ - Functions & Scope
+#### __Thursday__ - Functions & Scope
 
 #### Links 
 
@@ -43,7 +42,7 @@
 * Lab 2 - 
 * Homework - 
 
-* __Friday__ - Objects!!!!!!!!!, basic css
+#### __Friday__ - Objects!!!!!!!!!, basic css
 
 #### Links 
 
