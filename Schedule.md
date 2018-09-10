@@ -1,25 +1,17 @@
 # WDI 
 
-#### Week 3 -
-
-* __Monday__ - Build todo List Jquery, Start tomagotchi Project
-* __Tuesday__ -Ajax, Tomagotchi
-* __Wednesday__ - Review, Tomagotchi
-* __Thursday__ - Tomagotchi Presentations, Intro Project
-* __Friday__ - Project time
-
-
-#### Week 2 - 
-
-* __Monday__ - this keyword, Review
-* __Tuesday__ - More complex Objects, 
-* __Wednesday__ - All Day Code Game 
-* __Thursday__ - jQuery, DOM events
-* __Friday__ - Build along jQuery Game, fun, fun, fun
-
 #### Week 1 - Fundamentals and Tools
 
 * __Monday__ - Course Overview, Command Line
+
+#### Links
+
+Lesson 1 - 
+Lab 1 -
+Lesson 2 - 
+Lab 2 - 
+HW -
+
 * __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
 * __Wednesday__ - Conditionals, Loops, Arrays, Iterating
 * __Thursday__ - Functions & Scope
