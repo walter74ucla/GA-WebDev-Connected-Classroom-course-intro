@@ -6,11 +6,11 @@
 
 #### Links
 
-Lesson 1 - 
-Lab 1 -
-Lesson 2 - 
-Lab 2 - 
-HW -
+* Lesson 1 - 
+* Lab 1 -
+* Lesson 2 - 
+* Lab 2 - 
+* HW -
 
 * __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
 * __Wednesday__ - Conditionals, Loops, Arrays, Iterating
