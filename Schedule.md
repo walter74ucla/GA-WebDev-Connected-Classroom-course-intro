@@ -59,8 +59,8 @@
 Time in CST | Monday - Wednesday | Thursday | Friday |
 ----- | -------- | ----- | ----- |
 9:30  | Warm-Ups | Outcomes | Warm-Ups |
-10:30 | Stand ups | Outcomes | Stand ups |
-10:50 | Lesson 1  | Outcomes/ Lab 1 11:00 | Lesson 1  |
+10: | Stand ups | Outcomes | Stand ups |
+10:35 | Lesson 1  | Outcomes/ Lab 1 11:00 | Lesson 1  |
 12:20 | Lab 1     | Lab 1 | Lab 1 |
 1:30 | Lunch | Lunch | Lunch |
 2:30 | Afternoon review | Afternoon review | Afternoon review |
