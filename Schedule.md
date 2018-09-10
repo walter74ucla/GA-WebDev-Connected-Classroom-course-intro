@@ -14,9 +14,45 @@
 
 
 * __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 - 
+* Homework - 
+
 * __Wednesday__ - Conditionals, Loops, Arrays, Iterating
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 - 
+* Homework - 
+
 * __Thursday__ - Functions & Scope
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 - 
+* Homework - 
+
 * __Friday__ - Objects!!!!!!!!!, basic css
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 - 
+* Homework - 
+
 
 
 #### Daily Schedule Overview
