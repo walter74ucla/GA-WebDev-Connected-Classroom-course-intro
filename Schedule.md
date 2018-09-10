@@ -1,15 +1,15 @@
 # WDI 
 
+Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
+
 #### Week 1 - Fundamentals and Tools
 
 #### __Monday__ - Course Overview, Command Line
 
 * Links 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 - 
-* Lab 2 - 
-* Homework - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-terminal
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/command-line-lab
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/homework-loops-terminal/blob/master/README.md
 
 
 #### __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github
