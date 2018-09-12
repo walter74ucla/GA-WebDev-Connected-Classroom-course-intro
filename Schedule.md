@@ -26,11 +26,10 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 - 
-* Lab 2 - 
-* Homework - 
+* Lesson 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/conditionals-and-loops/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Arrays-iterating-over-them/blob/master/README.md
+* Lab 2 -     https://git.generalassemb.ly/WebDev-Connected-Classroom/loop-lab/blob/master/README.md
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/HW-Loops-Conditionals/blob/master/README.md
 
 #### __Thursday__ - Functions & Scope
 
