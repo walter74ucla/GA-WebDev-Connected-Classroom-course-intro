@@ -35,11 +35,10 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 - 
-* Lab 2 - 
-* Homework - 
+* Lesson 1 -  https://git.generalassemb.ly/JimHaff/functions/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Scope
+* Lab 2 -     https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-lab/blob/master/README.md
+* Homework -  https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-scope-hw
 
 #### __Friday__ - Objects!!!!!!!!!, basic css
 
@@ -47,8 +46,6 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 * Lesson 1 - 
 * Lab 1 - 
-* Lesson 2 - 
-* Lab 2 - 
 * Homework - 
 
 
