@@ -2,6 +2,51 @@
 
 Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
 
+#### Week 2 - Advanced Objects, This, Dom Manipulation, jQuery
+
+#### __Monday__ - Advanced Objects, This, for...in loop
+
+* Links 
+* Lesson 1 - 
+* Lab 1 - 
+* Homework -
+
+
+#### __Tuesday__ - Combing Datatypes, Class
+
+#### Links 
+
+* Lab 1 - 
+* Lesson 2 - 
+* Lab 2 -
+* Homework - 
+
+#### __Wednesday__ - Space Lab day, Creating a command line game
+
+#### Links 
+
+* Lab 1 -     
+* Homework - 
+
+#### __Thursday__ - jQuery, DOM Manipulation
+
+#### Links 
+
+* Lesson 1 - 
+* Lesson 2 - 
+* Lab 2 -     
+* Homework -  
+
+#### __Friday__ - Code Along, PokeASquare Game, Review, Weekend Homework
+
+#### Links 
+
+* Lesson 1 -  
+* Lab 1 -  
+* Homework - 
+
+
+
 #### Week 1 - Fundamentals and Tools
 
 #### __Monday__ - Course Overview, Command Line
@@ -44,9 +89,9 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 - 
-* Homework - 
+* Lesson 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects/blob/master/README.md
+* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects-lab/blob/master/README.md
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/weekend-reps/
 
 
 
