@@ -7,9 +7,9 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 #### __Monday__ - Advanced Objects, This, for...in loop
 
 * Links 
-* Lesson 1 - 
-* Lab 1 - 
-* Homework -
+* Lesson 1 - https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw
 
 
 #### __Tuesday__ - Combing Datatypes, Class
