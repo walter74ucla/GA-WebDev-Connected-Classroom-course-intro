@@ -16,17 +16,16 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lab 1 - 
-* Lesson 2 - 
-* Lab 2 -
-* Homework - 
+* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/combining-datatypes-lab/blob/master/README.md
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes/blob/master/README.md
+* Lab 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw
 
 #### __Wednesday__ - Space Lab day, Creating a command line game
 
 #### Links 
 
-* Lab 1 -     
-* Homework - 
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/
 
 #### __Thursday__ - jQuery, DOM Manipulation
 
