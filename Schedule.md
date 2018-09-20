@@ -31,8 +31,7 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - 
-* Lesson 2 - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/DOM-jQuery/blob/master/README.md
 * Lab 2 -     
 * Homework -  
 
