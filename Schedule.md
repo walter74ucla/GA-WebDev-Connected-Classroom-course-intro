@@ -2,6 +2,41 @@
 
 Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
 
+#### Week 3 - jQUery Todo List, Tomagotchi mini projects in the afternoon, dealing with form Inputs
+
+#### __Monday__ - morning -jQuery Todo Code along, afternoon- Introduce mini Tomagotchi
+* Links 
+* Lesson 1 - https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw
+
+
+#### __Tuesday__ - morning - handling form inputs, afternoon - Tomagotchi
+
+#### Links 
+
+* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/combining-datatypes-lab/blob/master/README.md
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes/blob/master/README.md
+* Lab 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw
+
+#### __Wednesday__ - morning Review/bootstrap, afternoon -tomagotchi
+
+#### Links 
+
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/
+
+#### __Thursday__ - Tomagotchi Presentations - morning, afternoon - KickOff the Project!
+
+#### Links 
+
+
+#### __Friday__ - Project Day One
+
+#### Links 
+
+
+
 #### Week 2 - Advanced Objects, This, Dom Manipulation, jQuery
 
 #### __Monday__ - Advanced Objects, This, for...in loop
@@ -32,16 +67,14 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 #### Links 
 
 * Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/DOM-jQuery/blob/master/README.md
-* Lab 2 -     
-* Homework -  
+* Lab 2 -    https://git.generalassemb.ly/wdi-wc-march2018/jQuery-Events-Lab/blob/master/README.md
 
 #### __Friday__ - Code Along, PokeASquare Game, Review, Weekend Homework
 
 #### Links 
 
-* Lesson 1 -  
-* Lab 1 -  
-* Homework - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/fellowShip
 
 
 
