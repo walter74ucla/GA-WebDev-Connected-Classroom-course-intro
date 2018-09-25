@@ -6,29 +6,33 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### __Monday__ - morning -jQuery Todo Code along, afternoon- Introduce mini Tomagotchi
 * Links 
-* Lesson 1 - https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md
-* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Todo-Jquery
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/jquery-calculator-lab
+* Homework - Tomagotchi
 
 
 #### __Tuesday__ - morning - handling form inputs, afternoon - Tomagotchi
 
 #### Links 
 
-* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/combining-datatypes-lab/blob/master/README.md
-* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes/blob/master/README.md
-* Lab 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab
-* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw
+* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/jquery-calculator-lab
+* Lesson 2 -https://git.generalassemb.ly/WebDev-Connected-Classroom/Velocity-Lesson/blob/master/README.md
+* Homework - Tomagotchi
+
 
 #### __Wednesday__ - morning Review/bootstrap, afternoon -tomagotchi
 
 #### Links 
 
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/
+* Lesson 1 - https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md
+* Lab/HW - Tomagotchi
 
 #### __Thursday__ - Tomagotchi Presentations - morning, afternoon - KickOff the Project!
 
 #### Links 
+
+Morning - Presentations
+Afternoon - Project One
 
 
 #### __Friday__ - Project Day One
