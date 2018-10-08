@@ -2,6 +2,62 @@
 
 Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
 
+#### Week 5 - Intro To Express, MVC, CRUD
+
+#### __Monday__ - morning -Intro to Express, URl Params
+* Links 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md
+             https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md
+             
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-lab-params/blob/master/README.md
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Rest/blob/master/README.md
+             https://git.generalassemb.ly/WebDev-Connected-Classroom/MVC/blob/master/README.md
+             
+* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/mvc-intro-lab/blob/master/README.md
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-space-homework
+
+
+#### __Tuesday__ - New, Create, and Delete of CRUD functionality
+
+#### Links 
+
+* Lesson 1 -  
+* Lab 1 - 
+* Lesson 2 -     
+* lab - 
+* HW  - 
+
+
+#### __Wednesday__ - Controllers/ Lab Day
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 - 
+* lab - 
+* HW  - 
+
+#### __Thursday__ - MONGODB, Mongoose
+
+#### Links 
+
+* Lesson 1 -
+* Lab 1 -
+* Lesson 2 -
+* lab -
+* HW  - 
+
+
+#### __Friday__ Adding Mongo/Mongoose to our Fruits APP
+
+
+* Lesson 1 -   
+* Lab 1 - 
+* Lesson 2 - 
+* lab - 
+* HW  - 
+
 #### Week 3 - jQUery Todo List, Tomagotchi mini projects in the afternoon, dealing with form Inputs
 
 #### __Monday__ - morning -jQuery Todo Code along, afternoon- Introduce mini Tomagotchi
