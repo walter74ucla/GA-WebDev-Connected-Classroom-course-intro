@@ -21,22 +21,19 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 -  
-* Lab 1 - 
-* Lesson 2 -     
-* lab - 
-* HW  - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md 
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md
+* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md
 
 
 #### __Wednesday__ - Controllers/ Lab Day
 
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 - 
-* lab - 
-* HW  - 
+* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-partner-lab
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md
 
 #### __Thursday__ - MONGODB, Mongoose
 
