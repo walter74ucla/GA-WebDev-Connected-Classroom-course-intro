@@ -4,6 +4,49 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Week 5 - Intro To Express, MVC, CRUD
 
+#### __Monday__ - Start Class Blog App (2 models)
+* Links 
+* Lesson 1 -          
+* Lab 1 -
+* Lesson 2 -      
+* lab - 
+* HW  - 
+
+
+#### __Tuesday__ - Creating Relationships between Models
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 -  
+* lab - 
+* HW  - 
+
+#### __Wednesday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
+
+#### Links 
+
+* lab - 
+* HW  - 
+
+#### Links __Thursday__ Bcrypt/Authentication
+
+* Lesson 1 - 
+* Lab 1 -
+* Lesson 2 -
+* lab - 
+* HW  - 
+
+
+#### __Friday__ Start Project Two, Full Stack Crud App!
+
+* Lesson 1 -   
+* Lab 1 - 
+* HW  - 
+
+#### Week 5 - Intro To Express, MVC, CRUD
+
 #### __Monday__ - morning -Intro to Express, URl Params
 * Links 
 * Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md
@@ -39,21 +82,19 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 -
-* Lab 1 -
-* Lesson 2 -
-* lab -
-* HW  - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lesson
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lab
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-lesson/blob/master/README.md
+* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Lab/blob/master/README.md
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-vampires-hw
 
 
 #### __Friday__ Adding Mongo/Mongoose to our Fruits APP
 
 
-* Lesson 1 -   
-* Lab 1 - 
-* Lesson 2 - 
-* lab - 
-* HW  - 
+* Lesson 1 -   https://git.generalassemb.ly/WebDev-Connected-Classroom/express-adding-models/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/CRUD-MEN-lab-part-1-CR
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/first-full-stack-homework/blob/master/README.md
 
 #### Week 3 - jQUery Todo List, Tomagotchi mini projects in the afternoon, dealing with form Inputs
 
