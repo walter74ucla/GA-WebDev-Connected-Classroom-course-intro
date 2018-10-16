@@ -6,11 +6,11 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### __Monday__ - Start Class Blog App (2 models)
 * Links 
-* Lesson 1 -          
-* Lab 1 -
-* Lesson 2 -      
-* lab - 
-* HW  - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md     
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md    
+* lab - Same as Lab 1
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
 
 
 #### __Tuesday__ - Creating Relationships between Models
