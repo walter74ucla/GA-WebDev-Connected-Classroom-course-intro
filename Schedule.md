@@ -17,23 +17,25 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 -  
-* lab - 
-* HW  - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Sub-Documents/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md
+* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
 
 #### __Wednesday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
 
 #### Links 
 
-* lab - 
-* HW  - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions
+
 
 #### Links __Thursday__ Bcrypt/Authentication
 
-* Lesson 1 - 
-* Lab 1 -
+* Lesson 1 -https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md
 * Lesson 2 -
 * lab - 
 * HW  - 
@@ -41,9 +43,6 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### __Friday__ Start Project Two, Full Stack Crud App!
 
-* Lesson 1 -   
-* Lab 1 - 
-* HW  - 
 
 #### Week 5 - Intro To Express, MVC, CRUD
 
