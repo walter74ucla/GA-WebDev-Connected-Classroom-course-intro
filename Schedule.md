@@ -25,15 +25,13 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 
 #### Links 
 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await
-* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions
+
+* Lab 1 -https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await
 
 
 #### Build Todo With Express API
 
 * Lesson 1 - https://git.generalassemb.ly/JimHaff/react-todo/blob/master/README.md
-* HW  - 
 
 
 #### __Friday__ React Router, Start Projects
