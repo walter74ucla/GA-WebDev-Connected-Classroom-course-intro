@@ -1,6 +1,38 @@
 # WDI 
 
 Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
+
+** Week 9 **
+
+#### __Tuesday__ - Intro to SQL - Portfolios
+* Links 
+* Lesson 1 - 
+* Lab 1 - 
+* Lesson 2 -  
+* HW  -
+
+#### __Wednesday__ - Django Crud App with Views/ Afternoon Worksop Portfolios/Refactoring Old Projects
+#### Links 
+
+* Lesson 1 - 
+* Lab 1 -
+* Lesson 2 -  
+* lab -
+* HW  -
+* Reading - 
+
+#### __Thursday__ - Django Crud API with class Views/ Afternoon Worksop Portfolios/Refactoring Old Projects
+#### Links 
+#### Links 
+
+
+* Lab 1 -
+
+
+#### __Friday__ Integrating API with React, Preparing for Cross Collab Lab
+
+* Lesson 1 - 
+
 #### Week 8 - Intro To React
 
 #### __Monday__ - Intro To React
