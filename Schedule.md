@@ -2,36 +2,39 @@
 
 Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1ZCjrJd3YNWDK
 
-** Week 9 **
+** Week 11 ** Opitional Lessons
+
+1.  [GraphQL backend](https://git.generalassemb.ly/WebDev-Connected-Classroom/Graphql-Express-Mongoose-Intro)
+2.  [Graphql Apollo](https://git.generalassemb.ly/WebDev-Connected-Classroom/graphql-apollo-express)
+3.  [Firebase](https://git.generalassemb.ly/WebDev-Connected-Classroom/Firebase-101)
+4.  [Testing](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai)
+
+** Week 10 **
 
 #### __Tuesday__ - Intro to SQL - Portfolios
 * Links 
-* Lesson 1 - 
-* Lab 1 - 
-* Lesson 2 -  
-* HW  -
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-install-intro
+* Lab 1 - https://github.com/ga-chicago/wdi-13-sql-airplane-lab
+* Lesson 2 -  https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-carmen-san-diego-lab Extra
 
 #### __Wednesday__ - Django Crud App with Views/ Afternoon Worksop Portfolios/Refactoring Old Projects
 #### Links 
 
-* Lesson 1 - 
-* Lab 1 -
-* Lesson 2 -  
-* lab -
-* HW  -
-* Reading - 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/django-workshop Long Lesson
+* HW  - Refactor old Projects/Portfolio
+
 
 #### __Thursday__ - Django Crud API with class Views/ Afternoon Worksop Portfolios/Refactoring Old Projects
-#### Links 
-#### Links 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/django-api 
+* Afternoon - Refactor projects/portfolio
 
+#### __Friday__ Integrating API with React, Django AUth
 
-* Lab 1 -
+* Lesson 1 - https://git.generalassemb.ly/JimHaff/django-react-auth-relations/blob/master/README.md
+* [Introduce mini project](https://git.generalassemb.ly/WebDev-Connected-Classroom/unit-4-mini-project)
 
-
-#### __Friday__ Integrating API with React, Preparing for Cross Collab Lab
-
-* Lesson 1 - 
+#### Week 9 - Project Week React
 
 #### Week 8 - Intro To React
 
@@ -61,7 +64,7 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 * Lab 1 -https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await
 
 
-#### Build Todo With Express API
+#### __Thursday__ Build Todo With Express API
 
 * Lesson 1 - https://git.generalassemb.ly/JimHaff/react-todo/blob/master/README.md
 
@@ -69,6 +72,8 @@ Youtube Playlist - https://www.youtube.com/playlist?list=PL51l5r1uFLPPPNQBPtLO1Z
 #### __Friday__ React Router, Start Projects
 
 * Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md
+
+* Project 3 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Project-3-React-Express-API
 
 #### Week 7 - Project Week
 
