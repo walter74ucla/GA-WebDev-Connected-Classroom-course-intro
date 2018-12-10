@@ -16,6 +16,13 @@ Youtube Playlist -
 
 #### Links 
 
+Tuesday
+* Lesson 1 - https://git.generalassemb.ly/JimHaff/intro-to-programming
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/loops-and-errors/blob/master/README.md
+* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/github/blob/master/README.md
+* Lab 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/git-github-lab/
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/git-github-lab/
+
 
 
 #### __Wednesday__ - Conditionals, Loops, Arrays, Iterating
