@@ -1,6 +1,6 @@
 # WDI 
 
-Youtube Playlist -
+Youtube Playlist - https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t
 
 #### Week 1 - Fundamentals and Tools
 
