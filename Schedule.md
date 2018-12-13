@@ -39,6 +39,11 @@ Tuesday
 
 #### Links 
 
+* Lesson 1 -  https://git.generalassemb.ly/JimHaff/functions/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Scope
+* Lab 2 -     https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-lab/blob/master/README.md
+* Homework -  https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-scope-hw
+
 
 
 #### __Friday__ - Objects!!!!!!!!!, basic css
@@ -46,6 +51,8 @@ Tuesday
 #### Links 
 
 
-
+* Lesson 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects/blob/master/README.md
+* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects-lab/blob/master/README.md
+* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/weekend-reps/
 
 
