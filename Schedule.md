@@ -1,6 +1,6 @@
 # WDI 
 
-Youtube Playlist - https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t
+Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
 
 ___
 
@@ -11,7 +11,7 @@ ___
 * Links 
 * Lesson 1 - [this](https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md)
 * Lab 1 - [long solar system lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md)
-* Homework -[data structures(https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw)
+* Homework -[data structures](https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw)
 
 
 #### __Tuesday__ - Combing Datatypes, Classes
