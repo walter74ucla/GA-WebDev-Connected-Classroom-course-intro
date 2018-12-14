@@ -33,6 +33,8 @@ Youtube Playlist - https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLP
 
 #### __Friday__ - Code Along, PokeASquare Game, Review, Weekend Homework
 
+___
+
 #### Week 1 - Fundamentals and Tools
 
 #### __Monday__ - Course Overview, Command Line
