@@ -2,6 +2,41 @@
 
 Youtube Playlist - https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t
 
+#### Week 2 - Advanced Objects & the DOM 
+
+#### Links 
+
+#### Week 2 - Advanced Objects, This, Dom Manipulation, jQuery
+
+#### __Monday__ - Advanced Objects, This, for...in loop
+
+* Links 
+* Lesson 1 - [this](https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md)
+* Lab 1 - [long solar system lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md)
+* Homework -[data structures(https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw)
+
+
+#### __Tuesday__ - Combing Datatypes, Classes
+
+#### Links 
+
+
+
+#### __Wednesday__ - Space Lab day, Creating a command line game
+
+#### Links 
+
+* Lab 1 - 
+
+#### __Thursday__ - jQuery, DOM Manipulation
+
+#### Links 
+
+* Lesson 1 - 
+* Lab 2 -   
+
+#### __Friday__ - Code Along, PokeASquare Game, Review, Weekend Homework
+
 #### Week 1 - Fundamentals and Tools
 
 #### __Monday__ - Course Overview, Command Line
