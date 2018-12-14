@@ -2,11 +2,7 @@
 
 Youtube Playlist - https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t
 
-#### Week 2 - Advanced Objects & the DOM 
-
-#### Links 
-
-#### Week 2 - Advanced Objects, This, Dom Manipulation, jQuery
+#### Week 2 - Advanced Objects & the DOM, Jquery
 
 #### __Monday__ - Advanced Objects, This, for...in loop
 
