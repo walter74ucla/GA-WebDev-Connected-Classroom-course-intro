@@ -25,7 +25,7 @@ ___
 
 #### Links 
 
-* Lab 1 - 
+* Lab 1 - [space lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/)
 
 #### __Thursday__ - jQuery, DOM Manipulation
 
@@ -75,10 +75,10 @@ Tuesday
 
 #### Links 
 
-* Lesson 1 -  https://git.generalassemb.ly/JimHaff/functions/blob/master/README.md
-* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Scope
-* Lab 2 -     https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-lab/blob/master/README.md
-* Homework -  https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-scope-hw
+* Lesson 1 -  [functions](https://git.generalassemb.ly/JimHaff/functions/blob/master/README.md)
+* Lesson 2 -  [scope](https://git.generalassemb.ly/WebDev-Connected-Classroom/Scope)
+* Lab 2 -     [function lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-lab/blob/master/README.md)
+* Homework -  [function scope hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/functions-scope-hw)
 
 
 
@@ -87,8 +87,8 @@ Tuesday
 #### Links 
 
 
-* Lesson 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects/blob/master/README.md
-* Lab 1 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects-lab/blob/master/README.md
-* Homework - https://git.generalassemb.ly/WebDev-Connected-Classroom/weekend-reps/
+* Lesson 1 -  [objects](https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects/blob/master/README.md)
+* Lab 1 -  [object lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Objects-lab/blob/master/README.md)
+* Homework - [weekend reps 1](https://git.generalassemb.ly/WebDev-Connected-Classroom/weekend-reps/)
 
 
