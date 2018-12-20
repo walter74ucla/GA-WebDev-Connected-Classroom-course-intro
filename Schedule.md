@@ -33,6 +33,7 @@ ___
 
 * Lesson 1 - [DOM/jQuery](https://git.generalassemb.ly/WebDev-Connected-Classroom/DOM-jQuery/blob/master/README.md)
 * Lab 2 -    [events](https://git.generalassemb.ly/wdi-wc-march2018/jQuery-Events-Lab/blob/master/README.md)
+* Lesson 2 - [Start Game Code Along](https://git.generalassemb.ly/WebDev-Connected-Classroom/jQuery-startGame/blob/master/README.md)
 
 #### __Friday__ - Code Along, PokeASquare Game, Review, Weekend Homework
 
