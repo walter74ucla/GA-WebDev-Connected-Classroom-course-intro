@@ -2,7 +2,71 @@
 
 Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
 
+#### Week 5 - Intro To Express, MVC, CRUD
+
+#### __Monday__ - morning -Intro to Express, URl Params
+* Links 
+* Lesson 1 - [Intro To Express](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md)
+             [Url & Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
+             
+* Lab 1 - [Params lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-lab-params/blob/master/README.md)
+
+* Lesson 2 - [Intro To Rest](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Rest/blob/master/README.md)
+             [MVC](https://git.generalassemb.ly/WebDev-Connected-Classroom/MVC/blob/master/README.md)
+             
+* lab - [MVC Intro Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/mvc-intro-lab/blob/master/README.md)
+* HW  - [Space Homework](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-space-homework)
+
+
+#### __Tuesday__ - New, Create, and Delete of CRUD functionality
+
+
+
+
+
+#### __Wednesday__ - Controllers/ Lab Day
+
+
+
+#### __Thursday__ - MONGODB, Mongoose
+
+
+
+#### __Friday__ Adding Mongo/Mongoose to our Fruits APP
+
+
+
+
+#### Week 4 - Project Week
 ___
+#### Week 3 - jQuery/Animation, Tomagotchi, Project 1
+
+#### __Monday__ - Starting a Browser App
+
+* Links 
+* Lesson 1 - [Starting a Browser App](https://git.generalassemb.ly/WebDev-Connected-Classroom/guide-to-building-a-browser-app)
+* Tomagotchi - [Toma](https://git.generalassemb.ly/WebDev-Connected-Classroom/Tomagotchi-Mini-Project/blob/master/README.md)
+
+
+#### __Tuesday__ - Handling Inputs/ Velocity
+#### Links 
+* Lesson 1 - [Inputs](https://git.generalassemb.ly/WebDev-Connected-Classroom/handling-input/blob/master/README.md)
+* Lesson 1 - [Velocity](https://git.generalassemb.ly/WebDev-Connected-Classroom/Velocity-Lesson/blob/master/README.md)
+
+
+#### __Wednesday__ - Boot Strap Toma
+
+#### Links 
+
+* Lesson - [Bootstrap](https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md)
+
+#### __Thursday__ - Work Day
+#### Links 
+
+
+
+#### __Friday__ - Work Day
+
 
 #### Week 2 - Advanced Objects & the DOM, Jquery
 
