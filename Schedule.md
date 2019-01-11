@@ -35,7 +35,7 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 #### __Friday__ Adding Mongo/Mongoose to our Fruits APP
 
 
-
+___
 
 #### Week 4 - Project Week
 ___
