@@ -20,7 +20,11 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 
 #### __Tuesday__ - New, Create, and Delete of CRUD functionality
 
-
+* Lesson 1 - [New_Create](https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md)
+             [Url & Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
+* Lab 1 - [Products App](https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab)
+* Lesson 2 - [Delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md)  
+* HW  - [Pokemon](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
 
 
 
