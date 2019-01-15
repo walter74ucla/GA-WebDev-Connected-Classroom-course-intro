@@ -23,13 +23,16 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 * Lesson 1 - [New_Create](https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md)
              [Url & Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
 * Lab 1 - [Products App](https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab)
-* Lesson 2 - [Delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md)  
+* Lesson 2 - [Delete, Edit is in here also](https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md)  
 * HW  - [Pokemon](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
 
 
 
 #### __Wednesday__ - Controllers/ Lab Day
 
+* Lesson 1 - [Controllers](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-controllers/blob/master/README.md)
+* Lab 1 - [Lab Day](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-partner-lab)
+* HW  - [Continue Pokemon](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
 
 
 #### __Thursday__ - MONGODB, Mongoose
