@@ -37,6 +37,12 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 
 #### __Thursday__ - MONGODB, Mongoose
 
+* Lesson 1 - [Intro to Mongo](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lesson)
+* Lab 1 - [Mongo Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lab)
+* Lesson 2 - [Intro to Mongoose](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-lesson/blob/master/README.md)
+* lab - [Mongoose Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Lab/blob/master/README.md)
+* HW  - [VAMPIRES!](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-vampires-hw)
+
 
 
 #### __Friday__ Adding Mongo/Mongoose to our Fruits APP
