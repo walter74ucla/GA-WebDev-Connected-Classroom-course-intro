@@ -47,6 +47,9 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 
 #### __Friday__ Adding Mongo/Mongoose to our Fruits APP
 
+* Lesson 1 - [Adding Mongoose to fruits App](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-adding-models/blob/master/README.md)
+* Lab 1 - [Men Stack](https://git.generalassemb.ly/WebDev-Connected-Classroom/CRUD-MEN-lab-part-1-CR)
+* HW  - [Weekend Men Stack](https://git.generalassemb.ly/WebDev-Connected-Classroom/first-full-stack-homework/blob/master/README.md)
 
 ___
 
