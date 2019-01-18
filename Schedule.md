@@ -17,13 +17,7 @@ ___
 
 #### __Wednesday__ - Creating Relationships between Models
 
-#### Links 
-
-
-
 #### __Thursday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
-
-#### Links __Thursday__ Bcrypt/Authentication
 
 #### __Friday__ Start Project Two, Full Stack Crud App!
 
