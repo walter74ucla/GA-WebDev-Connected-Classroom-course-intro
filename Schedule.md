@@ -2,6 +2,7 @@
 
 Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
 
+___
 
 #### Week 6 - Intro To Express, MVC, CRUD
 
