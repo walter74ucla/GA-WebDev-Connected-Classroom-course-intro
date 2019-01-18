@@ -7,11 +7,11 @@ Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1S
 
 #### __Tuesday__ - Start Class Blog App (2 models)
 * Links 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md     
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md
-* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md    
+* Lesson 1 - [First Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md)     
+* Lab 1 - [Two model lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md)
+* Lesson 2 -  [Second Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md)    
 * lab - Same as Lab 1
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+* HW  - [Photo App](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
 
 
 #### __Wednesday__ - Creating Relationships between Models
