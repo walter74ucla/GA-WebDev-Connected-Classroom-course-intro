@@ -2,6 +2,32 @@
 
 Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
 
+
+#### Week 6 - Intro To Express, MVC, CRUD
+
+#### __Tuesday__ - Start Class Blog App (2 models)
+* Links 
+* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md     
+* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md
+* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md    
+* lab - Same as Lab 1
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+
+
+#### __Wednesday__ - Creating Relationships between Models
+
+#### Links 
+
+
+
+#### __Thursday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
+
+#### Links __Thursday__ Bcrypt/Authentication
+
+#### __Friday__ Start Project Two, Full Stack Crud App!
+
+___
+
 #### Week 5 - Intro To Express, MVC, CRUD
 
 #### __Monday__ - morning -Intro to Express, URl Params
