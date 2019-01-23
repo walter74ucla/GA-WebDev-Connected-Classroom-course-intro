@@ -26,6 +26,11 @@ ___
 
 #### __Thursday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
 
+* Lesson 1 - [async & await](https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md)
+* Lab 1 - [lab async and await](https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
+* Lesson 2 - [sessions](https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions)
+
+
 #### __Friday__ Start Project Two, Full Stack Crud App!
 
 ___
