@@ -33,6 +33,9 @@ ___
 
 #### __Friday__ Start Project Two, Full Stack Crud App!
 
+* Lesson 1 - [Bcrypt](https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md)
+* Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
+
 ___
 
 #### Week 5 - Intro To Express, MVC, CRUD
