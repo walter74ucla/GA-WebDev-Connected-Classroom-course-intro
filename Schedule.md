@@ -31,7 +31,7 @@ ___
 * Lesson 2 - [sessions](https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions)
 
 
-#### __Friday__ Start Project Two, Full Stack Crud App!
+#### __Friday__ Start Project Two, Bcrypt!
 
 * Lesson 1 - [Bcrypt](https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md)
 * Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
