@@ -1,6 +1,36 @@
 # WDI 
 
 Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
+___
+
+#### Week 8 - Intro To React
+
+#### __Monday__ - Intro To React
+* Links 
+* Lesson 1 - [Intro React](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-React/blob/master/README.md)
+* Lab 1 - [react blog lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-blog-lab/blob/master/README.md)
+* Lesson 2 -  [state & props](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-react-part-deux/blob/master/README.md)
+* HW  - [atm lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-atm-lab)
+
+
+#### __Tuesday__ - Forms & Ajax
+#### Links 
+
+* Lesson 1 - [forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
+* Lab 1 - [form lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-form-lab/blob/master/README.md)
+* Reading - [component lifecyle lab](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
+
+#### __Wednesday__ - Ajax, EarthQuake lab
+
+#### Links 
+
+
+#### __Thursday__ Build Todo With Express API
+
+
+
+#### __Friday__ React Router, Start Projects
+
 
 ___
 
