@@ -13,7 +13,7 @@ ___
 * HW  - [atm lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-atm-lab)
 
 
-#### __Tuesday__ - Forms & Ajax
+#### __Tuesday__ - Forms 
 #### Links 
 
 * Lesson 1 - [forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
@@ -24,13 +24,23 @@ ___
 
 #### Links 
 
+* Lesson 1 -  [ajax](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
+* lab - [geoquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
+* HW  - [ajax lab/hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
+* Reading - [lifecyle methods](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
+
+
 
 #### __Thursday__ Build Todo With Express API
 
+* Long Lesson - [Create A todo App](https://git.generalassemb.ly/JimHaff/react-todo/blob/master/README.md)
 
 
 #### __Friday__ React Router, Start Projects
 
+* Lesson 1 - [React-Router](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md)
+
+* Project 3 - [Project 3](https://git.generalassemb.ly/WebDev-Connected-Classroom/Project-3-React-Express-API)
 
 ___
 
