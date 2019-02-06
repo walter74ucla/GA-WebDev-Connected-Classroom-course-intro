@@ -25,7 +25,7 @@ ___
 #### Links 
 
 * Lesson 1 -  [ajax](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
-* lab - [geoquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
+* lab - [geoquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes) https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
 * HW  - [ajax lab/hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
 * Reading - [lifecyle methods](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
 
