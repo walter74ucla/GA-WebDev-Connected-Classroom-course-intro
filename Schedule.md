@@ -14,7 +14,7 @@ ___
 
 * Lesson 1 - [Python Datatypes](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-python/blob/master/README.md)
 * Lab 1 - [Capital Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-state-cap-ex)
-* Reading - [Python Funcs](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-func-lab/blob/master/README.md)
+* HW - [Python Funcs](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-func-lab/blob/master/README.md)
 
 #### __Wednesday__ - Python advanced Lists and ranges & Classes
 
