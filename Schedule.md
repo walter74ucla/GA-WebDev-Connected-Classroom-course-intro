@@ -1,6 +1,17 @@
 # WDI 
 
 Youtube Playlist - [sea-otters-videos](https://www.youtube.com/watch?v=N9loxFU1StY&list=PL51l5r1uFLPONhbfRMnxSuITtHDzwJ09t)
+
+
+### Week 9 - Projects
+
+#### __Monday__ - 
+
+Lesson 1 - [flask-api](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api/blob/master/README.md)
+
+
+#### Tuesday to Monday Project time
+
 ___
 
 ### Week 9 - Intro To Python
@@ -38,6 +49,10 @@ ___
 
 
 #### __Friday__ Flask Build
+
+* Lesson 1 - [intro to flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_flask)
+* Lesson 2 - [Flask Build with templates](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask_with_models)
+
 
 
 
