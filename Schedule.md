@@ -1,8 +1,9 @@
-# WDI 
+# SEI
+__
 
-*Youtube Playlist* - https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ
+*Youtube Playlist* - [lessons playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ)
 
-
+__
 
 #### Week 1 - Fundamentals and Tools
 
@@ -11,7 +12,7 @@
 * Links 
 * Lesson 1 - [into terminal](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-terminal)
 * Lab 1 - [command line](https://git.generalassemb.ly/WebDev-Connected-Classroom/command-line-lab)
-* Homework - [loops & terminal](https://git.generalassemb.ly/WebDev-Connected-Classroom/homework-loops-terminal/blob/master/README.md)
+* Homework - [terminal](https://git.generalassemb.ly/WebDev-Connected-Classroom/hw-unix-cli-practice)
 
 
 #### __Tuesday__ - Intro to Programming, Booleans, Strings, Loops, Github, OutComes
