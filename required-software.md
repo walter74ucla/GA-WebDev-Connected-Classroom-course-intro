@@ -1,6 +1,6 @@
 ## Required Software
 
-SEI requires specific software to use in class. We do this so each student is using the same development environment as each other. Please install the following software during orientation (or prior to class start).
+SEI requires specific software to use in class. We do this so each student is using the same development environment as each other. Please install the following software during orientation (or prior to class start).  Later in class, we will install other software, but this will get us through the first Unit.
 
 If you run into any problems installing this software, please alert an instructor or your producer.
 
