@@ -1,25 +1,30 @@
 ## Required Software
 
-WDI requires specific software to use in class. We do this so each student is using the same development environment as each other. Please install the following software during orientation (or prior to class start).
+SEI requires specific software to use in class. We do this so each student is using the same development environment as each other. Please install the following software during orientation (or prior to class start).
 
 If you run into any problems installing this software, please alert an instructor or your producer.
 
 #### XCode
 
 * **What**: A set of development tools created by Apple that allow for users to write applications.
-* **Why**: WDI requires that we
+* **Why**: SEI requires that we use some of the tools that come with it (and bonus! it can be used to build apps for an iPhone using technologies we will cover in class)
 * **Instructions**: On newer versions of OS X, search the Mac App Store for **XCode** and download/install it (it is free). On older versions that do not have the Mac App Store, you will need to create a *free* Apple account and download it at https://developer.apple.com/xcode/downloads/. Once you install XCode, please open it and accept the EULA (feel free to close the app once you complete this).
 
-#### Atom Text Editor or Sublime
+#### Sublime Text Editor (or Atom)
 
-* **What**: A modern day, open source text editor.
-* **Why**: It was created by the team at Github, is open source, it is free, and is a fantastic text editor for multiple languages.
-* **Instructions**: Visit https://atom.io/ to download Atom. Drag/drop the application to your Mac application folder (and pin it to your dock). We use this every single day in WDI. OR https://www.sublimetext.com/3
+* **What**: A robust and powerful text editor that the Global instructor will be using for lessons.
+* **Why**: Lightweight out of the box, with many very easy-to-add features, Integrates nicely with our development environment
+* **Instructions**: Visit https://www.sublimetext.com/3 and Download the app.  Be sure to drag it into your Applictions folder.  It is not free but the trial version has full functionality, and will just prompt you to purchase occasionally.
+* Or, you can try Atom:
+  * What? A modern day, open source text editor 
+  * Why? It was created by the team at Github, is open source, it is free, and is a fantastic text editor for multiple languages.
+  * Instructions: Visit https://atom.io/ to download Atom. Drag/drop the application to your Mac application folder (and pin it to your dock).
+* ...but your feature set will not match the global instructor.
 
 #### Google Chrome
 
 * **What**: A web browser.
-* **Why**: We rely on specific Google Chrome extensions in WDI and it provides the best toolset for developers in a web browser given the learning curve. The tools are stable and consistent between Windows, Mac, and Linux so your core environment never changes.
+* **Why**: We rely on specific Google Chrome extensions in SEI and it provides the best toolset for developers in a web browser given the learning curve. The tools are stable and consistent between Windows, Mac, and Linux so your core environment never changes.
 * **Instructions**: Use Safari to download Google Chrome at https://www.google.com/chrome/browser/desktop/
 
 #### Homebrew
