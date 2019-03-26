@@ -18,8 +18,8 @@ __
 #### __Tuesday__ - Combing Datatypes, Classes
 
 #### Links 
-* Lesson 1 - [JS Classes](https://git.generalassemb.ly/WebDev-Connected-Classroom/js-classes-2)
-* Lab 1 - [JS Classes Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/js-classes-lab-2)
+* Lesson 1 - [JS Classes](https://git.generalassemb.ly/wdi-wc-march2018/classes)
+* Lab 1 - [JS Classes Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab)
 * Homework -[Pokemon OOP (2-day HW)](https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw)
 
 #### __Wednesday__ - Space Lab day, Creating a command line game
