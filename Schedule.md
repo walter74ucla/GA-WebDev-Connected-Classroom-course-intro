@@ -4,6 +4,37 @@ __
 *Youtube Playlist* - [lessons playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ)
 
 __
+#### __Monday__ - Starting a Browser App
+
+* Links 
+* Lesson 1 - [Inputs](https://git.generalassemb.ly/WebDev-Connected-Classroom/handling-input/blob/master/README.md)
+* Tomagotchi - [Toma](https://git.generalassemb.ly/WebDev-Connected-Classroom/Tomagotchi-Mini-Project/blob/master/README.md)
+
+
+#### __Tuesday__ - Tomagotchi Work day
+#### Links 
+
+
+
+
+#### __Wednesday__ - Morning Tomagotchi Presentations Afternoon project one
+
+#### Links 
+
+* Lesson - [Bootstrap](https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md)
+* Project 1 =[Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
+
+
+
+#### __Thursday__ - Project Work Day
+#### Links 
+
+
+
+#### __Friday__ - Project Work Day
+
+
+__
 
 #### Week 2 - Advanced Objects & the DOM, Jquery
 
