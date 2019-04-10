@@ -9,47 +9,47 @@ __
 #### __Monday__ - Controllers/ Lab Day
 
 #### Links 
-
-* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-partner-lab
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md
+* Lesson 1 - [controllers](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-controllers/blob/master/README.md)
+* lab - [partner lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-partner-lab)
+* HW  - [Pokemon Express](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
 
 #### __Tuesday__ - MONGODB, Mongoose
 
 #### Links 
 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lesson
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lab
-* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-lesson/blob/master/README.md
-* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Lab/blob/master/README.md
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-vampires-hw
+* Lesson 1 - [Mongo](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lesson)
+* Lab 1 - [mongo lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lab)
+* Lesson 2 - [mongoose](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-lesson/blob/master/README.md)
+* lab - [vampires](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Lab/blob/master/README.md)
+* HW  - [vampire homework](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-vampires-hw)
 
 
 #### __Wednesday__ Adding Mongo/Mongoose to our Fruits APP
 
 
-* Lesson 1 -   https://git.generalassemb.ly/WebDev-Connected-Classroom/express-adding-models/blob/master/README.md
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/CRUD-MEN-lab-part-1-CR
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/first-full-stack-homework/blob/master/README.md
+* Lesson 1 -   [Models](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-adding-models/blob/master/README.md)
+* Lab 1 - [Crud Men](https://git.generalassemb.ly/WebDev-Connected-Classroom/CRUD-MEN-lab-part-1-CR)
+* HW  - [First full stack hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/first-full-stack-homework/blob/master/README.md)
 
 
 #### __Thursday__ - Start Class Blog App (2 models)
 * Links 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md     
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md
-* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md    
+* Lesson 1 - [two model no relationship](https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md)     
+* Lab 1 - [Two model lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md)
+* Lesson 2 -  [Two Model Crud](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md)   
 * lab - Same as Lab 1
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+* HW  - [Photo App](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
 
 
 #### __Friday__ - Creating Relationships between Models
 
 #### Links 
 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Sub-Documents/blob/master/README.md
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md
-* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md
-* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+* Lesson 1 - [Mongoose Sub Docs](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Sub-Documents/blob/master/README.md)
+* Lab 1 - [related models](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md)
+* Lesson 2 -  [relationship lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md)
+* lab - [related models](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md)
+* HW  - [Photo app](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
 
 
 __
@@ -58,26 +58,27 @@ __
 
 #### __Thursday__ - morning -Intro to Express, URl Params
 * Links 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md
-             https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md
+* Lesson 1 - [Intro To expres](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md)
+             [Url & query Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
              
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-lab-params/blob/master/README.md
-* Lesson 2 - https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Rest/blob/master/README.md
-             https://git.generalassemb.ly/WebDev-Connected-Classroom/MVC/blob/master/README.md
+* Lab 1 - [Express Lab Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-lab-params/blob/master/README.md)
+
+* Lesson 2 - [Intro To Rest](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Rest/blob/master/README.md)
+             [MVC](https://git.generalassemb.ly/WebDev-Connected-Classroom/MVC/blob/master/README.md)
              
-* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/mvc-intro-lab/blob/master/README.md
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/express-space-homework
+* lab - [MVC Intro](https://git.generalassemb.ly/WebDev-Connected-Classroom/mvc-intro-lab/blob/master/README.md)
+* HW  - [Express Space](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-space-homework)
 
 
 #### __Friday__ - New, Create, and Delete of CRUD functionality
 
 #### Links 
 
-* Lesson 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md 
-* Lab 1 - https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab
-* Lesson 2 -  https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md
-* lab - https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md
+* Lesson 1 - [New](https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md) 
+* Lab 1 - [Create Labe](https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab)
+* Lesson 2 -  [Delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md)
+* lab - [Express create](https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab)
+* HW  - [Pokemon Express](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
 
 
 #### Week 3
