@@ -4,6 +4,25 @@ __
 *Youtube Playlist* - [lessons playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ)
 
 __
+
+### Week 6
+
+#### __Monday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
+
+* Lesson 1 - [async & await](https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md)
+* Lab 1 - [lab async and await](https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
+* Lesson 2 - [sessions](https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions)
+
+
+#### __Tuesday__ Start Project Two, Bcrypt!
+
+* Lesson 1 - [Bcrypt](https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md)
+* Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
+
+
+#### __Tuesday__ to __Friday__ Project time
+___
+
 ### Week 5 
 
 #### __Monday__ - Controllers/ Lab Day
