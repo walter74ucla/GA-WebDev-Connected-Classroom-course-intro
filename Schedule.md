@@ -20,7 +20,7 @@ __
 * Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
 
 
-#### __Tuesday__ to __Friday__ Project time
+#### Wednesday to Friday Project time (Project due 5/1)
 ___
 
 ### Week 5 
