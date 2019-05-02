@@ -4,7 +4,62 @@ __
 *Youtube Playlist* - [lessons playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ)
 
 __
+### Week 8 
 
+#### Week 8 - Intro To React
+
+
+#### __Monday__ - Forms 
+#### Links 
+
+* Lesson 1 - [forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
+* Lab 1 - [form lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-form-lab/blob/master/README.md)
+* Reading - [component lifecyle lab](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
+
+#### __Tuesday__ - Ajax, EarthQuake lab
+
+#### Links 
+
+* Lesson 1 -  [ajax](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
+* lab - [geoquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes) 
+* HW  - [ajax lab/hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
+* Reading - [lifecyle methods](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
+
+#### __Wednesday__ Build Todo With Express API
+
+* Long Lesson - [Create A todo App](https://git.generalassemb.ly/JimHaff/react-todo/blob/master/README.md)
+
+
+#### __Thursday__ React Router, Start Projects
+
+* Lesson 1 - [React-Router](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md)
+
+* Project 3 - [Project 3](https://git.generalassemb.ly/WebDev-Connected-Classroom/Project-3-React-Express-API)
+
+
+### __Friday__ Jest suprise :)
+___
+
+
+
+__
+### Week 7
+
+### __Thursday__ - Express API
+
+* Lesson 1 - [express API](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-fruits-api/blob/master/README.md)
+* Lab 1 - [api lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/create-api-lab/blob/master/README.md)
+* Lesson 2 -  [Testing Mocha & Chai](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai)
+* HW  - CHECK OUT THE REACT DOCS
+
+#### __Friday__ - Intro To React
+* Links 
+* Lesson 1 - [Intro React](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-React/blob/master/README.md)
+* Lab 1 - [react blog lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-blog-lab/blob/master/README.md)
+* Lesson 2 -  [state & props](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-react-part-deux/blob/master/README.md)
+* HW  - [atm lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-atm-lab)
+
+___
 ### Week 6
 
 #### __Monday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
