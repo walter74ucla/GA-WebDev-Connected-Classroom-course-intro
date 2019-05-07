@@ -37,7 +37,7 @@ __
 * Project 3 - [Project 3](https://git.generalassemb.ly/WebDev-Connected-Classroom/Project-3-React-Express-API)
 
 
-### __Friday__ Jest suprise :)
+### __Friday__ 
 ___
 
 
