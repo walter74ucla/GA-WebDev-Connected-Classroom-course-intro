@@ -4,7 +4,47 @@ __
 *Youtube Playlist* - [lessons playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPORYoHkrwNhM6Ik4PzcuNpZ)
 
 __
-### Week 8 
+
+### Week 9 - Intro To Python
+
+#### __Monday__ - Python Datatypes 
+#### Links 
+
+* Lesson 1 - [Python Datatypes](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-python/blob/master/README.md)
+* Lab 1 - [Capital Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-state-cap-ex)
+* Lesson 2 -  [advanced list and ranges](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists-ranges/blob/master/README.md)
+* lab - [list and ranges lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists_and_ranges_pylab/blob/master/README.md) 
+* HW - [Python Funcs](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-func-lab/blob/master/README.md)
+
+#### __Tuesday__ - Python advanced Lists and ranges & Classes
+
+#### Links 
+
+* Lesson 2 - [classes](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-classes)
+* hw/Lab [codebar](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-code-bar-ex/blob/master/README.md)
+* Lesson 1 - [intro to flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_flask)
+
+
+
+#### __Wednesday__ Sql
+
+* Links 
+* Lesson 1 - [psql](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-install-intro)
+* Lab 1 - [lab](https://github.com/ga-chicago/wdi-13-sql-airplane-lab)
+* Lesson 2 -  [erd rlations](https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1)
+* HW  - [Carmen Sandi Diego](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-carmen-san-diego-lab) Extra
+
+
+#### __Thursday__ Flask Build
+
+
+* Lesson 1 (long) - [Flask Build with templates](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask_with_models)
+
+#### __Friday__ Flask API
+
+Lesson 1 - [flask api](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api/blob/master/README.md)
+___
+
 
 #### Week 8 - Intro To React
 
