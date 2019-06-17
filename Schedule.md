@@ -1,7 +1,7 @@
 # SEI
 __
 
-*Youtube Playlist* - 
+*[Youtube Playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPMLxN_aE-2uxt6xg96-i68-)* 
 
 __
 
