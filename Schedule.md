@@ -6,6 +6,43 @@ __
 __
 
 
+#### Week 2 - Advanced Objects & the DOM, Jquery
+
+#### __Monday__ - Advanced Objects, This, for...in loop
+
+* Links 
+* Lesson 1 - [this](https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md)
+* Lab 1 - [long solar system lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md)
+* Homework -[data structures](https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw)
+
+
+#### __Tuesday__ - Combing Datatypes, Classes
+
+#### Links 
+* Lesson 1 - [JS Classes](https://git.generalassemb.ly/wdi-wc-march2018/classes)
+* Lab 1 - [JS Classes Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab)
+* Homework -[Pokemon OOP (2-day HW)](https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw)
+
+#### __Wednesday__ - Space Lab day, Creating a command line game
+
+#### Links 
+
+* Lab 1 - [space lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/)
+
+#### __Thursday__ - jQuery, DOM Manipulation
+
+#### Links 
+
+* Lesson 1 - [vanilla js dom manipulation]
+* Lab 1 -    [dom lab]()
+* Lesson 2 - [js events]()
+* lab 2 - [event lab]()
+
+#### __Friday__ - jQuery, DOM ManipulationCode Along, PokeASquare Game, Review, Weekend Homework
+
+* Lesson 1 - [DOM/jQuery](https://git.generalassemb.ly/WebDev-Connected-Classroom/DOM-jQuery/blob/master/README.md)
+* Lab 2 -    [events](https://git.generalassemb.ly/wdi-wc-march2018/jQuery-Events-Lab/blob/master/README.md)
+* Lesson 2 - [sentence game]()
 ___
 
 
