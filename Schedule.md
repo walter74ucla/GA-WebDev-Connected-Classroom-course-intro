@@ -33,10 +33,10 @@ __
 
 #### Links 
 
-* Lesson 1 - [vanilla js dom manipulation]
-* Lab 1 -    [dom lab]()
-* Lesson 2 - [js events]()
-* lab 2 - [event lab]()
+* Lesson 1 - [vanilla js dom manipulation](https://git.generalassemb.ly/WebDev-Connected-Classroom/Vanilla-Dom-Intro-Js)
+* Lab 1 -    [dom lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/LOTR-Vanilla)
+* Lesson 2 - [js events](https://git.generalassemb.ly/WebDev-Connected-Classroom/Js-Dom-Events)
+
 
 #### __Friday__ - jQuery, DOM ManipulationCode Along, PokeASquare Game, Review, Weekend Homework
 
