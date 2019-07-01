@@ -5,6 +5,39 @@ __
 
 __
 
+#### Week 3
+#### __Monday__ - PokeASquare + Review
+
+* Links 
+* Lesson 1 - [PokeASquare Game](https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square)
+* afternoon - review
+
+
+#### __Tuesday__ - Player Starting Game, Afternoon Start Tomagotchi Mini Project
+#### Links 
+
+* Lesson 1 - [player start game](* Lesson 2 - [Start Game Code Along](https://git.generalassemb.ly/WebDev-Connected-Classroom/jQuery-startGame/blob/master/README.md))
+
+
+#### __Wednesday__ - Morning Tomagotchi 
+
+#### Links 
+
+* Lesson - [Bootstrap](https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md)
+* Project 1 =[Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
+
+
+
+#### __Thursday__ -Off
+#### Links 
+
+
+
+#### __Friday__ - Off
+
+
+__
+
 
 #### Week 2 - Advanced Objects & the DOM, Jquery
 
