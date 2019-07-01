@@ -19,7 +19,7 @@ __
 * Lesson 1 - [player start game](* Lesson 2 - [Start Game Code Along](https://git.generalassemb.ly/WebDev-Connected-Classroom/jQuery-startGame/blob/master/README.md))
 
 
-#### __Wednesday__ - Morning Tomagotchi 
+#### __Wednesday__ - Morning Tomagotchi, afternoon announce project 1
 
 #### Links 
 
