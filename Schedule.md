@@ -3,6 +3,40 @@ __
 
 *[Youtube Playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPMLxN_aE-2uxt6xg96-i68-)* 
 
+#### Week 6 - Intro To Express, MVC, CRUD
+
+#### __Tuesday__ - Start Class Blog App (2 models)
+* Links 
+* Lesson 1 - [First Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md)     
+* Lab 1 - [Two model lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md)
+* Lesson 2 -  [Second Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md)    
+* lab - Same as Lab 1
+* HW  - [Photo App](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
+
+
+#### __Wednesday__ - Creating Relationships between Models
+
+* Lesson 1 - [sub docs](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Sub-Documents/blob/master/README.md)
+* Lab - [two related models](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md)
+* Lesson 2 -  [Setting up relationship in blog](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md)
+
+* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+
+
+#### __Thursday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
+
+* Lesson 1 - [async & await](https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md)
+* Lab 1 - [lab async and await](https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
+* Lesson 2 - [sessions](https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions)
+
+
+#### __Friday__ Start Project Two, Bcrypt!
+
+* Lesson 1 - [Bcrypt](https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md)
+* Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
+
+___
+
 
 #### Week 5 - Intro To Express, MVC, CRUD
 
