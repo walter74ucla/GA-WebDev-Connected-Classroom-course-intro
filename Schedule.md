@@ -5,6 +5,10 @@ __
 
 ### Week 9 - Intro To Python
 
+**Useful Resources**
+
+[Express vs Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-vs-express)
+
 #### __Monday__ - Finish React Mini Project
 
 
@@ -36,8 +40,9 @@ __
 
 #### __Friday__ Flask Build
 
-* Lesson 1 - [intro to flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_flask)
-* Lesson 2 - [Flask Build with templates](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask_with_models)
+* Lesson 1 - [flask user profile](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api-user-profile)
+* Lab/Hw - [Crud User profile app](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-user-app-lab-hw)
+
 
 ___
 
