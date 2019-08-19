@@ -3,6 +3,29 @@ __
 
 *[Youtube Playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPMLxN_aE-2uxt6xg96-i68-)* 
 
+### Week 10 - Python & React Project week (Project due Monday)
+
+**Useful Resources**
+
+[Express vs Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-vs-express)
+
+#### __Monday__ - 
+
+* Lesson 1 - [flask api](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-app-dog-resoure-api/blob/master/README.md)
+
+
+
+#### __Tuesday__ - Project Day
+
+
+#### __Wednesday__ - Project Day
+
+#### __Thursday__ - Project Day
+
+#### __Friday__ - Project Day
+
+___
+
 ### Week 9 - Intro To Python
 
 **Useful Resources**
