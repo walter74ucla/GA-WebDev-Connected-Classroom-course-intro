@@ -3,6 +3,36 @@ __
 
 *[Youtube Playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPMLxN_aE-2uxt6xg96-i68-)* 
 
+
+### Week 12 - Review And Project time
+
+#### __Tuesday__ Review 
+
+* Lesson 1 - Global review
+
+#### __Wednesday__ - Review/Project time
+
+#### __Thursday__ - review/Project time
+
+#### __Friday__ - review/Project time
+
+
+
+### Week 11 - Optional lessons
+
+#### __Wednesday__ - Testing & Review/Project time
+
+* Lesson 1 - [testing](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai) (Not optional)
+
+#### __Thursday__ - Firebase & review/Project time
+
+* Lesson 1 - [Firebase](https://git.generalassemb.ly/WebDev-Connected-Classroom/Firebase-101)
+
+#### __Friday__ - Hooks & review/Project time
+
+* Lesson 1 - [Hooks](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-hooks)
+
+
 ### Week 10 - Python & React Project week (Project due Monday)
 
 **Useful Resources**
