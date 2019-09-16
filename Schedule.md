@@ -1,4 +1,6 @@
 
+[Youtube Playlist ClICK ME](https://www.youtube.com/playlist?list=PL51l5r1uFLPPpZNNhw92pBKvOTwJEoTVu)
+
 
 #### week 12 - Capstone
 
