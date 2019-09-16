@@ -1,311 +1,33 @@
-# SEI
-__
 
-*[Youtube Playlist](https://www.youtube.com/playlist?list=PL51l5r1uFLPMLxN_aE-2uxt6xg96-i68-)* 
 
+#### week 12 - Capstone
 
-### Week 12 - Review And Project time
+#### week 11 - Advanced lesssons, testings, and optional lessons, capstone
 
-#### __Tuesday__ Review 
+#### Week 10 - Project 3
 
-* Lesson 1 - Global review
+#### week 9 - React & flask connecting them 
 
-#### __Wednesday__ - Review/Project time
+#### Week 8 - Intro To React & flask
 
-#### __Thursday__ - review/Project time
+#### Week 7 - Project week
 
-#### __Friday__ - review/Project time
+#### Week 6 - Models, Mongooses, async & Await, sessions, bcrypt
 
 
+#### Week 5 - Intro To Express, MVC, CRUD, Mongo, Mongoose
 
-### Week 11 - Optional lessons
 
-#### __Wednesday__ - Testing & Review/Project time
+#### Week 4 - Project 1
 
-* Lesson 1 - [testing](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai) (Not optional)
 
-#### __Thursday__ - Firebase & review/Project time
-
-* Lesson 1 - [Firebase](https://git.generalassemb.ly/WebDev-Connected-Classroom/Firebase-101)
-
-#### __Friday__ - Hooks & review/Project time
-
-* Lesson 1 - [Hooks](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-hooks)
-
-
-### Week 10 - Python & React Project week (Project due Monday)
-
-**Useful Resources**
-
-[Express vs Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-vs-express)
-
-#### __Monday__ - 
-
-* Lesson 1 - [flask api](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-app-dog-resoure-api/blob/master/README.md)
-
-
-
-#### __Tuesday__ - Project Day
-
-
-#### __Wednesday__ - Project Day
-
-#### __Thursday__ - Project Day
-
-#### __Friday__ - Project Day
-
-___
-
-### Week 9 - Intro To Python
-
-**Useful Resources**
-
-[Express vs Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-vs-express)
-
-#### __Monday__ - Finish React Mini Project
-
-
-
-#### __Tuesday__ - Python Datatypes 
-#### Links 
-
-* Lesson 1 - [Python Datatypes](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-python/blob/master/README.md)
-* Lab 1 - [Capital Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-state-cap-ex)
-* HW - [Python Funcs](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-func-lab/blob/master/README.md)
-
-#### __Wednesday__ - Python advanced Lists and ranges & Classes
-
-#### Links 
-
-* Lesson 1 -  [advanced list and ranges](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists-ranges/blob/master/README.md)
-* lab - [list and ranges lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists_and_ranges_pylab/blob/master/README.md) 
-* Lesson 2 - [classes](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-classes)
-* hw/Lab [codebar](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-code-bar-ex/blob/master/README.md)
-
-#### __Thursday__ Sql
-
-* Links 
-* Lesson 1 - [psql](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-install-intro)
-* Lab 1 - [lab](https://github.com/ga-chicago/wdi-13-sql-airplane-lab)
-* Lesson 2 -  [erd rlations](https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1)
-* HW  - [Carmen Sandi Diego](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-carmen-san-diego-lab) Extra
-
-
-#### __Friday__ Flask Build
-
-* Lesson 1 - [flask user profile](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api-user-profile)
-* Lab/Hw - [Crud User profile app](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-user-app-lab-hw)
-
-
-___
-
-
-#### Week 8 - Intro To React
-
-#### __Monday__ - Intro To React
-* Links 
-* Lesson 1 - [Intro React](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-React/blob/master/README.md)
-* Lab 1 - [react blog lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-blog-lab/blob/master/README.md)
-* Lesson 2 -  [state & props](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-react-part-deux/blob/master/README.md)
-* HW  - [atm lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-atm-lab)
-
-
-#### __Tuesday__ - Forms 
-#### Links 
-
-* Lesson 1 - [forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
-* Lab 1 - [form lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-form-lab/blob/master/README.md)
-* Reading - [component lifecyle lab](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
-
-#### __Wednesday__ - Ajax, EarthQuake lab
-
-#### Links 
-
-* Lesson 1 -  [ajax](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
-* lab - [geoquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes) 
-* HW  - [ajax lab/hw](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
-* Reading - [lifecyle methods](https://medium.com/@baphemot/understanding-reactjs-component-life-cycle-823a640b3e8d)
-
-
-
-#### __Thursday__ Build Todo With Express API
-
-* Long Lesson - [Create A todo App](https://git.generalassemb.ly/JimHaff/react-todo/blob/master/README.md)
-
-
-#### __Friday__ React Router, Start Projects
-
-* Lesson 1 - [React-Router](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md)
-
-___
-
-
-#### Week 6 - Intro To Express, MVC, CRUD
-
-#### __Monday__ - Start Class Blog App (2 models)
-* Links 
-* Lesson 1 - [First Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/Two-Model-Crud-No-RelationShip/blob/master/README.md)     
-* Lab 1 - [Two model lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-lab/blob/master/README.md)
-* Lesson 2 -  [Second Model](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-second-model-crud/blob/master/README.md)    
-* lab - Same as Lab 1
-* HW  - [Photo App](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
-
-
-#### __Tuesday__ - Creating Relationships between Models
-
-* Lesson 1 - [sub docs](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Sub-Documents/blob/master/README.md)
-* Lab - [two related models](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md)
-* Lesson 2 -  [Setting up relationship in blog](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md)
-
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
-
-
-#### __Wednesday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
-
-* Lesson 1 - [async & await](https://git.generalassemb.ly/WebDev-Connected-Classroom/async-Await-Express-Backend/blob/master/README.md)
-* Lab 1 - [lab async and await](https://git.generalassemb.ly/WebDev-Connected-Classroom/refactorblog-async-await)
-* Lesson 2 - [sessions](https://git.generalassemb.ly/WebDev-Connected-Classroom/sessions)
-
-
-#### __Thursday__ Bcrypt! introduce project
-
-* Lesson 1 - [Bcrypt](https://git.generalassemb.ly/JimHaff/bcrypt/blob/master/README.md)
-* Lab 1 - [Auth Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/auth-lab/blob/master/README.md)
-
-#### __Friday__ Project day!
-
-
-___
-
-
-#### Week 5 - Intro To Express, MVC, CRUD
-
-#### __Monday__ - morning -Intro to Express, URl Params
-* Links 
-* Lesson 1 - [Intro To Express](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Express/blob/master/README.md)
-             [Url & Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
-             
-* Lab 1 - [Params lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-lab-params/blob/master/README.md)
-
-* Lesson 2 - [Intro To Rest](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro_to_Rest/blob/master/README.md)
-             [MVC](https://git.generalassemb.ly/WebDev-Connected-Classroom/MVC/blob/master/README.md)
-             
-* lab - [MVC Intro Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/mvc-intro-lab/blob/master/README.md)
-* HW  - [Space Homework](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-space-homework)
-
-
-#### __Tuesday__ - New, Create, and Delete of CRUD functionality
-
-* Lesson 1 - [New_Create](https://git.generalassemb.ly/WebDev-Connected-Classroom/NEW_Create_Express/blob/master/README.md)
-             [Url & Params](https://git.generalassemb.ly/WebDev-Connected-Classroom/url_and_query_params/blob/master/README.md)
-* Lab 1 - [Products App](https://git.generalassemb.ly/WebDev-Connected-Classroom/Express-Create-Lab)
-* Lesson 2 - [Delete, Edit is in here also](https://git.generalassemb.ly/WebDev-Connected-Classroom/Delete-Express/blob/master/README.md)  
-* HW  - [Pokemon](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
-
-
-
-#### __Wednesday__ - Controllers/ Lab Day
-
-* Lesson 1 - [Controllers](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-controllers/blob/master/README.md)
-* Lab 1 - [Lab Day](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-partner-lab)
-* HW  - [Continue Pokemon](https://git.generalassemb.ly/WebDev-Connected-Classroom/Pokemon-Express/blob/master/README.md)
-
-
-#### __Thursday__ - MONGODB, Mongoose
-
-* Lesson 1 - [Intro to Mongo](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lesson)
-* Lab 1 - [Mongo Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongo-lab)
-* Lesson 2 - [Intro to Mongoose](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-lesson/blob/master/README.md)
-* lab - [Mongoose Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Mongoose-Lab/blob/master/README.md)
-* HW  - [VAMPIRES!](https://git.generalassemb.ly/WebDev-Connected-Classroom/mongoose-vampires-hw)
-
-
-
-#### __Friday__ Adding Mongo/Mongoose to our Fruits APP
-
-* Lesson 1 - [Adding Mongoose to fruits App](https://git.generalassemb.ly/WebDev-Connected-Classroom/express-adding-models/blob/master/README.md)
-* Lab 1 - [Men Stack](https://git.generalassemb.ly/WebDev-Connected-Classroom/CRUD-MEN-lab-part-1-CR)
-* HW  - [Weekend Men Stack](https://git.generalassemb.ly/WebDev-Connected-Classroom/first-full-stack-homework/blob/master/README.md)
-
-___
-
-__
-
-#### Week 3
-#### __Monday__ - PokeASquare + Review
-
-* Links 
-* Lesson 1 - [PokeASquare Game](https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square)
-* afternoon - review
-
-
-#### __Tuesday__ - Player Starting Game, Afternoon Start Tomagotchi Mini Project
-#### Links 
-
-* Lesson 1 - [player start game](* Lesson 2 - [Start Game Code Along](https://git.generalassemb.ly/WebDev-Connected-Classroom/jQuery-startGame/blob/master/README.md))
-
-
-#### __Wednesday__ - Morning Tomagotchi, afternoon announce project 1
-
-#### Links 
-
-* Lesson - [Bootstrap](https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md)
-* Project 1 =[Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
-
-
-
-#### __Thursday__ -Off
-#### Links 
-
-
-
-#### __Friday__ - Off
-
-
-__
+#### Week 3 Tomagotchi Mini Project & review
 
 
 #### Week 2 - Advanced Objects & the DOM, Jquery
 
-#### __Monday__ - Advanced Objects, This, for...in loop
 
-* Links 
-* Lesson 1 - [this](https://git.generalassemb.ly/JimHaff/Combining-datatypes/blob/master/README.md)
-* Lab 1 - [long solar system lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/solar-system-lab/blob/master/README.md)
-* Homework -[data structures](https://git.generalassemb.ly/WebDev-Connected-Classroom/data-structures-hw)
-
-
-#### __Tuesday__ - Combing Datatypes, Classes
-
-#### Links 
-* Lesson 1 - [JS Classes](https://git.generalassemb.ly/wdi-wc-march2018/classes)
-* Lab 1 - [JS Classes Lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/classes-lab)
-* Homework -[Pokemon OOP (2-day HW)](https://git.generalassemb.ly/WebDev-Connected-Classroom/oop-pokemon-2day-hw)
-
-#### __Wednesday__ - Space Lab day, Creating a command line game
-
-#### Links 
-
-* Lab 1 - [space lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/space-battle-all-day-lab/)
-
-#### __Thursday__ - jQuery, DOM Manipulation
-
-#### Links 
-
-* Lesson 1 - [vanilla js dom manipulation](https://git.generalassemb.ly/WebDev-Connected-Classroom/Vanilla-Dom-Intro-Js)
-* Lab 1 -    [dom lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/LOTR-Vanilla)
-* Lesson 2 - [js events](https://git.generalassemb.ly/WebDev-Connected-Classroom/Js-Dom-Events)
-
-
-#### __Friday__ - jQuery, DOM ManipulationCode Along, PokeASquare Game, Review, Weekend Homework
-
-* Lesson 1 - [DOM/jQuery](https://git.generalassemb.ly/WebDev-Connected-Classroom/DOM-jQuery/blob/master/README.md)
-* Lab 2 -    [events](https://git.generalassemb.ly/wdi-wc-march2018/jQuery-Events-Lab/blob/master/README.md)
-* Lesson 2 - [sentence game]()
-___
-
-
-#### Week 1 - Fundamentals and Tools
+#### Week 1 - Fundamentals and Tools, Command Line, Javascript datatypes
 
 #### __Monday__ - Course Overview, Command Line
 
