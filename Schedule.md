@@ -26,7 +26,7 @@
 #### Week 3 Tomagotchi Mini Project & review
 
 
-#### Week 2 - Advanced Objects & the DOM, Jquery
+___
 
 #### Week 2 - Advanced Objects & the DOM, Jquery
 
