@@ -53,7 +53,7 @@ ___
 #### Links 
 
 * Morning - Toma mini presentations
-* afternoon - Project 1 =[Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
+* afternoon - Launch [Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
 
 
 #### __Friday__ - Project Day
