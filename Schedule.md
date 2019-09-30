@@ -22,8 +22,11 @@
 
 #### Week 4 - Project 1
 
+___
 
 #### Week 3 Tomagotchi Mini Project & review
+
+
 #### __Monday__ - PokeASquare + Review
 
 * Links 
@@ -31,7 +34,7 @@
 * afternoon - Lab time/for calculator/review
 
 
-#### __Tuesday__ - Player Starting Game, Afternoon Start Tomagotchi Mini Project
+#### __Tuesday__ - Finish Poke-A-SQUARE, Afternoon Start Tomagotchi Mini Project
 #### Links 
 
 * Lesson 1 - [PokeASquare Game continued](https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square)
@@ -56,15 +59,10 @@
 #### __Friday__ - Project Day
 
 
-__
-
-
-
 ___
 
+
 #### Week 2 - Advanced Objects & the DOM, Jquery
-
-
 
 #### __Monday__ - Advanced Objects, This, for...in loop
 
