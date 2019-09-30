@@ -24,6 +24,40 @@
 
 
 #### Week 3 Tomagotchi Mini Project & review
+#### __Monday__ - PokeASquare + Review
+
+* Links 
+* Lesson 1 - [PokeASquare Game](https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square)
+* afternoon - Lab time/for calculator/review
+
+
+#### __Tuesday__ - Player Starting Game, Afternoon Start Tomagotchi Mini Project
+#### Links 
+
+* Lesson 1 - [PokeASquare Game continued](https://git.generalassemb.ly/WebDev-Connected-Classroom/poke-a-square)
+* Mini-Project - [Tomagotchi](https://git.generalassemb.ly/WebDev-Connected-Classroom/Tomagotchi-Mini-Project/blob/master/README.md)
+
+#### __Wednesday__ - All Day Tomagotchi
+
+#### Links 
+
+* Lesson - [Bootstrap](https://git.generalassemb.ly/wdi-wc-march2018/intro-to-bootstrap/blob/master/README.md)
+
+
+
+
+#### __Thursday__ mini Presentations, Launch Project 1 due next Friday
+#### Links 
+
+* Morning - Toma mini presentations
+* afternoon - Project 1 =[Project One](https://git.generalassemb.ly/WebDev-Connected-Classroom/project-1/blob/master/README.md)
+
+
+#### __Friday__ - Project Day
+
+
+__
+
 
 
 ___
