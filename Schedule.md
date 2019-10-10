@@ -2,7 +2,7 @@
 [Youtube Playlist ClICK ME](https://www.youtube.com/playlist?list=PL51l5r1uFLPPpZNNhw92pBKvOTwJEoTVu)
 
 [Unit One Review Concepts Slide Deck](https://presentations.generalassemb.ly/44d2908b9e403c501b66b9855f2481ac#/)
-
+__
 
 #### week 12 - Capstone
 
@@ -18,6 +18,7 @@
 
 #### Week 6 - Models, Mongooses, async & Await, sessions, bcrypt
 
+___
 
 #### Week 5 - Intro To Express, MVC, CRUD, Mongo, Mongoose
 
