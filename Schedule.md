@@ -1,8 +1,12 @@
 
 [Youtube Playlist ClICK ME](https://www.youtube.com/playlist?list=PL51l5r1uFLPPpZNNhw92pBKvOTwJEoTVu)
 
-[Unit One Review Concepts Slide Deck](https://presentations.generalassemb.ly/44d2908b9e403c501b66b9855f2481ac#/)
+___
 
+[Unit One Review Concepts Slide Deck](https://presentations.generalassemb.ly/44d2908b9e403c501b66b9855f2481ac#/)
+___
+
+[express concepts slide DECK](https://presentations.generalassemb.ly/8505d860acbf64be9f2e367634e007a4#/69)
 ___
 
 #### week 12 - Capstone
