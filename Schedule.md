@@ -36,9 +36,7 @@ ___
 
 * Lesson 1 -  [Setting up relationship in blog](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-model-relationship-build/blob/master/README.md)
 * Lab - [two related models](https://git.generalassemb.ly/WebDev-Connected-Classroom/two-related-models-lab/blob/master/README.md)
-
-
-* HW  - https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md
+* HW  - [continue photo app](https://git.generalassemb.ly/WebDev-Connected-Classroom/photo-app-hw/blob/master/README.md)
 
 
 #### __Wednesday__ - Async & Await!!!! (advanced JS, for sychronous like development) and Express Sessions
