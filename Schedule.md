@@ -15,9 +15,62 @@ ___
 
 #### Week 10 - Project 3
 
-#### week 9 - React & flask connecting them 
+#### week 9 - React & flask connecting them, API's
 
-#### Week 8 - Intro To React & flask
+#### Week 8 - Intro To React / PYTHON
+
+#### __Monday__ - Intro React/ Python
+#### Links 
+
+* Lesson 1 - [Intro React](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-React/blob/master/README.md)
+* [part 2](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-react-part-deux/blob/master/README.md)
+
+* Lab 1 - [react blog lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-blog-lab/blob/master/README.md)
+
+* Lesson 2 python -  [Intro to data types](https://git.generalassemb.ly/WebDev-Connected-Classroom/intro-to-python/blob/master/README.md)
+
+* lab - [python lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-state-cap-ex)
+
+* HW  - Finish LABS!
+
+#### __Tuesday__ 
+
+* Lesson 1 - [Lifting State/Ternarys React](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-Lifting-State/blob/master/README.md)
+
+* Lab - [atm lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-atm-hw-no-hints)
+
+* afternoon - Review Python Homework
+
+* HW - Finish labs and READ [this](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+
+
+#### __Wednesday__ React Router, Start Projects
+
+* Lesson 1 - [React-forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
+* lab - [form-lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-form-lab/blob/master/README.md)
+* Lesson 2 - [advanced List comprehensions](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists-ranges/blob/master/README.md)
+* lab 2 - [list lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/lists_and_ranges_pylab/blob/master/README.md)
+* HW - FINISH LABS!
+
+
+### __Thursday__ 
+
+* Lesson 1 - [AJAXXXXX](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
+* Lab 1 - [ajax lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
+* Lesson 2 - [classes](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-classes)
+* Lab 2 - [code bar](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-code-bar-ex/blob/master/README.md)
+
+HW - FINISH LABS!
+
+
+### ___Friday___ React LAB DAY!!!
+
+* [map earthquakes](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-geo-quakes)
+
+HW - [Python Functions](https://git.generalassemb.ly/WebDev-Connected-Classroom/python-func-lab/blob/master/README.md)
+
+PLEASE DO THE REACT TUTORIAL IF YOU HAVEN't ALREADY!
+___
 
 #### Week 7 - Project week
 
