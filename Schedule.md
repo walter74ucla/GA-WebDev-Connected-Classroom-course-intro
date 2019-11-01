@@ -33,7 +33,7 @@ ___
 
 * HW  - Finish LABS!
 
-#### __Tuesday__ 
+#### __Tuesday__ Lifting state, Python Review 
 
 * Lesson 1 - [Lifting State/Ternarys React](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-Lifting-State/blob/master/README.md)
 
@@ -44,7 +44,7 @@ ___
 * HW - Finish labs and READ [this](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 
 
-#### __Wednesday__ React Router, Start Projects
+#### __Wednesday__ React Forms, Advanced Python Lists
 
 * Lesson 1 - [React-forms](https://git.generalassemb.ly/WebDev-Connected-Classroom/forms-react-lesson/blob/master/README.md)
 * lab - [form-lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-form-lab/blob/master/README.md)
@@ -53,7 +53,7 @@ ___
 * HW - FINISH LABS!
 
 
-### __Thursday__ 
+### __Thursday__ AJAX, API's, Python Classes
 
 * Lesson 1 - [AJAXXXXX](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-ajax-crimes/blob/master/README.md)
 * Lab 1 - [ajax lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/React-ajax-lab-hw/blob/master/README.md)
