@@ -9,6 +9,9 @@ ___
 [express concepts slide DECK](https://presentations.generalassemb.ly/8505d860acbf64be9f2e367634e007a4#/)
 ___
 
+[React slide Deck](https://presentations.generalassemb.ly/6ac03c19729e0eef79eefddb97c71282)
+___
+
 #### week 12 - Capstone
 
 #### week 11 - Advanced lesssons, testings, and optional lessons, capstone
