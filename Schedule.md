@@ -12,6 +12,12 @@ ___
 [React slide Deck](https://presentations.generalassemb.ly/6ac03c19729e0eef79eefddb97c71282)
 ___
 
+[python slide deck](https://presentations.generalassemb.ly/d46c8eb9762a52e731e4a7437c36aea9)
+
+___
+
+
+
 #### week 12 - Capstone
 
 #### week 11 - Advanced lesssons, testings, and optional lessons, capstone
