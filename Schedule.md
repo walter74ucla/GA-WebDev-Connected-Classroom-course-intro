@@ -35,6 +35,8 @@ ___
 2.  [relations](https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1)
 3.  [Ruby relation read through excellent example on the theory of relations](https://guides.rubyonrails.org/association_basics.html)
 
+hw - [carmen san diego](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-carmen-san-diego-lab)
+
 #### __Wednesday__ - Intro Flask/index, and create route , communicate react app to flask with fetch in afternoon
 
 * Lesson 1 - [Intro Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/get-flask-react-api)
