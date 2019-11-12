@@ -35,7 +35,7 @@ ___
 2.  [relations](https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1)
 3.  [Ruby relation read through excellent example on the theory of relations](https://guides.rubyonrails.org/association_basics.html)
 
-#### __Wednesday__ Intro Flask/index, and create route , communicate react app to flask with fetch in afternoon
+#### __Wednesday__ - Intro Flask/index, and create route , communicate react app to flask with fetch in afternoon
 
 * Lesson 1 - [Intro Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/get-flask-react-api)
 
@@ -45,7 +45,7 @@ ___
 * HW - Finish lab
 
 
-#### __Thursday__ Setup flask edit, show, and delete route, Add the create request to react 
+#### __Thursday__ - Setup flask edit, show, and delete route, Add the create request to react 
 
 * Lesson 1 - [Flask edit, show, and delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-edit-delete-put-dogs-app/blob/master/README.md)
 * Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
@@ -54,7 +54,7 @@ ___
 * HW - FINISH LABS!
 
 
-### __Friday__ Setup Register/login Flask, Finish Edit/create register form react
+### __Friday__ - Setup Register/login Flask, Finish Edit/create register form react
 
 * Lesson 1 - [register/login flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api-user-profile)
 * Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
