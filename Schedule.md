@@ -26,6 +26,44 @@ ___
 
 #### week 9 - React & flask connecting them, API's
 
+#### __Tuesday__ - Sql day
+
+
+* Resources 
+
+1.  [psql](https://git.generalassemb.ly/WebDev-Connected-Classroom/psql-install-intro)
+2.  [relations](https://gist.git.generalassemb.ly/alexw/8580f95cd86156811d382ce7ee26d9d1)
+3.  [Ruby relation read through excellent example on the theory of relations](https://guides.rubyonrails.org/association_basics.html)
+
+#### __Wednesday__ Intro Flask/index, and create route , communicate react app to flask with fetch in afternoon
+
+* Lesson 1 - [Intro Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/get-flask-react-api)
+
+* Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
+
+* afternoon - [setup react client](https://git.generalassemb.ly/WebDev-Connected-Classroom/get-flask-react-api)
+* HW - Finish lab
+
+
+#### __Thursday__ Setup flask edit, show, and delete route, Add the create request to react 
+
+* Lesson 1 - [Flask edit, show, and delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-edit-delete-put-dogs-app/blob/master/README.md)
+* Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
+* Lesson 2 - [react/post/delete](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-flask-post-delete-dog-app/edit/master/README.md)
+* Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
+* HW - FINISH LABS!
+
+
+### __Friday__ Setup Register/login Flask, Finish Edit/create register form react
+
+* Lesson 1 - [register/login flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api-user-profile)
+* Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
+* Lesson 2 - [react-router/register route](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router)
+* Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
+
+HW - FINISH LABS!
+
+
 #### Week 8 - Intro To React / PYTHON
 
 #### __Monday__ - Intro React/ Python
