@@ -39,7 +39,7 @@ hw - [carmen san diego](https://git.generalassemb.ly/WebDev-Connected-Classroom/
 
 #### __Wednesday__ - Intro Flask/index, and create route , communicate react app to flask with fetch in afternoon
 
-* Lesson 1 - [Intro Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/get-flask-react-api)
+* Lesson 1 - [Intro Flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-intro-get-post/blob/master/README.md)
 
 * Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
 
