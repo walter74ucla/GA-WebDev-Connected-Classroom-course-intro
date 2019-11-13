@@ -58,7 +58,7 @@ hw - [carmen san diego](https://git.generalassemb.ly/WebDev-Connected-Classroom/
 
 ### __Friday__ - Setup Register/login Flask, Finish Edit/create register form react
 
-* Lesson 1 - [register/login flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-api-user-profile)
+* Lesson 1 - [register/login flask](https://git.generalassemb.ly/WebDev-Connected-Classroom/flask-dog-app-register-login/blob/master/README.md)
 * Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
 * Lesson 2 - [react-router/register route](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router)
 * Lab - [flask/react lab](https://git.generalassemb.ly/WebDev-Connected-Classroom/Flask-react-app-lab/blob/master/README.md)
