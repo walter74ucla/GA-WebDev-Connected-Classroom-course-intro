@@ -24,6 +24,21 @@ ___
 
 #### Week 10 - Project 3
 
+
+__Monday__  React Router
+
+* Lesson 1 - [React Router/Register](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md)
+
+*Start Project 3 due November 26*
+
+#### __Tuesday__ Project Day
+
+#### __Wednesday__ Project Day
+
+#### __Thursday__ Project Day
+
+### __Friday__ Project Day
+
 #### week 9 - React & flask connecting them, API's
 
 #### __Tuesday__ - Sql day
