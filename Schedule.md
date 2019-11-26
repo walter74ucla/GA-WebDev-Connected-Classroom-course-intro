@@ -20,12 +20,38 @@ ___
 
 #### week 12 - Capstone
 
-#### week 11 - Advanced lesssons, testings, and optional lessons, capstone
+#### week 11 - Advanced lesssons, testings, and optional lessons, Afternoons capstone
+
+#### __Monday__
+
+* Lesson 1 - [Testing API's with Mocha and Chai](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai)
+
+* after - capstone time
+
+#### __Tuesday__ 
+
+* Lesson 1 - [React Hooks!](https://git.generalassemb.ly/WebDev-Connected-Classroom/Testing-Mocha-Chai)
+
+* after - capstone time
+
+#### __Wednesday__
+
+* Lesson 1 - [Firebase (backend)](https://git.generalassemb.ly/WebDev-Connected-Classroom/Firebase-101)
+
+* after - capstone time
+
+#### __Thursday__
+
+* Lesson 1 - [React Storybook/component libraries](https://git.generalassemb.ly/dc-wdi-react-redux/react-component-library)
+
+* after - capstone time
+
+#### __Friday__ Project dady
 
 #### Week 10 - Project 3
 
 
-__Monday__  React Router
+#### __Monday__  React Router
 
 * Lesson 1 - [React Router/Register](https://git.generalassemb.ly/WebDev-Connected-Classroom/react-router/blob/master/README.md)
 
